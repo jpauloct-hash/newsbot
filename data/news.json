@@ -1,7 +1,44 @@
 {
-  "updated_at": "2026-04-12T02:17:02.174325+00:00",
-  "total": 5,
+  "updated_at": "2026-04-12T02:46:56.813223+00:00",
+  "total": 7,
   "items": [
+    {
+      "id": "eb759d4676c7f66f",
+      "title": "Carga tributária bruta do Governo Geral atinge 32,40% do PIB em 2025, mostra boletim do Tesouro Nacional - GOV.BR",
+      "summary": "A carga tributária bruta do Governo Geral atingiu 32,40% do PIB em 2025, conforme boletim divulgado pelo Tesouro Nacional. Este indicador reflete o total de arrecadação de tributos federais, estaduais e municipais em relação ao produto interno bruto brasileiro.",
+      "category": "Fiscal",
+      "relevance": "alta",
+      "keywords": [
+        "carga tributária",
+        "PIB 2025",
+        "Tesouro Nacional",
+        "Governo Geral",
+        "32,40%"
+      ],
+      "source_id": "receita",
+      "source_name": "Receita Federal",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUE1zd0c5N3NnemVucEhacEd5Y1ZhRW9qemNYUTBBcEhKZjBfMFdFaFpKTEZiNDNVNmtPUjd4YVFCX2d4NHdIcTBLX2NWT1RRNG9kYnhzd1hOaG83alhjMUJ5MGpCVDYzd1g1eFlzQ3lWZDJHN3FmblRmMm02X1dIaGprVjlDVXBUYnhsYVBlOE5ZLU03NWp6U1ltSXE1RzhzUjBMLURPZ1Zrcm5DbVdhQUJWckdkUXk0eU0xZFdvc05mZ0JwekF4TS0xUjhQWDA3WWVTWDQ5R3c1MTBNYi1zSVE0bzF2dE5raDV6V0l4X2xXRUd3UUJF?oc=5",
+      "published_at": "2026-04-10T17:35:00+00:00",
+      "collected_at": "2026-04-12T02:46:51.567042+00:00"
+    },
+    {
+      "id": "b18ede42fa1abf5d",
+      "title": "Receita Federal oferece ajuda gratuita para declaração do imposto de renda - R7",
+      "summary": "A Receita Federal disponibiliza assistência gratuita para contribuintes na elaboração da declaração do imposto de renda, visando facilitar o cumprimento da obrigação fiscal. A iniciativa oferece suporte técnico sem custos adicionais aos declarantes.",
+      "category": "Fiscal",
+      "relevance": "média",
+      "keywords": [
+        "Receita Federal",
+        "imposto de renda",
+        "declaração",
+        "assistência gratuita"
+      ],
+      "source_id": "receita",
+      "source_name": "Receita Federal",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcThBVUVaUk9VYzZIUlJNa2pOR2NBS2VtOWxPay1rbk1Sd1QzNDdHNXYzSF95M1NyaVdkOXZOZS1hYXhVeVFYb2FPVXNrVzQ1WVMyaEo0eHQzV01YSVFSV0V6MzRTRVU4bDZKMGtqWk1kY3hSc2NyLWp1OU5zYkdGYnQ5UjVMNGZrTy1pR2FIeldkTHAxaDBKOGNWRExyMUlxdGtNMzZBTjhuZWFZcWtfazROVXVtLWJEbzhaa3d2X0tnSHRTY3VDb3c1c212dw?oc=5",
+      "published_at": "2026-04-11T20:40:58+00:00",
+      "collected_at": "2026-04-12T02:46:49.538820+00:00"
+    },
     {
       "id": "1663d78061a70158",
       "title": "Imposto de Renda 2026: guia final para declarar sem erros e evitar problemas com a Receita Federal - Contadores.cnt.br",
