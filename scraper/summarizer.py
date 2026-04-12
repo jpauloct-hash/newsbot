@@ -33,15 +33,6 @@ Retorne SOMENTE um JSON válido, sem texto antes ou depois, sem markdown:
 def summarize(title: str, content: str, source_name: str, retries: int = 3) -> dict | None:
     """
     Envia uma notícia para o Claude e retorna o resumo estruturado.
-
-    Args:
-        title: Título da notícia
-        content: Texto/descrição da notícia
-        source_name: Nome da fonte (para contexto)
-        retries: Número de tentativas em caso de falha
-
-    Returns:
-        dict com resumo, categoria, relevância e keywords — ou None em caso de erro
     """
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
@@ -68,10 +59,21 @@ Analise esta notícia e retorne o JSON estruturado conforme as instruções."""
 
             # Remove markdown ```json
             if raw.startswith("```"):
-                raw = raw.split("```")[1]
+                parts = raw.split("```")
+                if len(parts) > 1:
+                    raw = parts[1]
                 if raw.startswith("json"):
                     raw = raw[4:]
                 raw = raw.strip()
+
+            # 🔒 Tentativa extra de limpar lixo fora do JSON
+            if raw.startswith("{") and raw.endswith("}"):
+                pass
+            else:
+                start = raw.find("{")
+                end = raw.rfind("}")
+                if start != -1 and end != -1:
+                    raw = raw[start:end + 1]
 
             result = json.loads(raw)
 
@@ -106,8 +108,8 @@ def estimate_cost(num_articles: int) -> dict:
     output_cost = (num_articles * 100 / 1_000_000) * 1.25
     total = input_cost + output_cost
 
-        return {
+    return {
         "articles": num_articles,
         "estimated_usd": round(total, 4),
         "estimated_brl": round(total * 5.0, 3),
-    }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               }
+    }
