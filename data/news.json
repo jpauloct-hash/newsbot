@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-04-12T17:37:36.122078+00:00",
-  "total": 11,
+  "updated_at": "2026-04-12T18:54:09.151970+00:00",
+  "total": 12,
   "items": [
+    {
+      "id": "026e18f249042f20",
+      "title": "Imposto de Renda: Receita Federal recebeu 10 milhões de declarações em tempo recorde - Extra online",
+      "summary": "A Receita Federal recebeu 10 milhões de declarações de Imposto de Renda em tempo recorde, conforme comunicado oficial. O marco representa o cumprimento das obrigações fiscais dentro dos prazos estabelecidos pela autarquia. O dado evidencia o volume de arrecadação e processamento de declarações no período de apuração analisado.",
+      "category": "Fiscal",
+      "relevance": "média",
+      "keywords": [
+        "Receita Federal",
+        "Imposto de Renda",
+        "declarações",
+        "arrecadação"
+      ],
+      "source_id": "receita",
+      "source_name": "Receita Federal",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaFFUeHFIbnVCbWZKcFg1TEhDTUhnMTFvZkVidmdQb2JBajhTbndPXzVhVXdkWWt4Znlmd2tLaHBHUnZseVpfY29FVWtUaDZSb19keDJVaGdCWlFhQVQxWVpYMy1pTWVZYXh0Qzl5SDJWdEtEdFgzVDdabnRfaXNZelpnMENoaVh4UG5XTkd1N0Y1VUpjdFhXTU9ZZUlhYVVyejFmdk93ZlFMWHFtUzloQ1ZIVjI5WVFfdVhIN0NoSWNUSGl4c3hsOFpyMkJzZHdsdDNqWdIB4wFBVV95cUxOSnJ5YWFlQmxUUUZ0M2toNWxZTjIyRGp0SHQ2ZURSZ0tyTnBqSGFpd0tKREN1QVJ6UWUydmY3NmEwRWtWSHlRcEwyckZUUEhSdmlidG5BTE1xbmx1RHhiTkZnNVdDRmtGWGFLZGtCYWZUT29FdTR4cWNKRXdBUnFVdzFMcmhuWTlTWlFBQklGWUJuMkxfVjBycjJNOXlXUE1iRTBTRWJuZkxmOVAtdjltQjdmZ0F3ZHRIcG94Z0txX0h4SVZvM0FmSFNwektfb1NtdXFjdTRJck85ZTJ0emxoSnBtWQ?oc=5",
+      "published_at": "2026-04-10T15:49:14+00:00",
+      "collected_at": "2026-04-12T18:54:03.434733+00:00"
+    },
     {
       "id": "c965d81483f6e845",
       "title": "Receita Federal alerta para novo golpe digital envolvendo falsas pendências do IRPF - www.gov.br",
