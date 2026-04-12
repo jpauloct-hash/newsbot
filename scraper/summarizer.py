@@ -106,8 +106,8 @@ def estimate_cost(num_articles: int) -> dict:
     output_cost = (num_articles * 100 / 1_000_000) * 1.25
     total = input_cost + output_cost
 
-    return {
+        return {
         "articles": num_articles,
         "estimated_usd": round(total, 4),
         "estimated_brl": round(total * 5.0, 3),
-    }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        }
+    }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               }
