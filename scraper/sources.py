@@ -2,13 +2,6 @@ _GN = "https://news.google.com/rss/search?hl=pt-BR&gl=BR&ceid=BR:pt-419&q="
 
 SOURCES = [
     {
-        "id": "bcb",
-        "name": "Banco Central do Brasil",
-        "category": "Banco Central",
-        "icon": "🏦",
-        "rss_url": "https://www.bcb.gov.br/api/feed/sitemap/noticias.xml",
-    },
-    {
         "id": "tesouro",
         "name": "Tesouro Nacional",
         "category": "Fiscal",
@@ -28,27 +21,6 @@ SOURCES = [
         "category": "Fiscal",
         "icon": "📋",
         "rss_url": _GN + "Receita+Federal+arrecadacao+tributos",
-    },
-    {
-        "id": "camara",
-        "name": "Camara dos Deputados",
-        "category": "Legislativo",
-        "icon": "🏛️",
-        "rss_url": "https://www.camara.leg.br/noticias/rss/ultimas",
-    },
-    {
-        "id": "senado",
-        "name": "Senado Federal",
-        "category": "Legislativo",
-        "icon": "🏛️",
-        "rss_url": "https://www12.senado.leg.br/noticias/rss/ultimas",
-    },
-    {
-        "id": "stf",
-        "name": "STF",
-        "category": "Judiciario",
-        "icon": "⚖️",
-        "rss_url": "https://portal.stf.jus.br/servicos/rss/noticias.asp",
     },
     {
         "id": "cvm",
