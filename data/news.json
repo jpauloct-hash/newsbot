@@ -1,7 +1,45 @@
 {
-  "updated_at": "2026-04-12T11:35:48.904507+00:00",
-  "total": 9,
+  "updated_at": "2026-04-12T13:05:48.848274+00:00",
+  "total": 11,
   "items": [
+    {
+      "id": "c965d81483f6e845",
+      "title": "Receita Federal alerta para novo golpe digital envolvendo falsas pendências do IRPF - www.gov.br",
+      "summary": "A Receita Federal emitiu alerta sobre novo golpe digital que utiliza falsas pendências do Imposto de Renda Pessoa Física (IRPF) para enganar contribuintes. O esquema visa induzir vítimas a acessar links maliciosos ou fornecer dados pessoais sob a alegação de débitos inexistentes junto ao fisco.",
+      "category": "Regulatório",
+      "relevance": "média",
+      "keywords": [
+        "Receita Federal",
+        "IRPF",
+        "golpe digital",
+        "fraude",
+        "segurança"
+      ],
+      "source_id": "receita",
+      "source_name": "Receita Federal",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdVBXbXZrWXFBSlFic1R0a3IzLU9HRWdSSmlvN0RYWVp2U0tVakRzRWZOdXF0S0J6TlJFY0o5ZzF0U3E2RUxmTXZFX19VWmN6Z0RBMXozLUVKdGdTNmQ5bW95R3JqSWh1SUNUWDVGeFFBdUkwS1JPd2tVZk8wOGZ0eWppVWlfTGFiVHBmNlRWQVo0cUZLaUJrVEsxejh4bkdHbFgzaW5zVzVUcVpfVVBaR2JmcE5RQV80REVZVUFTUWhSdi16ZUtqTXdndUt6ZnRKejdoeVRZRVFSYUpJSTk4SkNTMHpRck0?oc=5",
+      "published_at": "2026-04-10T14:23:41+00:00",
+      "collected_at": "2026-04-12T13:05:43.834111+00:00"
+    },
+    {
+      "id": "7688e6d7591dc960",
+      "title": "Carga tributária bruta do Governo Geral atinge 32,40% do PIB em 2025, mostra boletim do Tesouro Nacional - www.gov.br",
+      "summary": "A carga tributária bruta do Governo Geral alcançou 32,40% do PIB em 2025, conforme divulgado pelo Tesouro Nacional em boletim oficial. Este indicador reflete o total de impostos, contribuições e taxas arrecadadas pelo governo em relação ao tamanho da economia brasileira.",
+      "category": "Fiscal",
+      "relevance": "alta",
+      "keywords": [
+        "carga tributária",
+        "PIB",
+        "Tesouro Nacional",
+        "arrecadação fiscal",
+        "Governo Geral"
+      ],
+      "source_id": "receita",
+      "source_name": "Receita Federal",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUE1zd0c5N3NnemVucEhacEd5Y1ZhRW9qemNYUTBBcEhKZjBfMFdFaFpKTEZiNDNVNmtPUjd4YVFCX2d4NHdIcTBLX2NWT1RRNG9kYnhzd1hOaG83alhjMUJ5MGpCVDYzd1g1eFlzQ3lWZDJHN3FmblRmMm02X1dIaGprVjlDVXBUYnhsYVBlOE5ZLU03NWp6U1ltSXE1RzhzUjBMLURPZ1Zrcm5DbVdhQUJWckdkUXk0eU0xZFdvc05mZ0JwekF4TS0xUjhQWDA3WWVTWDQ5R3c1MTBNYi1zSVE0bzF2dE5raDV6V0l4X2xXRUd3UUJF?oc=5",
+      "published_at": "2026-04-10T17:35:00+00:00",
+      "collected_at": "2026-04-12T13:05:40.340612+00:00"
+    },
     {
       "id": "1169ef492070cddf",
       "title": "Copasa corre para destravar privatização na próxima semana | Abril 2026 - XP Investimentos",
