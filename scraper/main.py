@@ -195,9 +195,8 @@ def export_rss(conn):
         ET.SubElement(item, "guid").text = row["id"]
     tree = ET.ElementTree(rss)
     ET.indent(tree, space="  ")
-    with open(RSS_PATH, "wb") as f:
-        f.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
-        tree.write(f, encoding="unicode", xml_declaration=False)
+    with open(RSS_PATH, "w", encoding="utf-8") as f:
+    tree.write(f, encoding="unicode", xml_declaration=True)
     logger.info(f"Exportado: {RSS_PATH} ({len(rows)} itens)")
 
 
