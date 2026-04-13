@@ -1,7 +1,63 @@
 {
-  "updated_at": "2026-04-13T18:04:34.802468+00:00",
-  "total": 14,
+  "updated_at": "2026-04-13T20:07:40.947740+00:00",
+  "total": 17,
   "items": [
+    {
+      "id": "ad760d0737524379",
+      "title": "Oncoclínicas pede hoje proteção na Justiça contra credores | Abril 2026 - XP Investimentos",
+      "summary": "A Oncoclínicas apresentou pedido de proteção judicial contra credores em abril de 2026, conforme reportado pela XP Investimentos. A ação representa medida defensiva da empresa frente a obrigações financeiras com terceiros. O procedimento busca reorganizar a situação de passivo da companhia perante o Poder Judiciário.",
+      "category": "Judiciário",
+      "relevance": "média",
+      "keywords": [
+        "Oncoclínicas",
+        "proteção judicial",
+        "credores",
+        "insolvência",
+        "recuperação"
+      ],
+      "source_id": "vale",
+      "source_name": "Vale (VALE3)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRDU1eHJ1Smp4bGVxdm5feWxrdGtZM3F2SXFuLVVVemJZNmVVTi0zYzhRajJCampBa3B6Y2VnZ0txR3Z5NXc3dVNhdkl6N3BJSmZxTXpKRk1pX29UY21iSS0tSUw1TTlURXZxRldVeXdkRE9XUWVGUUVqYS05NGFsUE92QlZNVGt1UEVFWXVXZlZjZlZh?oc=5",
+      "published_at": "2026-04-13T17:47:30+00:00",
+      "collected_at": "2026-04-13T20:07:37.055728+00:00"
+    },
+    {
+      "id": "33d06c3e853074ee",
+      "title": "Receita Federal alerta para golpe com Imposto de Renda - SCC10",
+      "summary": "A Receita Federal emitiu alerta sobre golpes relacionados ao Imposto de Renda, utilizando o código SCC10 para identificar essa modalidade de fraude. O comunicado visa orientar contribuintes sobre esquemas fraudulentos que exploram dados e processos da declaração do IR para enganar cidadãos.",
+      "category": "Regulatório",
+      "relevance": "alta",
+      "keywords": [
+        "Receita Federal",
+        "Imposto de Renda",
+        "golpe",
+        "fraude",
+        "SCC10"
+      ],
+      "source_id": "receita",
+      "source_name": "Receita Federal",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObFBQa3pCRkowcGgyRlJPanRzRHlnN2FpRGpKNUxtc1VWemMtbWRHTHgzUTZaMFBGRF9DZm5JQ0k5dy02Nk9sOXpNSHBmVUMtdjJ6OXFwb05LWWlTOFFsWlVOTmxSRHNBN0JJUXNLVFlOUFlfdTVfaWkzQW1ORVRGZnVfNXpGVVVSRTdXWFRCaGRhXzUyWVRfUW1idlo?oc=5",
+      "published_at": "2026-04-13T19:10:32+00:00",
+      "collected_at": "2026-04-13T20:07:30.663256+00:00"
+    },
+    {
+      "id": "da9a065baac37893",
+      "title": "Do Napoleão ao leão da Receita: como o Imposto de Renda nasceu em 1922, virou maior arrecadação em 1979, chegou ao disquete e hoje rende R$ 2,88 tri no Brasil - CPG Click Petróleo e Gás",
+      "summary": "O Imposto de Renda foi criado no Brasil em 1922 e tornou-se a maior arrecadação federal em 1979, evoluindo tecnologicamente ao longo das décadas. Atualmente, o tributo gera R$ 2,88 trilhões em arrecadação, consolidando-se como principal instrumento de receita do governo brasileiro.",
+      "category": "Fiscal",
+      "relevance": "média",
+      "keywords": [
+        "Imposto de Renda",
+        "arrecadação",
+        "R$ 2,88 trilhões",
+        "receita federal"
+      ],
+      "source_id": "receita",
+      "source_name": "Receita Federal",
+      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNU05OSDVEeG9GN3RnLWM1MUNveGFoeGRkS3RHSGhBcDNfWnd4N184Q3p6QVhiVVBFR04tMWptZElFYWNUWVFFZjJUbGRuYjd2S2J4UzRjTmpXTG5xRUZBQ3FQODlrWEkxTGpWazZPLVI0ZFA5WkNkZHp1eWVxd0ZlT1VVem5JenQ1TFdmUko3amJnek16UTJVeE0wcjk3ekVrRmZMZGV1dWdDeGlvQ016eWZLTnRwNWhsQjJGUlBEbmY1M0U0VVpPQXNDVy0zNkJiYkFWWTZiSy1NYmNxU0d5M2pCZ0tYbDhBWnVYVFItUmhwMEM0ekpqblN3VXJ6dWQzY3pIRUpJc0g1V2ctNTk0SEVTUjJaNEIyVHN1THFOWWdkSnoyWG1CQ0pvWkU4d3NwT2VvTHJDalhpZ1RvdGtHY1JJSDdsVkpiTDVwRTdJRXVSYm9RNmtTNjZfaEx4MHJqN2hIY0dYVU01Q2Q2ZEVvNFByUUZBNXp6Sk9iY1lfa2RfaUE?oc=5",
+      "published_at": "2026-04-13T18:24:00+00:00",
+      "collected_at": "2026-04-13T20:07:28.504775+00:00"
+    },
     {
       "id": "fa884c23d3a5a80d",
       "title": "Receita Federal apresenta resultados da fiscalização em 2025 e planejamento para 2026 - GOV.BR",
