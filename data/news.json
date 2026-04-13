@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-04-13T21:52:56.353759+00:00",
-  "total": 18,
+  "updated_at": "2026-04-13T22:45:58.019375+00:00",
+  "total": 19,
   "items": [
+    {
+      "id": "6a07303c9539ebfd",
+      "title": "Receita Federal realiza quinta live do Imposto de Renda com o tema Revar, funcionamento prático - GOV.BR",
+      "summary": "A Receita Federal realizou a quinta transmissão ao vivo sobre Imposto de Renda, focando no tema Revar (Programa de Regularização de Débitos) com abordagem prática de funcionamento. A iniciativa faz parte de uma série educativa da Receita Federal sobre temas relacionados à declaração e regularização fiscal.",
+      "category": "Fiscal",
+      "relevance": "média",
+      "keywords": [
+        "Receita Federal",
+        "Imposto de Renda",
+        "Revar",
+        "Regularização Fiscal"
+      ],
+      "source_id": "receita",
+      "source_name": "Receita Federal",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSmFnYnU0cGxNanFwQ2xHNnFrb1NFUEdyaU1NX21aTzhvZjUyUkFHdUNoNlQxZHBHR0lhUlBNbFRud3JWUTBpWFFrQUNzM1F1RGRxM25GRng1Vmd4bEZOTG1uRmsxNUE5Y1FZY3g3WEFYYzBadURkS2R2LXh5Q2w3SVZhMEJIbkhkYmtmdWdvNjlyMHhJclZuVTVEbEtSdjVkRWgwcEhuTlhxWklqQ2JlSWhKNS1iY2FXTkdSZm1ydmw2Tm9lN1hvSWFkS3hKZTFZd3FlTVowVmthQ2k0MzNoMHVOR1BPbE04cnhrWHowNA?oc=5",
+      "published_at": "2026-04-13T21:50:39+00:00",
+      "collected_at": "2026-04-13T22:45:50.873838+00:00"
+    },
     {
       "id": "e714e0f35632724b",
       "title": "Bagé deixa de arrecadar milhões com destinação do Imposto de Renda, aponta Receita Federal - Jornal Minuano",
