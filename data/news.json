@@ -1,7 +1,43 @@
 {
-  "updated_at": "2026-04-13T22:45:58.019375+00:00",
-  "total": 19,
+  "updated_at": "2026-04-13T23:44:27.787147+00:00",
+  "total": 21,
   "items": [
+    {
+      "id": "7852fde130378ca4",
+      "title": "Receita Federal apresenta resultados da fiscalização em 2025 e planejamento para 2026 - www.gov.br",
+      "summary": "A Receita Federal divulgou os resultados de suas operações fiscalizatórias realizadas ao longo de 2025, apresentando métricas de arrecadação, conformidade tributária e principais ações de fiscalização executadas. O órgão também apresentou seu planejamento estratégico para 2026, que deve orientar as prioridades de fiscalização e modernização dos processos de arrecadação no próximo período.",
+      "category": "Fiscal",
+      "relevance": "alta",
+      "keywords": [
+        "Receita Federal",
+        "fiscalização",
+        "arrecadação",
+        "2025",
+        "planejamento 2026"
+      ],
+      "source_id": "receita",
+      "source_name": "Receita Federal",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVXVZcU1mdHM2Zl9sTVVCZDdXWXUyaVZRRF9jdEZJNHl3TVNyb2lCV05YelE3aDNqdmItZlkxMS1WelVWVGJ6LUNhZGtQa3Q5b29scDd0TkN1eU5ySGVyek9FQ0RmOURIQm40VjlRVHNOUWxSamZjWkFaOWoxQ19rSkl2TzlwbE9nckNzckJMa25vbGJTc2NXeV8tSmREU0VJalYzMVB1Vk5OcnVoN1l3NXVBWEFsTnl3dFNOQlRJMjBuVEE3ZTg3MkhGRXYyZDhCTDhMODlVSG53cDRLQTB1ZnFDbWdpMmRIdFE?oc=5",
+      "published_at": "2026-04-13T11:16:07+00:00",
+      "collected_at": "2026-04-13T23:44:20.648048+00:00"
+    },
+    {
+      "id": "1deadf28960a20a9",
+      "title": "Receita Federal realiza quinta live do Imposto de Renda com o tema Revar, funcionamento prático - www.gov.br",
+      "summary": "A Receita Federal realizou a quinta transmissão ao vivo sobre Imposto de Renda, com foco na orientação sobre o Revar (Regime Especial de Regularização de Ativos) e seu funcionamento prático. A iniciativa faz parte do calendário de esclarecimentos da Receita Federal para contribuintes durante o período de declaração do IRPF.",
+      "category": "Fiscal",
+      "relevance": "média",
+      "keywords": [
+        "Receita Federal",
+        "Imposto de Renda",
+        "Revar"
+      ],
+      "source_id": "receita",
+      "source_name": "Receita Federal",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSmFnYnU0cGxNanFwQ2xHNnFrb1NFUEdyaU1NX21aTzhvZjUyUkFHdUNoNlQxZHBHR0lhUlBNbFRud3JWUTBpWFFrQUNzM1F1RGRxM25GRng1Vmd4bEZOTG1uRmsxNUE5Y1FZY3g3WEFYYzBadURkS2R2LXh5Q2w3SVZhMEJIbkhkYmtmdWdvNjlyMHhJclZuVTVEbEtSdjVkRWgwcEhuTlhxWklqQ2JlSWhKNS1iY2FXTkdSZm1ydmw2Tm9lN1hvSWFkS3hKZTFZd3FlTVowVmthQ2k0MzNoMHVOR1BPbE04cnhrWHowNA?oc=5",
+      "published_at": "2026-04-13T21:50:39+00:00",
+      "collected_at": "2026-04-13T23:44:18.342824+00:00"
+    },
     {
       "id": "6a07303c9539ebfd",
       "title": "Receita Federal realiza quinta live do Imposto de Renda com o tema Revar, funcionamento prático - GOV.BR",
