@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-04-13T12:05:04.165007+00:00",
-  "total": 13,
+  "updated_at": "2026-04-13T14:51:19.773963+00:00",
+  "total": 14,
   "items": [
+    {
+      "id": "fa884c23d3a5a80d",
+      "title": "Receita Federal apresenta resultados da fiscalização em 2025 e planejamento para 2026 - GOV.BR",
+      "summary": "A Receita Federal divulgou os resultados de suas operações de fiscalização em 2025 e apresentou o planejamento para 2026. A notícia refere-se ao relatório oficial de atividades da autarquia, incluindo métricas de arrecadação, autuações e ações de combate à evasão fiscal. Os dados específicos de desempenho e metas futuras constam no comunicado oficial do órgão.",
+      "category": "Fiscal",
+      "relevance": "média",
+      "keywords": [
+        "Receita Federal",
+        "fiscalização",
+        "arrecadação",
+        "2025",
+        "2026"
+      ],
+      "source_id": "receita",
+      "source_name": "Receita Federal",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVXVZcU1mdHM2Zl9sTVVCZDdXWXUyaVZRRF9jdEZJNHl3TVNyb2lCV05YelE3aDNqdmItZlkxMS1WelVWVGJ6LUNhZGtQa3Q5b29scDd0TkN1eU5ySGVyek9FQ0RmOURIQm40VjlRVHNOUWxSamZjWkFaOWoxQ19rSkl2TzlwbE9nckNzckJMa25vbGJTc2NXeV8tSmREU0VJalYzMVB1Vk5OcnVoN1l3NXVBWEFsTnl3dFNOQlRJMjBuVEE3ZTg3MkhGRXYyZDhCTDhMODlVSG53cDRLQTB1ZnFDbWdpMmRIdFE?oc=5",
+      "published_at": "2026-04-13T11:16:07+00:00",
+      "collected_at": "2026-04-13T14:51:13.623563+00:00"
+    },
     {
       "id": "032f1ff968fd8f01",
       "title": "Nesta terça tem orientação gratuita sobre Imposto de Renda na Receita Federal - Midiamax",
