@@ -1,8 +1,3 @@
-"""
-Módulo de resumo usando a API do Claude.
-Envia o texto da notícia e recebe um resumo estruturado em JSON.
-"""
-
 import os
 import json
 import time
@@ -11,105 +6,92 @@ import anthropic
 
 logger = logging.getLogger(__name__)
 
-SYSTEM_PROMPT = """Você é um analista financeiro sênior especializado no mercado brasileiro.
-Sua tarefa é analisar notícias e criar resumos imparciais e objetivos.
+SYSTEM_PROMPT = """Voce e um analista financeiro senior especializado no mercado brasileiro.
+Sua tarefa e analisar noticias e criar resumos imparciais e objetivos.
 
-Regras obrigatórias:
-- Seja 100% factual — sem opinião, sem viés, sem especulação
-- Use linguagem técnica mas acessível
-- Foque em números, datas e impactos concretos quando disponíveis
+Regras obrigatorias:
+- Seja 100% factual, sem opiniao, sem vies, sem especulacao
+- Use linguagem tecnica mas acessivel
+- Foque em numeros, datas e impactos concretos quando disponiveis
 - O resumo deve ter entre 2 e 4 frases completas
 
-Retorne SOMENTE um JSON válido, sem texto antes ou depois, sem markdown:
+Retorne SOMENTE um JSON valido, sem texto antes ou depois, sem markdown:
 {
   "resumo": "Resumo imparcial de 2-4 frases.",
-    "categoria": "UMA das opções: Política Monetária | Resultado Financeiro | Regulatório | Fiscal | Operacional | Internacional | Mercado de Capitais | ESG | Legislativo | Judiciário",
-      "relevancia": "alta | média | baixa",
-        "keywords": ["palavra1", "palavra2", "palavra3"]
-        }
-        """
-        
-        
-        def summarize(title: str, content: str, source_name: str, retries: int = 3) -> dict | None:
-            """
-                Envia uma notícia para o Claude e retorna o resumo estruturado.
-                    """
-                        api_key = os.environ.get("ANTHROPIC_API_KEY")
-                            if not api_key:
-                                    raise EnvironmentError("ANTHROPIC_API_KEY não encontrada nas variáveis de ambiente.")
-                                    
-                                        client = anthropic.Anthropic(api_key=api_key)
-                                        
-                                            user_message = f"""Fonte: {source_name}
-                                            Título: {title}
-                                            Conteúdo: {content[:2000]}
-                                            
-                                            Analise esta notícia e retorne o JSON estruturado conforme as instruções."""
-                                            
-                                                for attempt in range(retries):
-                                                        try:
-                                                                    response = client.messages.create(
-                                                                                    model="claude-haiku-4-5-20251001",
-                                                                                                    max_tokens=400,
-                                                                                                                    system=SYSTEM_PROMPT,
-                                                                                                                                    messages=[{"role": "user", "content": user_message}],
-                                                                                                                                                )
-                                                                                                                                                
-                                                                                                                                                            raw = response.content[0].text.strip()
-                                                                                                                                                            
-                                                                                                                                                                        # Remove markdown ```json
-                                                                                                                                                                                    if raw.startswith("```"):
-                                                                                                                                                                                                    parts = raw.split("```")
-                                                                                                                                                                                                                    if len(parts) > 1:
-                                                                                                                                                                                                                                        raw = parts[1]
-                                                                                                                                                                                                                                                        if raw.startswith("json"):
-                                                                                                                                                                                                                                                                            raw = raw[4:]
-                                                                                                                                                                                                                                                                                            raw = raw.strip()
-                                                                                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                                                                                        # 🔒 Tentativa extra de limpar lixo fora do JSON
-                                                                                                                                                                                                                                                                                                                    if raw.startswith("{") and raw.endswith("}"):
-                                                                                                                                                                                                                                                                                                                                    pass
-                                                                                                                                                                                                                                                                                                                                                else:
-                                                                                                                                                                                                                                                                                                                                                                start = raw.find("{")
-                                                                                                                                                                                                                                                                                                                                                                                end = raw.rfind("}")
-                                                                                                                                                                                                                                                                                                                                                                                                if start != -1 and end != -1:
-                                                                                                                                                                                                                                                                                                                                                                                                                    raw = raw[start:end + 1]
-                                                                                                                                                                                                                                                                                                                                                                                                                    
-                                                                                                                                                                                                                                                                                                                                                                                                                                result = json.loads(raw)
-                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                            # Validação
-                                                                                                                                                                                                                                                                                                                                                                                                                                                        required = {"resumo", "categoria", "relevancia", "keywords"}
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                    if not required.issubset(result.keys()):
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    raise ValueError(f"JSON incompleto: {result}")
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                return result
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        except json.JSONDecodeError as e:
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    logger.warning(f"JSON inválido na tentativa {attempt + 1}: {e}")
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            except anthropic.RateLimitError:
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        wait = 2 ** attempt * 5
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    logger.warning(f"Rate limit atingido. Aguardando {wait}s...")
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                time.sleep(wait)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        except Exception as e:
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    logger.error(f"Erro na tentativa {attempt + 1}: {e}")
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                if attempt < retries - 1:
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                time.sleep(2)
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    return None
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    def estimate_cost(num_articles: int) -> dict:
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        """
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            Estima o custo aproximado de uma execução.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                """
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    input_cost = (num_articles * 500 / 1_000_000) * 0.25
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        output_cost = (num_articles * 100 / 1_000_000) * 1.25
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            total = input_cost + output_cost
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                return {
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        "articles": num_articles,
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                "estimated_usd": round(total, 4),
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        "estimated_brl": round(total * 5.0, 3),
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            }"""
+  "categoria": "UMA das opcoes: Politica Monetaria | Resultado Financeiro | Regulatorio | Fiscal | Operacional | Internacional | Mercado de Capitais | ESG | Legislativo | Judiciario",
+  "relevancia": "alta | media | baixa",
+  "keywords": ["palavra1", "palavra2", "palavra3"]
+}"""
+
+
+def summarize(title, content, source_name, retries=3):
+    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    if not api_key:
+        raise EnvironmentError("ANTHROPIC_API_KEY nao encontrada.")
+
+    client = anthropic.Anthropic(api_key=api_key)
+
+    user_message = f"""Fonte: {source_name}
+Titulo: {title}
+Conteudo: {content[:2000]}
+
+Analise esta noticia e retorne o JSON estruturado conforme as instrucoes."""
+
+    for attempt in range(retries):
+        try:
+            response = client.messages.create(
+                model="claude-haiku-4-5-20251001",
+                max_tokens=400,
+                system=SYSTEM_PROMPT,
+                messages=[{"role": "user", "content": user_message}],
+            )
+
+            raw = response.content[0].text.strip()
+
+            if raw.startswith("```"):
+                parts = raw.split("```")
+                if len(parts) > 1:
+                    raw = parts[1]
+                if raw.startswith("json"):
+                    raw = raw[4:]
+                raw = raw.strip()
+
+            if not (raw.startswith("{") and raw.endswith("}")):
+                start = raw.find("{")
+                end = raw.rfind("}")
+                if start != -1 and end != -1:
+                    raw = raw[start:end + 1]
+
+            result = json.loads(raw)
+
+            required = {"resumo", "categoria", "relevancia", "keywords"}
+            if not required.issubset(result.keys()):
+                raise ValueError(f"JSON incompleto: {result}")
+
+            return result
+
+        except json.JSONDecodeError as e:
+            logger.warning(f"JSON invalido na tentativa {attempt + 1}: {e}")
+
+        except anthropic.RateLimitError:
+            wait = 2 ** attempt * 5
+            logger.warning(f"Rate limit. Aguardando {wait}s...")
+            time.sleep(wait)
+
+        except Exception as e:
+            logger.error(f"Erro na tentativa {attempt + 1}: {e}")
+            if attempt < retries - 1:
+                time.sleep(2)
+
+    return None
+
+
+def estimate_cost(num_articles):
+    input_cost = (num_articles * 500 / 1_000_000) * 0.25
+    output_cost = (num_articles * 100 / 1_000_000) * 1.25
+    total = input_cost + output_cost
+    return {
+        "articles": num_articles,
+        "estimated_usd": round(total, 4),
+        "estimated_brl": round(total * 5.0, 3),
+    }
