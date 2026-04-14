@@ -1,7 +1,25 @@
 {
-  "updated_at": "2026-04-14T02:44:27.399286+00:00",
-  "total": 22,
+  "updated_at": "2026-04-14T05:26:24.500567+00:00",
+  "total": 23,
   "items": [
+    {
+      "id": "fded44677274fb11",
+      "title": "Receita Federal alerta para golpes digitais com falsas mensagens sobre Imposto de Renda - TV Sorocaba",
+      "summary": "A Receita Federal emitiu alerta sobre golpes digitais que utilizam falsas mensagens relacionadas ao Imposto de Renda para enganar contribuintes. A autarquia orienta a população a desconfiar de comunicações não oficiais e acessar apenas canais autorizados para informações sobre declarações fiscais.",
+      "category": "Regulatório",
+      "relevance": "alta",
+      "keywords": [
+        "Receita Federal",
+        "golpes digitais",
+        "Imposto de Renda",
+        "segurança"
+      ],
+      "source_id": "receita",
+      "source_name": "Receita Federal",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONW9mYlExX3lKNGxQX0I1OHBScEhFNVd3YmY4YWJ0V2lWajlRcFctR042alhTSGI3dThqWnpERkdoMXNMNWhFUU9ZZmlqVjdqOUZfQjhyZWZMb1Z0cGoxcHh5MkxqczYtS21aSERZam0zZF90SktROVdLZEtzWlJ5TU8wMVM1dkI3NTh4cEFCX3d3Nkh1c3JGbVB2Mk9TRHJxTGwtRDhfcVhMTjcyQXNxeDgwSE9JUHhOaEE?oc=5",
+      "published_at": "2026-04-13T22:57:46+00:00",
+      "collected_at": "2026-04-14T05:26:18.004903+00:00"
+    },
     {
       "id": "c3951270daa87015",
       "title": "Do Napoleão ao leão da Receita: como o Imposto de Renda nasceu em 1922, virou maior arrecadação em 1979, chegou ao disquete e hoje rende R$ 2,88 tri no Brasil - CPG Click Petróleo e Gás",
