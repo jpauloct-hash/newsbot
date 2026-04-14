@@ -1,112 +1,63 @@
-_GN = "https://news.google.com/rss/search?hl=pt-BR&gl=BR&ceid=BR:pt-419&q="
+# Fontes primárias oficiais — sem Google News
+# Apenas RSS direto de sites institucionais
 
 SOURCES = [
+    # ──────────────────────────────────────────────
+    # BANCO CENTRAL DO BRASIL — RSS oficial
+    # ──────────────────────────────────────────────
     {
-        "id": "tesouro",
-        "name": "Tesouro Nacional",
-        "category": "Fiscal",
-        "icon": "🏛️",
-        "rss_url": _GN + "Tesouro+Nacional+resultado+fiscal+divida",
+        "id": "bcb_noticias",
+        "name": "Banco Central — Noticias",
+        "category": "Banco Central",
+        "rss_url": "https://www.bcb.gov.br/api/feed/sitemap/noticias.xml",
     },
     {
-        "id": "fazenda",
-        "name": "Ministerio da Fazenda",
-        "category": "Fiscal",
-        "icon": "📊",
-        "rss_url": _GN + "Ministerio+da+Fazenda+economia+fiscal",
+        "id": "bcb_notas",
+        "name": "Banco Central — Notas",
+        "category": "Banco Central",
+        "rss_url": "https://www.bcb.gov.br/api/feed/sitemap/notas.xml",
     },
     {
-        "id": "receita",
-        "name": "Receita Federal",
-        "category": "Fiscal",
-        "icon": "📋",
-        "rss_url": _GN + "Receita+Federal+arrecadacao+tributos",
+        "id": "bcb_pronunciamentos",
+        "name": "Banco Central — Pronunciamentos",
+        "category": "Banco Central",
+        "rss_url": "https://www.bcb.gov.br/api/feed/sitemap/pronunciamentos.xml",
+    },
+
+    # ──────────────────────────────────────────────
+    # IBGE — Agencia de Noticias (RSS por editoria)
+    # ──────────────────────────────────────────────
+    {
+        "id": "ibge_economicas",
+        "name": "IBGE — Economicas",
+        "category": "Indicadores",
+        "rss_url": "https://agenciadenoticias.ibge.gov.br/agencia-rss/2207-agencia-de-noticias/rss.xml",
     },
     {
-        "id": "cvm",
-        "name": "CVM",
-        "category": "Regulatorio",
-        "icon": "📜",
-        "rss_url": _GN + "CVM+comissao+valores+mobiliarios+instrucao",
-    },
-    {
-        "id": "anbima",
-        "name": "ANBIMA",
-        "category": "Regulatorio",
-        "icon": "📐",
-        "rss_url": _GN + "ANBIMA+mercado+capitais+regulamento",
-    },
-    {
-        "id": "b3",
-        "name": "B3",
-        "category": "Bolsa",
-        "icon": "📈",
-        "rss_url": _GN + "B3+bolsa+valores+comunicado+regulatorio",
-    },
-    {
-        "id": "vale",
-        "name": "Vale (VALE3)",
-        "category": "Mineracao",
-        "icon": "⛏️",
-        "rss_url": _GN + "Vale+S.A.+resultado+fato+relevante",
-    },
-    {
-        "id": "petrobras",
-        "name": "Petrobras (PETR4)",
-        "category": "Energia",
-        "icon": "🛢️",
-        "rss_url": _GN + "Petrobras+resultado+fato+relevante",
-    },
-    {
-        "id": "itau",
-        "name": "Itau Unibanco (ITUB4)",
-        "category": "Financeiro",
-        "icon": "🏦",
-        "rss_url": _GN + "Itau+Unibanco+resultado+trimestral",
-    },
-    {
-        "id": "bradesco",
-        "name": "Bradesco (BBDC4)",
-        "category": "Financeiro",
-        "icon": "🏦",
-        "rss_url": _GN + "Bradesco+resultado+trimestral+fato+relevante",
-    },
-    {
-        "id": "ambev",
-        "name": "Ambev (ABEV3)",
-        "category": "Consumo",
-        "icon": "🍺",
-        "rss_url": _GN + "Ambev+resultado+trimestral+fato+relevante",
-    },
-    {
-        "id": "suzano",
-        "name": "Suzano (SUZB3)",
-        "category": "Papel e Celulose",
-        "icon": "🌲",
-        "rss_url": _GN + "Suzano+papel+celulose+resultado",
-    },
-    {
-        "id": "klabin",
-        "name": "Klabin (KLBN11)",
-        "category": "Papel e Celulose",
-        "icon": "📦",
-        "rss_url": _GN + "Klabin+resultado+trimestral+fato+relevante",
-    },
-    {
-        "id": "bb",
-        "name": "Banco do Brasil (BBAS3)",
-        "category": "Financeiro",
-        "icon": "🏦",
-        "rss_url": _GN + "Banco+do+Brasil+resultado+trimestral",
+        "id": "ibge_releases",
+        "name": "IBGE — Releases",
+        "category": "Indicadores",
+        "rss_url": "https://agenciadenoticias.ibge.gov.br/agencia-rss/94-agencia-sala-de-imprensa/rss.xml",
     },
 ]
 
+# Palavras-chave para filtro pre-IA
 RELEVANCE_KEYWORDS = [
-    "resultado", "lucro", "prejuizo", "receita", "ebitda", "dividendo",
-    "juro", "selic", "inflacao", "ipca", "pib", "cambio", "dolar",
-    "fato relevante", "ipo", "emissao", "debenture",
-    "taxa", "fiscal", "divida", "arrecadacao", "superavit", "deficit",
-    "earnings", "revenue", "profit", "loss", "guidance", "rating",
-    "producao", "exportacao", "operacao", "capex", "investimento",
-    "regulacao", "instrucao", "deliberacao", "resolucao", "portaria",
-]       
+    # macro
+    "selic", "ipca", "pib", "inflacao", "juro", "taxa",
+    "copom", "politica monetaria", "cambio", "dolar", "reservas",
+    # fiscal
+    "fiscal", "divida", "deficit", "superavit", "arrecadacao",
+    "orcamento", "tesouro", "resultado primario",
+    # atividade
+    "producao", "industria", "comercio", "servicos", "emprego",
+    "desocupacao", "pnad", "pim", "pmc", "pms",
+    # mercado
+    "resultado", "lucro", "receita", "ebitda", "dividendo",
+    "fato relevante", "ipo", "emissao", "rating",
+    # regulatorio
+    "resolucao", "instrucao", "regulacao", "normativa", "portaria",
+    "deliberacao", "circular", "nota", "comunicado",
+    # internacional
+    "fed", "bce", "balanco", "exportacao", "importacao",
+]
