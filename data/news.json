@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-04-14T17:12:18.851844+00:00",
-  "total": 24,
+  "updated_at": "2026-04-14T19:19:31.586647+00:00",
+  "total": 25,
   "items": [
+    {
+      "id": "32515a269f4c8a45",
+      "title": "Receita Federal alerta para golpe com falsas mensagens sobre imposto de renda - CBN Ribeirão",
+      "summary": "A Receita Federal alertou sobre golpes envolvendo falsas mensagens relacionadas ao imposto de renda, com o objetivo de orientar contribuintes sobre fraudes em circulação. O alerta busca prevenir que contribuintes caiam em golpes que se passam por comunicações oficiais da instituição, evitando roubo de dados pessoais e financeiros.",
+      "category": "Regulatório",
+      "relevance": "média",
+      "keywords": [
+        "Receita Federal",
+        "golpe",
+        "imposto de renda",
+        "fraude",
+        "falsas mensagens"
+      ],
+      "source_id": "receita",
+      "source_name": "Receita Federal",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWXMzYjlmN29aOFBfR05BOUNNSjJaazZVUm1BZXZMRk1VTzJCUWhCQ19Zb0RnbkhZemRNZkVNXzYwNW5RSjE2SzAwS09LOTZDU2ZHVE93TFlpZ213Rjd1X2d1Q3dneTlOc0hTOGtLY1VlN3JBcU5wUkZIQ2JGdVd3OHgyTU1SQl94RjRjYk5tbjhzMHdqOWotNW1LS2VKc05qektaQkNsZzc?oc=5",
+      "published_at": "2026-04-14T13:27:22+00:00",
+      "collected_at": "2026-04-14T19:19:22.946870+00:00"
+    },
     {
       "id": "84dc762048428c23",
       "title": "Raízen: credores pedem 90% da companhia e ameaçam restringir crédito à Cosan | Abril 2026 - XP Investimentos",
