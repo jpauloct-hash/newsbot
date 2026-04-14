@@ -1,7 +1,26 @@
 {
-  "updated_at": "2026-04-14T13:46:12.341874+00:00",
-  "total": 23,
+  "updated_at": "2026-04-14T15:15:54.126917+00:00",
+  "total": 24,
   "items": [
+    {
+      "id": "84dc762048428c23",
+      "title": "Raízen: credores pedem 90% da companhia e ameaçam restringir crédito à Cosan | Abril 2026 - XP Investimentos",
+      "summary": "Credores da Raízen exigem 90% da participação acionária da companhia e ameaçam restringir linhas de crédito à controladora Cosan em abril de 2026. A ação representa pressão significativa sobre a estrutura de capital e financiamento do grupo, condicionando a continuidade do crédito ao atendimento das demandas dos credores.",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "Raízen",
+        "Cosan",
+        "credores",
+        "reestruturação acionária",
+        "risco de crédito"
+      ],
+      "source_id": "vale",
+      "source_name": "Vale (VALE3)",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRDU1eHJ1Smp4bGVxdm5feWxrdGtZM3F2SXFuLVVVemJZNmVVTi0zYzhRajJCampBa3B6Y2VnZ0txR3Z5NXc3dVNhdkl6N3BJSmZxTXpKRk1pX29UY21iSS0tSUw1TTlURXZxRldVeXdkRE9XUWVGUUVqYS05NGFsUE92QlZNVGt1UEVFWXVXZlZjZlZh?oc=5",
+      "published_at": "2026-04-13T17:47:30+00:00",
+      "collected_at": "2026-04-14T15:15:50.133284+00:00"
+    },
     {
       "id": "fded44677274fb11",
       "title": "Receita Federal alerta para golpes digitais com falsas mensagens sobre Imposto de Renda - TV Sorocaba",
