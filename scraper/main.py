@@ -1,330 +1,166 @@
-import os
-import sys
-import json
-import hashlib
+"""
+Coletor dedicado para as APIs oficiais do Banco Central do Brasil.
+URLs descobertas na pagina de RSS do proprio BCB.
+Base: https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/
+"""
+
 import logging
-import sqlite3
-import time
-from datetime import datetime, timezone, timedelta
-from pathlib import Path
-from xml.etree import ElementTree as ET
-
-import feedparser
 import requests
-from sources import SOURCES, RELEVANCE_KEYWORDS
-from summarizer import summarize, estimate_cost
-from coletor_bcb_copom import fetch_copom
+from datetime import datetime, timezone, timedelta
 
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s [%(levelname)s] %(message)s",
-    handlers=[logging.StreamHandler(sys.stdout)],
-)
 logger = logging.getLogger(__name__)
 
-BASE_DIR = Path(__file__).parent.parent
-DATA_DIR = BASE_DIR / "data"
-DB_PATH = DATA_DIR / "news.db"
-JSON_PATH = DATA_DIR / "news.json"
-RSS_PATH = BASE_DIR / "feed.xml"
+BCB_BASE = "https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds"
+CURRENT_YEAR = datetime.now().year
 
-DATA_DIR.mkdir(exist_ok=True)
+# Feeds prioritarios — sem parametro de ano (retornam dados recentes)
+BCB_FEEDS_SIMPLES = [
+    ("comunicadoscopom",     "Banco Central — Comunicados Copom",    90),
+    ("atascopom",            "Banco Central — Atas Copom",           90),
+    ("indicadoresselecionados", "Banco Central — Indicadores",        7),
+    ("cambio",               "Banco Central — Cambio",                3),
+    ("focus",                "Banco Central — Relatorio Focus",       7),
+    ("notastecnicas",        "Banco Central — Notas Tecnicas",        30),
+    ("ri",                   "Banco Central — Relatorio Inflacao",    90),
+    ("ref",                  "Banco Central — Estabilidade Financeira", 180),
+    ("boletimregional",      "Banco Central — Boletim Regional",      90),
+    ("resenhamercadoaberto", "Banco Central — Resenha Mercado Aberto", 7),
+    ("blogdobc",             "Banco Central — Blog do BC",            30),
+    ("diarioeletronico",     "Banco Central — Diario Eletronico",     7),
+]
 
-MAX_NEWS_PER_SOURCE = 5
-MAX_AGE_DAYS = 3
-MAX_ITEMS_IN_JSON = 300
-SITE_URL = os.environ.get("SITE_URL", "https://jpauloct-hash.github.io/newsbot")
-
-
-def init_db():
-    conn = sqlite3.connect(DB_PATH)
-    conn.row_factory = sqlite3.Row
-    conn.execute("""
-        CREATE TABLE IF NOT EXISTS news (
-            id            TEXT PRIMARY KEY,
-            title         TEXT NOT NULL,
-            summary       TEXT,
-            category      TEXT,
-            relevance     TEXT,
-            keywords      TEXT,
-            source_id     TEXT NOT NULL,
-            source_name   TEXT NOT NULL,
-            url           TEXT,
-            published_at  TEXT,
-            collected_at  TEXT NOT NULL
-        )
-    """)
-    conn.execute("CREATE INDEX IF NOT EXISTS idx_collected ON news(collected_at DESC)")
-    conn.execute("CREATE INDEX IF NOT EXISTS idx_source ON news(source_id)")
-    conn.commit()
-    return conn
+# Feeds com parametro de ano
+BCB_FEEDS_COM_ANO = [
+    ("noticias",      "Banco Central — Noticias",     7),
+    ("notasImprensa", "Banco Central — Notas Imprensa", 7),
+]
 
 
-def article_exists(conn, article_id):
-    row = conn.execute("SELECT 1 FROM news WHERE id = ?", (article_id,)).fetchone()
-    return row is not None
-
-
-def save_article(conn, article):
-    conn.execute("""
-        INSERT OR IGNORE INTO news
-        (id, title, summary, category, relevance, keywords,
-         source_id, source_name, url, published_at, collected_at)
-        VALUES
-        (:id, :title, :summary, :category, :relevance, :keywords,
-         :source_id, :source_name, :url, :published_at, :collected_at)
-    """, article)
-    conn.commit()
-
-
-def make_id(url, title):
-    return hashlib.sha256(f"{url}|{title}".encode()).hexdigest()[:16]
-
-
-def is_financially_relevant(text):
-    text_lower = text.lower()
-    return any(kw in text_lower for kw in RELEVANCE_KEYWORDS)
-
-
-def parse_date(entry):
-    for attr in ("published_parsed", "updated_parsed"):
-        t = getattr(entry, attr, None)
-        if t:
-            try:
-                dt = datetime(*t[:6], tzinfo=timezone.utc)
-                return dt.isoformat()
-            except Exception:
-                pass
+def _parse_bcb_date(date_str):
+    """Converte data do BCB para ISO format."""
+    if not date_str:
+        return None
+    for fmt in (
+        "%Y-%m-%dT%H:%M:%S",
+        "%Y-%m-%d %H:%M:%S",
+        "%d/%m/%Y %H:%M:%S",
+        "%Y-%m-%d",
+        "%d/%m/%Y",
+    ):
+        try:
+            dt = datetime.strptime(date_str[:19], fmt)
+            return dt.replace(tzinfo=timezone.utc).isoformat()
+        except ValueError:
+            continue
     return None
 
 
-def is_too_old(date_str):
-    if not date_str:
-        return False
+def _fetch_bcb_feed(url, source_id, source_name, max_age_days):
+    """Busca um feed JSON do BCB e normaliza os artigos."""
     try:
-        dt = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
-        if dt.tzinfo is None:
-            dt = dt.replace(tzinfo=timezone.utc)
-        cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
-        return dt < cutoff
-    except Exception:
-        return False
+        headers = {"User-Agent": "NewsBot/1.0 (financial news aggregator)"}
+        resp = requests.get(url, headers=headers, timeout=20)
+        resp.raise_for_status()
+        data = resp.json()
 
+        # Estrutura pode ser lista ou {"conteudo": [...]} ou {"value": [...]}
+        if isinstance(data, list):
+            records = data
+        elif isinstance(data, dict):
+            records = (
+                data.get("conteudo") or
+                data.get("value") or
+                data.get("items") or
+                data.get("data") or
+                []
+            )
+        else:
+            records = []
 
-def fetch_feed(source):
-    try:
-        headers = {
-            "User-Agent": "NewsBot/1.0 (financial news aggregator)",
-            "Accept": "application/rss+xml, application/xml, text/xml, */*",
-        }
-        response = requests.get(source["rss_url"], headers=headers, timeout=20)
-        response.raise_for_status()
-        feed = feedparser.parse(response.content)
-        if feed.bozo and not feed.entries:
-            logger.warning(f"[{source['id']}] Feed invalido ou vazio")
+        if not records:
+            logger.warning(f"[{source_id}] Nenhum registro")
             return []
+
+        cutoff = datetime.now(timezone.utc) - timedelta(days=max_age_days)
         articles = []
-        for entry in feed.entries[:20]:
-            title = getattr(entry, "title", "").strip()
-            url = getattr(entry, "link", "").strip()
-            content = getattr(entry, "summary", "") or getattr(entry, "description", "") or ""
-            content = content.strip()
-            pub_at = parse_date(entry)
-            if not title or not url:
-                continue
+
+        for rec in records:
+            # Titulo
+            title = (
+                rec.get("titulo") or rec.get("Titulo") or
+                rec.get("name") or rec.get("descricao") or
+                source_name
+            ).strip()
+
+            # URL do documento
+            link = (
+                rec.get("url") or rec.get("Url") or
+                rec.get("link") or rec.get("Link") or ""
+            )
+            if link and not link.startswith("http"):
+                link = f"https://www.bcb.gov.br{link}"
+
+            # Data
+            date_str = (
+                rec.get("dataPublicacao") or rec.get("DataPublicacao") or
+                rec.get("data") or rec.get("Data") or
+                rec.get("dataHora") or ""
+            )
+            published_at = _parse_bcb_date(date_str)
+
+            # Descarta se muito antigo
+            if published_at:
+                try:
+                    dt = datetime.fromisoformat(published_at)
+                    if dt < cutoff:
+                        continue
+                except Exception:
+                    pass
+
+            # Conteudo
+            import re
+            content = (
+                rec.get("conteudo") or rec.get("resumo") or
+                rec.get("introducao") or rec.get("descricao") or title
+            )
+            content = re.sub(r"<[^>]+>", " ", str(content)).strip()
+
             articles.append({
                 "title": title,
-                "url": url,
-                "content": content,
-                "published_at": pub_at,
-                "source_id": source["id"],
-                "source_name": source["name"],
+                "url": link,
+                "content": content[:2000],
+                "published_at": published_at,
+                "source_id": source_id,
+                "source_name": source_name,
             })
-        logger.info(f"[{source['id']}] {len(articles)} entradas encontradas")
+
+        logger.info(f"[{source_id}] {len(articles)} documentos")
         return articles
+
     except Exception as e:
-        logger.error(f"[{source['id']}] Erro: {e}")
+        logger.error(f"[{source_id}] Erro: {e}")
         return []
 
 
-def process_articles(conn, articles, source_id, source_name, max_per_source):
+def fetch_all_bcb():
     """
-    Processa uma lista de artigos: filtra, resume e salva.
-    Usado tanto para RSS quanto para coletores dedicados (Copom, etc).
+    Busca todos os feeds prioritarios do BCB.
+    Retorna lista unica de artigos de todas as fontes.
     """
-    total_new = 0
-    total_skipped = 0
-    total_errors = 0
-    processed = 0
+    all_articles = []
 
-    for article in articles:
-        if processed >= max_per_source:
-            break
+    # Feeds simples (sem ano)
+    for feed_name, source_name, max_age in BCB_FEEDS_SIMPLES:
+        url = f"{BCB_BASE}/{feed_name}"
+        source_id = f"bcb_{feed_name.lower()}"
+        articles = _fetch_bcb_feed(url, source_id, source_name, max_age)
+        all_articles.extend(articles)
 
-        if is_too_old(article.get("published_at")):
-            total_skipped += 1
-            continue
+    # Feeds com ano
+    for feed_name, source_name, max_age in BCB_FEEDS_COM_ANO:
+        url = f"{BCB_BASE}/{feed_name}?ano={CURRENT_YEAR}"
+        source_id = f"bcb_{feed_name.lower()}"
+        articles = _fetch_bcb_feed(url, source_id, source_name, max_age)
+        all_articles.extend(articles)
 
-        article_id = make_id(article["url"], article["title"])
-        if article_exists(conn, article_id):
-            total_skipped += 1
-            continue
-
-        full_text = f"{article['title']} {article.get('content', '')}"
-        if not is_financially_relevant(full_text):
-            total_skipped += 1
-            continue
-
-        logger.info(f"  Resumindo: {article['title'][:70]}...")
-        result = summarize(
-            title=article["title"],
-            content=article.get("content", ""),
-            source_name=source_name,
-        )
-        if not result:
-            total_errors += 1
-            continue
-
-        if result.get("relevancia") == "baixa":
-            total_skipped += 1
-            continue
-
-        save_article(conn, {
-            "id": article_id,
-            "title": article["title"],
-            "summary": result["resumo"],
-            "category": result["categoria"],
-            "relevance": result["relevancia"],
-            "keywords": json.dumps(result.get("keywords", []), ensure_ascii=False),
-            "source_id": source_id,
-            "source_name": source_name,
-            "url": article["url"],
-            "published_at": article.get("published_at"),
-            "collected_at": datetime.now(timezone.utc).isoformat(),
-        })
-        total_new += 1
-        processed += 1
-        logger.info(f"  Salvo [{result['categoria']}] [{result['relevancia']}]")
-        time.sleep(0.5)
-
-    return total_new, total_skipped, total_errors
-
-
-def export_json(conn):
-    rows = conn.execute(
-        f"SELECT * FROM news ORDER BY collected_at DESC LIMIT {MAX_ITEMS_IN_JSON}"
-    ).fetchall()
-    items = []
-    for row in rows:
-        items.append({
-            "id": row["id"],
-            "title": row["title"],
-            "summary": row["summary"],
-            "category": row["category"],
-            "relevance": row["relevance"],
-            "keywords": json.loads(row["keywords"] or "[]"),
-            "source_id": row["source_id"],
-            "source_name": row["source_name"],
-            "url": row["url"],
-            "published_at": row["published_at"],
-            "collected_at": row["collected_at"],
-        })
-    payload = {
-        "updated_at": datetime.now(timezone.utc).isoformat(),
-        "total": len(items),
-        "items": items,
-    }
-    with open(JSON_PATH, "w", encoding="utf-8") as f:
-        json.dump(payload, f, ensure_ascii=False, indent=2)
-    logger.info(f"Exportado: {JSON_PATH} ({len(items)} itens)")
-
-
-def export_rss(conn):
-    rows = conn.execute(
-        "SELECT * FROM news ORDER BY collected_at DESC LIMIT 50"
-    ).fetchall()
-    rss = ET.Element("rss", version="2.0")
-    channel = ET.SubElement(rss, "channel")
-    ET.SubElement(channel, "title").text = "NewsBot Financeiro"
-    ET.SubElement(channel, "link").text = SITE_URL
-    ET.SubElement(channel, "description").text = "Resumos de noticias financeiras gerados por IA"
-    ET.SubElement(channel, "language").text = "pt-BR"
-    ET.SubElement(channel, "lastBuildDate").text = datetime.now(timezone.utc).strftime(
-        "%a, %d %b %Y %H:%M:%S +0000"
-    )
-    for row in rows:
-        item = ET.SubElement(channel, "item")
-        ET.SubElement(item, "title").text = row["title"]
-        ET.SubElement(item, "link").text = row["url"] or SITE_URL
-        ET.SubElement(item, "description").text = row["summary"] or ""
-        ET.SubElement(item, "category").text = row["category"] or ""
-        ET.SubElement(item, "guid").text = row["id"]
-    tree = ET.ElementTree(rss)
-    ET.indent(tree, space="  ")
-    with open(RSS_PATH, "w", encoding="utf-8") as f:
-        tree.write(f, encoding="unicode", xml_declaration=True)
-    logger.info(f"Exportado: {RSS_PATH} ({len(rows)} itens)")
-
-
-def main():
-    start_time = time.time()
-    logger.info("=" * 60)
-    logger.info("NewsBot iniciando...")
-    logger.info(f"   Fontes RSS: {len(SOURCES)}")
-    logger.info("=" * 60)
-
-    conn = init_db()
-
-    total_new = 0
-    total_skipped = 0
-    total_errors = 0
-
-    # ── 1. Fontes RSS (BCB noticias/notas, IBGE) ──
-    for source in SOURCES:
-        logger.info(f"\n[{source['id']}] {source['name']}")
-        articles = fetch_feed(source)
-        if not articles:
-            continue
-        n, s, e = process_articles(
-            conn, articles,
-            source["id"], source["name"],
-            MAX_NEWS_PER_SOURCE
-        )
-        total_new += n
-        total_skipped += s
-        total_errors += e
-
-    # ── 2. Coletor dedicado: BCB Copom (API) ──
-    logger.info("\n[bcb_copom] Banco Central — Copom (API)")
-    copom_articles = fetch_copom(max_items=5, max_age_days=90)
-    if copom_articles:
-        n, s, e = process_articles(
-            conn, copom_articles,
-            "bcb_copom", "Banco Central — Copom",
-            MAX_NEWS_PER_SOURCE
-        )
-        total_new += n
-        total_skipped += s
-        total_errors += e
-
-    # ── 3. Exporta ──
-    logger.info("\n" + "=" * 60)
-    logger.info("Exportando dados...")
-    export_json(conn)
-    export_rss(conn)
-    conn.close()
-
-    elapsed = round(time.time() - start_time, 1)
-    logger.info("=" * 60)
-    logger.info("RESUMO DA EXECUCAO")
-    logger.info(f"   Novas noticias: {total_new}")
-    logger.info(f"   Ignoradas:      {total_skipped}")
-    logger.info(f"   Erros:          {total_errors}")
-    logger.info(f"   Tempo:          {elapsed}s")
-    est = estimate_cost(total_new)
-    logger.info(f"   Custo estimado: ~${est['estimated_usd']}")
-    logger.info("=" * 60)
-
-
-if __name__ == "__main__":
-    main()
+    return all_articles

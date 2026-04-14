@@ -1,107 +1,166 @@
 """
-Coletor dedicado para a API do Copom (Banco Central do Brasil).
-Busca comunicados e atas diretamente da API de dados abertos do BCB.
-Compativel com a arquitetura do main.py — retorna artigos no mesmo formato.
+Coletor dedicado para as APIs oficiais do Banco Central do Brasil.
+URLs descobertas na pagina de RSS do proprio BCB.
+Base: https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/
 """
 
-import os
 import logging
 import requests
 from datetime import datetime, timezone, timedelta
 
 logger = logging.getLogger(__name__)
 
-# API de dados abertos do BCB — Copom
-COPOM_API = "https://dadosabertos.bcb.gov.br/api/3/action/datastore_search"
-RESOURCE_ID = "b8cb3545-d51a-4558-b979-0495c5c5650d"
+BCB_BASE = "https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds"
+CURRENT_YEAR = datetime.now().year
 
-# Base para montar links dos documentos
-BCB_BASE = "https://www.bcb.gov.br"
+# Feeds prioritarios — sem parametro de ano (retornam dados recentes)
+BCB_FEEDS_SIMPLES = [
+    ("comunicadoscopom",     "Banco Central — Comunicados Copom",    90),
+    ("atascopom",            "Banco Central — Atas Copom",           90),
+    ("indicadoresselecionados", "Banco Central — Indicadores",        7),
+    ("cambio",               "Banco Central — Cambio",                3),
+    ("focus",                "Banco Central — Relatorio Focus",       7),
+    ("notastecnicas",        "Banco Central — Notas Tecnicas",        30),
+    ("ri",                   "Banco Central — Relatorio Inflacao",    90),
+    ("ref",                  "Banco Central — Estabilidade Financeira", 180),
+    ("boletimregional",      "Banco Central — Boletim Regional",      90),
+    ("resenhamercadoaberto", "Banco Central — Resenha Mercado Aberto", 7),
+    ("blogdobc",             "Banco Central — Blog do BC",            30),
+    ("diarioeletronico",     "Banco Central — Diario Eletronico",     7),
+]
+
+# Feeds com parametro de ano
+BCB_FEEDS_COM_ANO = [
+    ("noticias",      "Banco Central — Noticias",     7),
+    ("notasImprensa", "Banco Central — Notas Imprensa", 7),
+]
 
 
-def fetch_copom(max_items: int = 5, max_age_days: int = 90) -> list[dict]:
-    """
-    Busca os comunicados e atas mais recentes do Copom via API BCB.
+def _parse_bcb_date(date_str):
+    """Converte data do BCB para ISO format."""
+    if not date_str:
+        return None
+    for fmt in (
+        "%Y-%m-%dT%H:%M:%S",
+        "%Y-%m-%d %H:%M:%S",
+        "%d/%m/%Y %H:%M:%S",
+        "%Y-%m-%d",
+        "%d/%m/%Y",
+    ):
+        try:
+            dt = datetime.strptime(date_str[:19], fmt)
+            return dt.replace(tzinfo=timezone.utc).isoformat()
+        except ValueError:
+            continue
+    return None
 
-    Retorna lista de dicts no mesmo formato que fetch_feed() do main.py:
-    [{"title", "url", "content", "published_at", "source_id", "source_name"}]
 
-    max_age_days=90 porque atas e comunicados do Copom saem a cada ~45 dias.
-    """
+def _fetch_bcb_feed(url, source_id, source_name, max_age_days):
+    """Busca um feed JSON do BCB e normaliza os artigos."""
     try:
-        params = {
-            "resource_id": RESOURCE_ID,
-            "limit": max_items * 2,  # pega mais para filtrar por data
-            "sort": "Ordem desc",   # mais recentes primeiro
-        }
         headers = {"User-Agent": "NewsBot/1.0 (financial news aggregator)"}
-        resp = requests.get(COPOM_API, params=params, headers=headers, timeout=20)
+        resp = requests.get(url, headers=headers, timeout=20)
         resp.raise_for_status()
         data = resp.json()
 
-        records = data.get("result", {}).get("records", [])
+        # Estrutura pode ser lista ou {"conteudo": [...]} ou {"value": [...]}
+        if isinstance(data, list):
+            records = data
+        elif isinstance(data, dict):
+            records = (
+                data.get("conteudo") or
+                data.get("value") or
+                data.get("items") or
+                data.get("data") or
+                []
+            )
+        else:
+            records = []
+
         if not records:
-            logger.warning("[bcb_copom] Nenhum registro retornado pela API")
+            logger.warning(f"[{source_id}] Nenhum registro")
             return []
 
         cutoff = datetime.now(timezone.utc) - timedelta(days=max_age_days)
         articles = []
 
         for rec in records:
-            # Tenta extrair data — campo pode variar
-            date_str = rec.get("DataPublicacao") or rec.get("Data") or ""
-            published_at = None
-            if date_str:
+            # Titulo
+            title = (
+                rec.get("titulo") or rec.get("Titulo") or
+                rec.get("name") or rec.get("descricao") or
+                source_name
+            ).strip()
+
+            # URL do documento
+            link = (
+                rec.get("url") or rec.get("Url") or
+                rec.get("link") or rec.get("Link") or ""
+            )
+            if link and not link.startswith("http"):
+                link = f"https://www.bcb.gov.br{link}"
+
+            # Data
+            date_str = (
+                rec.get("dataPublicacao") or rec.get("DataPublicacao") or
+                rec.get("data") or rec.get("Data") or
+                rec.get("dataHora") or ""
+            )
+            published_at = _parse_bcb_date(date_str)
+
+            # Descarta se muito antigo
+            if published_at:
                 try:
-                    # Formato comum: "2025-01-01" ou "01/01/2025"
-                    for fmt in ("%Y-%m-%d", "%d/%m/%Y", "%Y-%m-%dT%H:%M:%S"):
-                        try:
-                            dt = datetime.strptime(date_str[:10], fmt[:8])
-                            dt = dt.replace(tzinfo=timezone.utc)
-                            published_at = dt.isoformat()
-                            # Descarta se muito antigo
-                            if dt < cutoff:
-                                continue
-                            break
-                        except ValueError:
-                            continue
+                    dt = datetime.fromisoformat(published_at)
+                    if dt < cutoff:
+                        continue
                 except Exception:
                     pass
 
-            # Tenta montar título
-            tipo = rec.get("Tipo", "Documento")
-            ordem = rec.get("Ordem", "")
-            titulo = f"Copom {ordem} — {tipo}" if ordem else f"Copom — {tipo}"
-
-            # Tenta montar URL do documento
-            link_ata = rec.get("LinkAta") or rec.get("UrlAta") or ""
-            link_comunicado = rec.get("LinkComunicado") or rec.get("UrlComunicado") or ""
-            url = link_ata or link_comunicado or f"{BCB_BASE}/copom/historicotaxasjuros"
-
-            # Monta conteúdo com os campos disponíveis
-            taxa = rec.get("MetaSelic") or rec.get("TaxaSelic") or ""
-            content_parts = [f"Reuniao do Copom numero {ordem}."]
-            if taxa:
-                content_parts.append(f"Taxa Selic definida: {taxa}% ao ano.")
-            if tipo:
-                content_parts.append(f"Tipo de documento: {tipo}.")
-            content = " ".join(content_parts)
+            # Conteudo
+            import re
+            content = (
+                rec.get("conteudo") or rec.get("resumo") or
+                rec.get("introducao") or rec.get("descricao") or title
+            )
+            content = re.sub(r"<[^>]+>", " ", str(content)).strip()
 
             articles.append({
-                "title": titulo,
-                "url": url,
-                "content": content,
+                "title": title,
+                "url": link,
+                "content": content[:2000],
                 "published_at": published_at,
-                "source_id": "bcb_copom",
-                "source_name": "Banco Central — Copom",
+                "source_id": source_id,
+                "source_name": source_name,
             })
 
-            if len(articles) >= max_items:
-                break
-
-        logger.info(f"[bcb_copom] {len(articles)} documentos encontrados")
+        logger.info(f"[{source_id}] {len(articles)} documentos")
         return articles
 
     except Exception as e:
-        logger.error(f"[bcb_copom] Erro ao buscar API: {e}")
+        logger.error(f"[{source_id}] Erro: {e}")
         return []
+
+
+def fetch_all_bcb():
+    """
+    Busca todos os feeds prioritarios do BCB.
+    Retorna lista unica de artigos de todas as fontes.
+    """
+    all_articles = []
+
+    # Feeds simples (sem ano)
+    for feed_name, source_name, max_age in BCB_FEEDS_SIMPLES:
+        url = f"{BCB_BASE}/{feed_name}"
+        source_id = f"bcb_{feed_name.lower()}"
+        articles = _fetch_bcb_feed(url, source_id, source_name, max_age)
+        all_articles.extend(articles)
+
+    # Feeds com ano
+    for feed_name, source_name, max_age in BCB_FEEDS_COM_ANO:
+        url = f"{BCB_BASE}/{feed_name}?ano={CURRENT_YEAR}"
+        source_id = f"bcb_{feed_name.lower()}"
+        articles = _fetch_bcb_feed(url, source_id, source_name, max_age)
+        all_articles.extend(articles)
+
+    return all_articles
