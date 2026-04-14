@@ -13,6 +13,7 @@ import feedparser
 import requests
 from sources import SOURCES, RELEVANCE_KEYWORDS
 from summarizer import summarize, estimate_cost
+from coletor_bcb_copom import fetch_copom
 
 logging.basicConfig(
     level=logging.INFO,
@@ -136,12 +137,77 @@ def fetch_feed(source):
                 "url": url,
                 "content": content,
                 "published_at": pub_at,
+                "source_id": source["id"],
+                "source_name": source["name"],
             })
         logger.info(f"[{source['id']}] {len(articles)} entradas encontradas")
         return articles
     except Exception as e:
         logger.error(f"[{source['id']}] Erro: {e}")
         return []
+
+
+def process_articles(conn, articles, source_id, source_name, max_per_source):
+    """
+    Processa uma lista de artigos: filtra, resume e salva.
+    Usado tanto para RSS quanto para coletores dedicados (Copom, etc).
+    """
+    total_new = 0
+    total_skipped = 0
+    total_errors = 0
+    processed = 0
+
+    for article in articles:
+        if processed >= max_per_source:
+            break
+
+        if is_too_old(article.get("published_at")):
+            total_skipped += 1
+            continue
+
+        article_id = make_id(article["url"], article["title"])
+        if article_exists(conn, article_id):
+            total_skipped += 1
+            continue
+
+        full_text = f"{article['title']} {article.get('content', '')}"
+        if not is_financially_relevant(full_text):
+            total_skipped += 1
+            continue
+
+        logger.info(f"  Resumindo: {article['title'][:70]}...")
+        result = summarize(
+            title=article["title"],
+            content=article.get("content", ""),
+            source_name=source_name,
+        )
+        if not result:
+            total_errors += 1
+            continue
+
+        if result.get("relevancia") == "baixa":
+            total_skipped += 1
+            continue
+
+        save_article(conn, {
+            "id": article_id,
+            "title": article["title"],
+            "summary": result["resumo"],
+            "category": result["categoria"],
+            "relevance": result["relevancia"],
+            "keywords": json.dumps(result.get("keywords", []), ensure_ascii=False),
+            "source_id": source_id,
+            "source_name": source_name,
+            "url": article["url"],
+            "published_at": article.get("published_at"),
+            "collected_at": datetime.now(timezone.utc).isoformat(),
+        })
+        total_new += 1
+        processed += 1
+        logger.info(f"  Salvo [{result['categoria']}] [{result['relevancia']}]")
+        time.sleep(0.5)
+
+    return total_new, total_skipped, total_errors
 
 
 def export_json(conn):
@@ -204,7 +270,7 @@ def main():
     start_time = time.time()
     logger.info("=" * 60)
     logger.info("NewsBot iniciando...")
-    logger.info(f"   Fontes: {len(SOURCES)}")
+    logger.info(f"   Fontes RSS: {len(SOURCES)}")
     logger.info("=" * 60)
 
     conn = init_db()
@@ -213,58 +279,35 @@ def main():
     total_skipped = 0
     total_errors = 0
 
+    # ── 1. Fontes RSS (BCB noticias/notas, IBGE) ──
     for source in SOURCES:
         logger.info(f"\n[{source['id']}] {source['name']}")
         articles = fetch_feed(source)
         if not articles:
             continue
+        n, s, e = process_articles(
+            conn, articles,
+            source["id"], source["name"],
+            MAX_NEWS_PER_SOURCE
+        )
+        total_new += n
+        total_skipped += s
+        total_errors += e
 
-        processed_this_source = 0
+    # ── 2. Coletor dedicado: BCB Copom (API) ──
+    logger.info("\n[bcb_copom] Banco Central — Copom (API)")
+    copom_articles = fetch_copom(max_items=5, max_age_days=90)
+    if copom_articles:
+        n, s, e = process_articles(
+            conn, copom_articles,
+            "bcb_copom", "Banco Central — Copom",
+            MAX_NEWS_PER_SOURCE
+        )
+        total_new += n
+        total_skipped += s
+        total_errors += e
 
-        for article in articles:
-            if processed_this_source >= MAX_NEWS_PER_SOURCE:
-                break
-            if is_too_old(article["published_at"]):
-                total_skipped += 1
-                continue
-            article_id = make_id(article["url"], article["title"])
-            if article_exists(conn, article_id):
-                total_skipped += 1
-                continue
-            full_text = f"{article['title']} {article['content']}"
-            if not is_financially_relevant(full_text):
-                total_skipped += 1
-                continue
-            logger.info(f"  Resumindo: {article['title'][:70]}...")
-            result = summarize(
-                title=article["title"],
-                content=article["content"],
-                source_name=source["name"],
-            )
-            if not result:
-                total_errors += 1
-                continue
-            if result.get("relevancia") == "baixa":
-                total_skipped += 1
-                continue
-            save_article(conn, {
-                "id": article_id,
-                "title": article["title"],
-                "summary": result["resumo"],
-                "category": result["categoria"],
-                "relevance": result["relevancia"],
-                "keywords": json.dumps(result.get("keywords", []), ensure_ascii=False),
-                "source_id": source["id"],
-                "source_name": source["name"],
-                "url": article["url"],
-                "published_at": article["published_at"],
-                "collected_at": datetime.now(timezone.utc).isoformat(),
-            })
-            total_new += 1
-            processed_this_source += 1
-            logger.info(f"  Salvo [{result['categoria']}] [{result['relevancia']}]")
-            time.sleep(0.5)
-
+    # ── 3. Exporta ──
     logger.info("\n" + "=" * 60)
     logger.info("Exportando dados...")
     export_json(conn)
