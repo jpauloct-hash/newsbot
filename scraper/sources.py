@@ -9,13 +9,13 @@ SOURCES = [
         "id": "bcb_noticias",
         "name": "Banco Central — Noticias",
         "category": "Banco Central",
-        "rss_url": "https://www.bcb.gov.br/api/feed/sitemap/noticias.xml",
+        "rss_url": "https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/noticias?ano=2024",
     },
     {
         "id": "bcb_notas",
         "name": "Banco Central — Notas",
         "category": "Banco Central",
-        "rss_url": "https://www.bcb.gov.br/api/feed/sitemap/notas.xml",
+        "rss_url": "https://www.bcb.gov.br/api/feed/sitebcb/sitefeeds/notasImprensa?",
     },
     {
         "id": "bcb_pronunciamentos",
