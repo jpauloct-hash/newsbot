@@ -11,10 +11,10 @@ from xml.etree import ElementTree as ET
 
 import feedparser
 import requests
-
 from sources import SOURCES, RELEVANCE_KEYWORDS
 from summarizer import summarize, estimate_cost
 from coletor_bcb_copom import fetch_all_bcb
+from coletor_ibge import fetch_all_ibge
 
 logging.basicConfig(
     level=logging.INFO,
@@ -343,6 +343,7 @@ def main():
     total_skipped = 0
     total_errors = 0
 
+    # ── BCB — todos os feeds ──
     logger.info("\n[BCB] Buscando feeds do Banco Central...")
     bcb_articles = fetch_all_bcb()
     if bcb_articles:
@@ -352,6 +353,17 @@ def main():
         total_skipped += s
         total_errors += e
 
+    # ── IBGE — notícias oficiais ──
+    logger.info("\n[IBGE] Buscando notícias do IBGE...")
+    ibge_articles = fetch_all_ibge()
+    if ibge_articles:
+        logger.info("[IBGE] %d artigos coletados no total", len(ibge_articles))
+        n, s, e = process_articles(conn, ibge_articles, MAX_NEWS_PER_SOURCE * 3)
+        total_new += n
+        total_skipped += s
+        total_errors += e
+
+    # ── Fontes RSS oficiais ──
     for source in SOURCES:
         logger.info("\n[%s] %s", source["id"], source["name"])
         articles = fetch_feed(source)
@@ -361,6 +373,7 @@ def main():
             total_skipped += s
             total_errors += e
 
+    # ── Exporta ──
     logger.info("\n" + "=" * 60)
     logger.info("Exportando dados...")
     export_json(conn)
