@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-04-15T17:10:08.522879+00:00",
-  "total": 11,
+  "updated_at": "2026-04-15T19:21:28.518283+00:00",
+  "total": 13,
   "items": [
+    {
+      "id": "535cf907fe4a7b3e",
+      "title": "Resolução CVM 242, de 13 de Abril de 2026",
+      "summary": "<p>Aprova o Documento de Revisão de Pronunciamentos Técnicos n&ordm; 29, emitido pelo Comitê de Pronunciamentos Contábeis &ndash; CPC.</p> <p><br /> (Publicada no DOU de 14.04.2026)&nbsp;</p> <hr /> <p><strong>- Resolução CVM 242: <a href=\"/legislacao/resolucoes/anexos/200/resol2...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_legislacao",
+      "source_name": "CVM — Legislação",
+      "url": "http://www.cvm.gov.br/legislacao/resolucoes/resol242.html",
+      "published_at": "2026-04-14T12:48:11+00:00",
+      "collected_at": "2026-04-15T19:21:20.301079+00:00"
+    },
+    {
+      "id": "f9030ff5b779e32a",
+      "title": "ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 01.04.2026",
+      "summary": "<p>Tipo: Extraordinária</p> <p>Participantes:</p> <p><p><strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR (PRESIDENTE INTERINO)</strong></p> <p><strong>&bull; MARINA PALMA COPOLA DE CARVALHO &ndash; DIRETORA</strong></p> <p><strong>&bull; THIAGO PAIVA CHAVES &nd...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260401_R1.html",
+      "published_at": "2026-04-13T19:05:06+00:00",
+      "collected_at": "2026-04-15T19:21:14.542591+00:00"
+    },
     {
       "id": "349d618fc47efa16",
       "title": "IBGE disponibiliza Agenda semanal com programações para os dias 13 a 17 de abril",
