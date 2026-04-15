@@ -1,20 +1,13 @@
 """
 Fontes oficiais de notícias e atos regulatórios para o NewsBot.
 
-IMPORTANTE:
-- Este arquivo foi desenhado para o main.py atual, que espera feeds RSS/XML
-  no campo `rss_url` e processa tudo com feedparser.
-- O Banco Central ficou de fora daqui porque já é coletado separadamente
-  por `fetch_all_bcb()`.
-- A API do IBGE é oficial e muito útil, mas é JSON, não RSS. Então ela
-  deve entrar por um coletor dedicado, não por este SOURCES.
+Compatível com o main.py atual:
+- cada item de SOURCES precisa ter rss_url
+- o parsing é feito por feedparser no main.py
 """
 
 SOURCES = [
-    # ──────────────────────────────────────────────
-    # CVM — feeds RSS oficiais
-    # Fonte oficial de feeds: https://conteudo.cvm.gov.br/feed.html
-    # ──────────────────────────────────────────────
+    # CVM
     {
         "id": "cvm_decisoes",
         "name": "CVM — Decisões do Colegiado",
@@ -52,48 +45,37 @@ SOURCES = [
         "rss_url": "http://www.cvm.gov.br/feed/informativos_colegiado.xml",
     },
 
-    # ──────────────────────────────────────────────
-    # Portal Gov.br — RSS oficial por coleções temáticas
-    # O portal Gov.br mantém coleções RSS por editoria, incluindo
-    # Economia e Gestão Pública e Últimas Notícias.
-    # ──────────────────────────────────────────────
+    # Gov.br
     {
-        "id": "gov_economia",
-        "name": "Gov.br — Economia e Gestão Pública",
+        "id": "gov_noticias",
+        "name": "Gov.br — Notícias",
         "category": "Fiscal",
-        "rss_url": "https://www.gov.br/pt-br/rss/colecoes-de-rss/economia-e-gestao-publica/RSS",
+        "rss_url": "https://www.gov.br/pt-br/noticias/RSS",
     },
     {
-        "id": "gov_ultimas",
-        "name": "Gov.br — Últimas Notícias",
+        "id": "gov_rss_noticias",
+        "name": "Gov.br — RSS Notícias",
         "category": "Fiscal",
-        "rss_url": "https://www.gov.br/pt-br/rss/colecoes-de-rss/ultimas-noticias/RSS",
+        "rss_url": "https://www.gov.br/pt-br/rss/colecoes-de-rss/rss-noticias/RSS",
     },
-
-    # ──────────────────────────────────────────────
-    # Ministério da Fazenda / Governo Federal
-    # Alguns conteúdos mais relevantes do MF acabam aparecendo nas coleções
-    # do Gov.br; mantemos o filtro por relevância para segurar o ruído.
-    # ──────────────────────────────────────────────
     {
         "id": "gov_financas",
         "name": "Gov.br — Finanças, Impostos e Gestão Pública",
         "category": "Fiscal",
-        "rss_url": "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/ultimas-noticias/RSS",
+        "rss_url": "https://www.gov.br/pt-br/noticias/financas-impostos-e-gestao-publica/RSS",
     },
 ]
 
-# Palavras-chave para o filtro inicial de relevância.
-# A ideia aqui é ser amplo o suficiente para não perder notícia importante,
-# mas sem virar um aspirador de ruído institucional.
 RELEVANCE_KEYWORDS = [
-    # Política monetária / juros / inflação
+    # Política monetária / inflação
     "copom",
     "selic",
     "juros",
     "taxa de juros",
     "política monetária",
+    "politica monetaria",
     "inflação",
+    "inflacao",
     "ipca",
     "ipca-15",
     "igp-m",
@@ -105,33 +87,33 @@ RELEVANCE_KEYWORDS = [
     "cvm",
     "mercado de capitais",
     "oferta pública",
+    "oferta publica",
     "oferta",
     "debênture",
+    "debentures",
     "debêntures",
     "debenture",
     "securitização",
+    "securitizacao",
     "fii",
     "fiagro",
     "fundo de investimento",
     "fundos de investimento",
-    "fundo",
-    "fundos",
     "cri",
     "cra",
-    "crás",
     "ipo",
     "follow-on",
     "companhia aberta",
     "valores mobiliários",
+    "valores mobiliarios",
     "ações",
-    "acao",
-    "ações preferenciais",
-    "ações ordinárias",
+    "acoes",
 
-    # Crédito / bancário / financeiro
+    # Crédito / bancário
     "crédito",
     "credito",
     "spread bancário",
+    "spread bancario",
     "spread",
     "inadimplência",
     "inadimplencia",
@@ -139,12 +121,12 @@ RELEVANCE_KEYWORDS = [
     "banco central",
     "bancos",
     "bancário",
-    "bancaria",
+    "bancario",
     "tesouro direto",
     "tesouro nacional",
     "curva de juros",
 
-    # Fiscal / governo / arrecadação
+    # Fiscal / arrecadação / governo
     "fiscal",
     "arcabouço fiscal",
     "arcabouco fiscal",
@@ -161,8 +143,9 @@ RELEVANCE_KEYWORDS = [
     "ministério da fazenda",
     "ministerio da fazenda",
     "tributário",
+    "tributario",
+    "tributária",
     "tributaria",
-    "tributário",
     "imposto de renda",
     "iof",
     "pis",
@@ -177,7 +160,7 @@ RELEVANCE_KEYWORDS = [
     "dívida pública",
     "divida publica",
 
-    # Macro / atividade / indicadores
+    # Macro / atividade / IBGE
     "ibge",
     "pib",
     "pnad",
@@ -193,8 +176,11 @@ RELEVANCE_KEYWORDS = [
     "massa salarial",
     "balança comercial",
     "balanca comercial",
+    "safra",
+    "agropecuária",
+    "agropecuaria",
 
-    # Empresas / resultados / mercado
+    # Empresas / resultados
     "resultado",
     "lucro",
     "prejuízo",
@@ -214,7 +200,7 @@ RELEVANCE_KEYWORDS = [
     "emissão",
     "emissao",
 
-    # Internacional com impacto econômico
+    # Internacional
     "fed",
     "fomc",
     "bce",
@@ -231,8 +217,6 @@ RELEVANCE_KEYWORDS = [
     "petroleo",
 ]
 
-# Opcional: lista de palavras que ajudam a descartar ruído institucional
-# em evoluções futuras do projeto.
 IRRELEVANT_HINTS = [
     "aniversário",
     "aniversario",
