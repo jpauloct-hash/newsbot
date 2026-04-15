@@ -1,37 +1,7 @@
 {
-  "updated_at": "2026-04-15T16:05:41.433441+00:00",
-  "total": 13,
+  "updated_at": "2026-04-15T17:10:08.522879+00:00",
+  "total": 11,
   "items": [
-    {
-      "id": "535cf907fe4a7b3e",
-      "title": "Resolução CVM 242, de 13 de Abril de 2026",
-      "summary": "<p>Aprova o Documento de Revisão de Pronunciamentos Técnicos n&ordm; 29, emitido pelo Comitê de Pronunciamentos Contábeis &ndash; CPC.</p> <p><br /> (Publicada no DOU de 14.04.2026)&nbsp;</p> <hr /> <p><strong>- Resolução CVM 242: <a href=\"/legislacao/resolucoes/anexos/200/resol2...",
-      "category": "Regulatorio",
-      "relevance": "media",
-      "keywords": [
-        "cvm"
-      ],
-      "source_id": "cvm_legislacao",
-      "source_name": "CVM — Legislação",
-      "url": "http://www.cvm.gov.br/legislacao/resolucoes/resol242.html",
-      "published_at": "2026-04-14T12:48:11+00:00",
-      "collected_at": "2026-04-15T16:05:33.167954+00:00"
-    },
-    {
-      "id": "f9030ff5b779e32a",
-      "title": "ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 01.04.2026",
-      "summary": "<p>Tipo: Extraordinária</p> <p>Participantes:</p> <p><p><strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR (PRESIDENTE INTERINO)</strong></p> <p><strong>&bull; MARINA PALMA COPOLA DE CARVALHO &ndash; DIRETORA</strong></p> <p><strong>&bull; THIAGO PAIVA CHAVES &nd...",
-      "category": "Regulatorio",
-      "relevance": "media",
-      "keywords": [
-        "cvm"
-      ],
-      "source_id": "cvm_decisoes",
-      "source_name": "CVM — Decisões do Colegiado",
-      "url": "http://www.cvm.gov.br/decisoes/2026/20260401_R1.html",
-      "published_at": "2026-04-13T19:05:06+00:00",
-      "collected_at": "2026-04-15T16:05:27.678525+00:00"
-    },
     {
       "id": "349d618fc47efa16",
       "title": "IBGE disponibiliza Agenda semanal com programações para os dias 13 a 17 de abril",
@@ -45,7 +15,7 @@
       "source_name": "IBGE — Agência de Notícias",
       "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46396-ibge-disponibiliza-agenda-semanal-com-programacoes-para-os-dias-13-a-17-de-abril.html",
       "published_at": "2026-04-13T09:00:00+00:00",
-      "collected_at": "2026-04-15T16:05:22.094255+00:00"
+      "collected_at": "2026-04-15T17:08:02.413847+00:00"
     },
     {
       "id": "e490103548e54cfb",
@@ -60,7 +30,7 @@
       "source_name": "IBGE — Agência de Notícias",
       "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46416-ibge-reune-especialistas-e-movimentos-sociais-em-workshop-de-experiencias-de-censos-de-populacao-em-situacao-de-rua.html",
       "published_at": "2026-04-13T09:00:00+00:00",
-      "collected_at": "2026-04-15T16:05:17.339347+00:00"
+      "collected_at": "2026-04-15T17:07:57.630598+00:00"
     },
     {
       "id": "975ae56c5f13d8a6",
@@ -76,7 +46,7 @@
       "source_name": "IBGE — Agência de Notícias",
       "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46406-volume-dos-servicos-varia-0-1-em-fevereiro.html",
       "published_at": "2026-04-14T09:00:00+00:00",
-      "collected_at": "2026-04-15T16:05:12.236332+00:00"
+      "collected_at": "2026-04-15T17:07:52.673121+00:00"
     },
     {
       "id": "d0eaf9ba9fbbbd65",
@@ -91,7 +61,7 @@
       "source_name": "IBGE — Agência de Notícias",
       "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46411-estimativa-da-producao-de-cereais-leguminosas-e-oleaginosas-de-marco-de-2026-e-recorde-da-serie-historica.html",
       "published_at": "2026-04-14T09:00:00+00:00",
-      "collected_at": "2026-04-15T16:05:07.405613+00:00"
+      "collected_at": "2026-04-15T17:07:47.764001+00:00"
     },
     {
       "id": "25996da0480b103e",
@@ -106,7 +76,7 @@
       "source_name": "IBGE — Agência de Notícias",
       "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46408-em-marco-ibge-preve-safra-de-348-4-milhoes-de-toneladas-para-2026.html",
       "published_at": "2026-04-14T09:00:00+00:00",
-      "collected_at": "2026-04-15T16:05:02.487805+00:00"
+      "collected_at": "2026-04-15T17:07:42.880897+00:00"
     },
     {
       "id": "346c1eb5b6646e01",
@@ -122,7 +92,7 @@
       "source_name": "IBGE — Agência de Notícias",
       "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46409-servicos-avancam-0-1-em-fevereiro-puxados-por-informacao-e-comunicacao-e-transporte-rodoviario-de-cargas.html",
       "published_at": "2026-04-14T09:00:00+00:00",
-      "collected_at": "2026-04-15T16:04:57.702897+00:00"
+      "collected_at": "2026-04-15T17:07:38.057798+00:00"
     },
     {
       "id": "4257273612d5aaa5",
@@ -138,7 +108,7 @@
       "source_name": "IBGE — Agência de Notícias",
       "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46435-ibge-e-recebido-pela-governadora-do-rio-grande-do-norte-para-discutir-uso-de-dados-inovacao-e-criacao-de-grupo-de-trabalho.html",
       "published_at": "2026-04-14T04:46:15+00:00",
-      "collected_at": "2026-04-15T16:04:52.788005+00:00"
+      "collected_at": "2026-04-15T17:07:33.120381+00:00"
     },
     {
       "id": "275376112d6eefdf",
@@ -154,7 +124,7 @@
       "source_name": "IBGE — Agência de Notícias",
       "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46431-em-fevereiro-vendas-no-varejo-crescem-0-6-2.html",
       "published_at": "2026-04-15T09:00:00+00:00",
-      "collected_at": "2026-04-15T16:04:48.107368+00:00"
+      "collected_at": "2026-04-15T17:07:28.412837+00:00"
     },
     {
       "id": "f2c6d343736f2aa3",
@@ -170,7 +140,7 @@
       "source_name": "IBGE — Agência de Notícias",
       "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46434-vendas-do-varejo-crescem-0-6-e-atingem-novo-recorde-em-fevereiro.html",
       "published_at": "2026-04-15T09:00:00+00:00",
-      "collected_at": "2026-04-15T16:04:43.133854+00:00"
+      "collected_at": "2026-04-15T17:07:23.636133+00:00"
     },
     {
       "id": "eb85ac0857a11fe4",
@@ -185,7 +155,7 @@
       "source_name": "IBGE — Agência de Notícias",
       "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46445-segundo-dia-do-workshop-de-experiencias-de-censos-de-populacao-em-situacao-de-rua-e-marcado-pela-troca-de-informacoes-e-vivencias-municipais.html",
       "published_at": "2026-04-15T12:52:18+00:00",
-      "collected_at": "2026-04-15T16:04:38.390021+00:00"
+      "collected_at": "2026-04-15T17:07:18.794762+00:00"
     },
     {
       "id": "8db9e6a44071a1c6",
