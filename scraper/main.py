@@ -11,6 +11,7 @@ from xml.etree import ElementTree as ET
 
 import feedparser
 import requests
+
 from sources import SOURCES, RELEVANCE_KEYWORDS
 from summarizer import summarize, estimate_cost
 from coletor_bcb_copom import fetch_all_bcb
@@ -22,13 +23,13 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-BASE_DIR = Path(__file__).parent.parent
+BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
 DB_PATH = DATA_DIR / "news.db"
 JSON_PATH = DATA_DIR / "news.json"
 RSS_PATH = BASE_DIR / "feed.xml"
 
-DATA_DIR.mkdir(exist_ok=True)
+DATA_DIR.mkdir(parents=True, exist_ok=True)
 
 MAX_NEWS_PER_SOURCE = 5
 MAX_AGE_DAYS = 3
@@ -61,16 +62,13 @@ def init_db():
 
 
 def purge_legacy_google_news(conn):
-    """
-    Remove registros antigos que ainda apontem para news.google.com.
-    Isso ajuda a limpar resíduo de versões antigas do projeto.
-    """
     deleted = conn.execute(
         "DELETE FROM news WHERE url LIKE '%news.google.com%'"
     ).rowcount
     conn.commit()
+
     if deleted:
-        logger.info(f"Removidos {deleted} registros legados do Google News do banco.")
+        logger.info("Removidos %d registros legados do Google News do banco.", deleted)
     else:
         logger.info("Nenhum registro legado do Google News encontrado no banco.")
 
@@ -80,7 +78,7 @@ def article_exists(conn, article_id):
     return row is not None
 
 
-def save_article(conn, article):
+def save_article(conn, article, commit=True):
     conn.execute("""
         INSERT OR IGNORE INTO news
         (id, title, summary, category, relevance, keywords,
@@ -89,15 +87,16 @@ def save_article(conn, article):
         (:id, :title, :summary, :category, :relevance, :keywords,
          :source_id, :source_name, :url, :published_at, :collected_at)
     """, article)
-    conn.commit()
+    if commit:
+        conn.commit()
 
 
 def make_id(url, title):
-    return hashlib.sha256(f"{url}|{title}".encode()).hexdigest()[:16]
+    return hashlib.sha256(f"{url}|{title}".encode("utf-8")).hexdigest()[:16]
 
 
 def is_financially_relevant(text):
-    text_lower = text.lower()
+    text_lower = (text or "").lower()
     return any(kw in text_lower for kw in RELEVANCE_KEYWORDS)
 
 
@@ -109,20 +108,22 @@ def parse_date(entry):
                 dt = datetime(*t[:6], tzinfo=timezone.utc)
                 return dt.isoformat()
             except Exception:
-                pass
+                logger.debug("Falha ao converter data do feed no atributo %s", attr)
     return None
 
 
 def is_too_old(date_str):
     if not date_str:
         return False
+
     try:
-        dt = datetime.fromisoformat(date_str.replace("Z", "+00:00"))
+        dt = datetime.fromisoformat(str(date_str).replace("Z", "+00:00"))
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=timezone.utc)
         cutoff = datetime.now(timezone.utc) - timedelta(days=MAX_AGE_DAYS)
         return dt < cutoff
     except Exception:
+        logger.debug("Data inválida no filtro de idade: %r", date_str)
         return False
 
 
@@ -134,26 +135,26 @@ def fetch_feed(source):
         }
         response = requests.get(source["rss_url"], headers=headers, timeout=20)
         response.raise_for_status()
+
         feed = feedparser.parse(response.content)
 
         if feed.bozo and not feed.entries:
-            logger.warning(f"[{source['id']}] Feed invalido ou vazio")
+            logger.warning("[%s] Feed inválido ou vazio", source["id"])
             return []
 
         articles = []
         for entry in feed.entries[:20]:
-            title = getattr(entry, "title", "").strip()
-            url = getattr(entry, "link", "").strip()
+            title = str(getattr(entry, "title", "") or "").strip()
+            url = str(getattr(entry, "link", "") or "").strip()
             content = getattr(entry, "summary", "") or getattr(entry, "description", "") or ""
-            content = content.strip()
+            content = str(content).strip()
             pub_at = parse_date(entry)
 
             if not title or not url:
                 continue
 
-            # segurança extra: ignora qualquer link de Google News
             if "news.google.com" in url:
-                logger.warning(f"[{source['id']}] Ignorado link Google News: {url}")
+                logger.warning("[%s] Ignorado link Google News: %s", source["id"], url)
                 continue
 
             articles.append({
@@ -165,11 +166,14 @@ def fetch_feed(source):
                 "source_name": source["name"],
             })
 
-        logger.info(f"[{source['id']}] {len(articles)} entradas encontradas")
+        logger.info("[%s] %d entradas encontradas", source["id"], len(articles))
         return articles
 
+    except requests.RequestException as e:
+        logger.error("[%s] Erro HTTP: %s", source["id"], e)
+        return []
     except Exception as e:
-        logger.error(f"[{source['id']}] Erro: {e}")
+        logger.exception("[%s] Erro inesperado: %s", source["id"], e)
         return []
 
 
@@ -177,10 +181,10 @@ def process_articles(conn, articles, max_per_source):
     total_new = 0
     total_skipped = 0
     total_errors = 0
-    processed = 0
+    saved_count = 0
 
     for article in articles:
-        if processed >= max_per_source:
+        if saved_count >= max_per_source:
             break
 
         if is_too_old(article.get("published_at")):
@@ -203,7 +207,7 @@ def process_articles(conn, articles, max_per_source):
             total_skipped += 1
             continue
 
-        logger.info(f"  Resumindo: {article['title'][:70]}...")
+        logger.info("  Resumindo: %s...", article["title"][:70])
 
         result = summarize(
             title=article["title"],
@@ -231,13 +235,14 @@ def process_articles(conn, articles, max_per_source):
             "url": url,
             "published_at": article.get("published_at"),
             "collected_at": datetime.now(timezone.utc).isoformat(),
-        })
+        }, commit=False)
 
         total_new += 1
-        processed += 1
-        logger.info(f"  Salvo [{result['categoria']}] [{result['relevancia']}]")
+        saved_count += 1
+        logger.info("  Salvo [%s] [%s]", result["categoria"], result["relevancia"])
         time.sleep(0.5)
 
+    conn.commit()
     return total_new, total_skipped, total_errors
 
 
@@ -276,7 +281,7 @@ def export_json(conn):
     with open(JSON_PATH, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
 
-    logger.info(f"Exportado: {JSON_PATH} ({len(items)} itens)")
+    logger.info("Exportado: %s (%d itens)", JSON_PATH, len(items))
 
 
 def export_rss(conn):
@@ -291,7 +296,7 @@ def export_rss(conn):
     channel = ET.SubElement(rss, "channel")
     ET.SubElement(channel, "title").text = "NewsBot Financeiro"
     ET.SubElement(channel, "link").text = SITE_URL
-    ET.SubElement(channel, "description").text = "Resumos de noticias financeiras gerados por IA"
+    ET.SubElement(channel, "description").text = "Resumos de notícias financeiras gerados por IA"
     ET.SubElement(channel, "language").text = "pt-BR"
     ET.SubElement(channel, "lastBuildDate").text = datetime.now(timezone.utc).strftime(
         "%a, %d %b %Y %H:%M:%S +0000"
@@ -305,13 +310,24 @@ def export_rss(conn):
         ET.SubElement(item, "category").text = row["category"] or ""
         ET.SubElement(item, "guid").text = row["id"]
 
+        if row["published_at"]:
+            try:
+                dt = datetime.fromisoformat(str(row["published_at"]).replace("Z", "+00:00"))
+                if dt.tzinfo is None:
+                    dt = dt.replace(tzinfo=timezone.utc)
+                ET.SubElement(item, "pubDate").text = dt.astimezone(timezone.utc).strftime(
+                    "%a, %d %b %Y %H:%M:%S +0000"
+                )
+            except Exception:
+                pass
+
     tree = ET.ElementTree(rss)
     ET.indent(tree, space="  ")
 
     with open(RSS_PATH, "w", encoding="utf-8") as f:
         tree.write(f, encoding="unicode", xml_declaration=True)
 
-    logger.info(f"Exportado: {RSS_PATH} ({len(rows)} itens)")
+    logger.info("Exportado: %s (%d itens)", RSS_PATH, len(rows))
 
 
 def main():
@@ -327,19 +343,17 @@ def main():
     total_skipped = 0
     total_errors = 0
 
-    # ── BCB — todos os feeds ──
     logger.info("\n[BCB] Buscando feeds do Banco Central...")
     bcb_articles = fetch_all_bcb()
     if bcb_articles:
-        logger.info(f"[BCB] {len(bcb_articles)} artigos coletados no total")
+        logger.info("[BCB] %d artigos coletados no total", len(bcb_articles))
         n, s, e = process_articles(conn, bcb_articles, MAX_NEWS_PER_SOURCE * 5)
         total_new += n
         total_skipped += s
         total_errors += e
 
-    # ── Fontes RSS oficiais ──
     for source in SOURCES:
-        logger.info(f"\n[{source['id']}] {source['name']}")
+        logger.info("\n[%s] %s", source["id"], source["name"])
         articles = fetch_feed(source)
         if articles:
             n, s, e = process_articles(conn, articles, MAX_NEWS_PER_SOURCE)
@@ -347,7 +361,6 @@ def main():
             total_skipped += s
             total_errors += e
 
-    # ── Exporta ──
     logger.info("\n" + "=" * 60)
     logger.info("Exportando dados...")
     export_json(conn)
@@ -356,13 +369,14 @@ def main():
 
     elapsed = round(time.time() - start_time, 1)
     logger.info("=" * 60)
-    logger.info("RESUMO DA EXECUCAO")
-    logger.info(f"   Novas noticias: {total_new}")
-    logger.info(f"   Ignoradas:      {total_skipped}")
-    logger.info(f"   Erros:          {total_errors}")
-    logger.info(f"   Tempo:          {elapsed}s")
+    logger.info("RESUMO DA EXECUÇÃO")
+    logger.info("   Novas notícias: %d", total_new)
+    logger.info("   Ignoradas:      %d", total_skipped)
+    logger.info("   Erros:          %d", total_errors)
+    logger.info("   Tempo:          %ss", elapsed)
+
     est = estimate_cost(total_new)
-    logger.info(f"   Custo estimado: ~${est['estimated_usd']}")
+    logger.info("   Custo estimado: ~$%s", est["estimated_usd"])
     logger.info("=" * 60)
 
 
