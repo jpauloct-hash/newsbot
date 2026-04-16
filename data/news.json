@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-04-16T17:17:46.783619+00:00",
-  "total": 18,
+  "updated_at": "2026-04-16T19:19:26.987262+00:00",
+  "total": 20,
   "items": [
+    {
+      "id": "019dea86604358a6",
+      "title": "IBGE participa de reuniões com institutos de estatística do BRICS",
+      "summary": "O IBGE participou da primeira de duas reuniões virtuais com os institutos nacionais de estatística dos países-membros do BRICS. O convite para o evento partiu do Ministério de Estatísticas e Implementação de Programas (MoSPI) da Índia e teve como tema “Construindo para a Resiliên...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46451-ibge-participa-de-reunioes-com-institutos-de-estatistica-do-brics.html",
+      "published_at": "2026-04-16T02:27:34+00:00",
+      "collected_at": "2026-04-16T19:19:16.146212+00:00"
+    },
+    {
+      "id": "92b0f4ecfe75387a",
+      "title": "IBGE promove reunião técnica para debater metodologia sobre população em áreas de risco",
+      "summary": "O Instituto Brasileiro de Geografia e Estatística (IBGE) realizou, no último dia 08, no Centro de Inteligência Corporativa (CIC), no Rio de Janeiro, uma reunião técnica para debate metodológico e tomada de decisões sobre a produção de contabilização e caracterização da população ...",
+      "category": "Resultado Financeiro",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46453-ibge-promove-reuniao-tecnica-para-debater-metodologia-sobre-populacao-em-areas-de-risco.html",
+      "published_at": "2026-04-16T03:22:19+00:00",
+      "collected_at": "2026-04-16T19:19:11.193410+00:00"
+    },
     {
       "id": "34eb708792ac06d0",
       "title": "Oficinas participativas fecham o Workshop de Experiências em Censos de População de Rua",
