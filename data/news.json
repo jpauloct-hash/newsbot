@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-04-16T11:06:11.464429+00:00",
-  "total": 13,
+  "updated_at": "2026-04-16T13:50:53.725999+00:00",
+  "total": 17,
   "items": [
+    {
+      "id": "f69505194c6bff27",
+      "title": "Portaria CVM/PTE Nº 111/2024, de 25 de Outubro de 2024",
+      "summary": "<p>Autoriza e institui, no âmbito da Comissão de Valores Mobiliários, o novo Programa de Gestão e Desempenho (PGD) para o exercício de atividades que serão avaliadas em função da efetividade e da qualidade das entregas.</p> <p>ALTERADA pela Portaria PTE <a href=\"/export/sites/cvm...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_legislacao",
+      "source_name": "CVM — Legislação",
+      "url": "http://www.cvm.gov.br/legislacao/portarias/portaria2024_111.html",
+      "published_at": "2026-04-16T12:06:47+00:00",
+      "collected_at": "2026-04-16T13:50:43.265537+00:00"
+    },
+    {
+      "id": "bfbb74322a568431",
+      "title": "Portaria CVM/PTE Nº 81/2026, de 15 de Abril de 2026",
+      "summary": "<p>Institui o Programa de Gestão e Desempenho (PGD) no âmbito da Comissão de Valores Mobiliários (CVM) e dá outras providências.</p> <p>REVOGA a Portaria PTE <a href=\"/legislacao/portarias/portaria2024_111.html\" target=\"_blank\">111/24</a>.</p>",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_legislacao",
+      "source_name": "CVM — Legislação",
+      "url": "http://www.cvm.gov.br/legislacao/portarias/portaria2026_081.html",
+      "published_at": "2026-04-16T12:09:51+00:00",
+      "collected_at": "2026-04-16T13:50:38.425635+00:00"
+    },
+    {
+      "id": "1c642d9aa8bb4cbe",
+      "title": "Portaria CVM/PTE Nº 114/2025, de 19 de Setembro de 2025",
+      "summary": "<p>Define os critérios e os procedimentos para o acompanhamento e avaliação de desempenho dos servidores efetivos em estágio probatório da Comissão de Valores Mobiliários.</p> <p>ALTERADA pela Portaria PTE <a href=\"/export/sites/cvm/legislacao/portarias/anexos/PortariaPTE2026_027...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_legislacao",
+      "source_name": "CVM — Legislação",
+      "url": "http://www.cvm.gov.br/legislacao/portarias/portaria2025_114.html",
+      "published_at": "2026-04-16T13:32:55+00:00",
+      "collected_at": "2026-04-16T13:50:33.580712+00:00"
+    },
+    {
+      "id": "1a5e20a54183a448",
+      "title": "Portaria CVM/PTE Nº 159/2021, de 31 de Agosto de 2021",
+      "summary": "<p>Define os critérios e os procedimentos para o acompanhamento e avaliação de desempenho dos servidores efetivos em estágio probatório da Comissão de Valores Mobiliários.</p> <p>ALTERADA pela Portaria PTE <a href=\"/export/sites/cvm/legislacao/portarias/anexos/PortariaPTE2026_028...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_legislacao",
+      "source_name": "CVM — Legislação",
+      "url": "http://www.cvm.gov.br/legislacao/portarias/portaria2021_159.html",
+      "published_at": "2026-04-16T13:34:58+00:00",
+      "collected_at": "2026-04-16T13:50:28.505993+00:00"
+    },
     {
       "id": "535cf907fe4a7b3e",
       "title": "Resolução CVM 242, de 13 de Abril de 2026",
