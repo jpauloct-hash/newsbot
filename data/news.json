@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-04-17T13:52:07.227872+00:00",
-  "total": 21,
+  "updated_at": "2026-04-17T15:00:20.368005+00:00",
+  "total": 22,
   "items": [
+    {
+      "id": "dc1a426a753f3a69",
+      "title": "IBGE celebra 90 anos com evento no Itamaraty e lançamento de publicações inéditas",
+      "summary": "O Instituto Brasileiro de Geografia e Estatística (IBGE) dará início às comemorações de seus 90 anos com um evento especial em Brasília, no próximo dia 4 de maio de 2026. A cerimônia, que conta com o apoio do Ministério das Relações Exteriores, marcará o lançamento das publicaçõe...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46457-ibge-celebra-90-anos-com-evento-no-itamaraty-e-lancamento-de-publicacoes-ineditas.html",
+      "published_at": "2026-04-17T10:56:18+00:00",
+      "collected_at": "2026-04-17T14:58:13.057295+00:00"
+    },
     {
       "id": "d8e745f4c49b587f",
       "title": "Domicílios alugados cresceram mais de 50% desde 2016",
