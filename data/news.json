@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-04-17T15:00:20.368005+00:00",
-  "total": 22,
+  "updated_at": "2026-04-17T16:07:08.273120+00:00",
+  "total": 23,
   "items": [
+    {
+      "id": "a5a47c02657d7b70",
+      "title": "IBGE 90 anos: Presidências do IBGE e do TSE se reúnem em Brasília para fortalecer a democracia",
+      "summary": "Presidente do IBGE, Marcio Pochmann, ao lado da Presidente do TSE, Cármen Lúcia. Foto: Reprodução/IBGE O presidente do Instituto Brasileiro de Geografia e Estatística (IBGE), professor Marcio Pochmann, reuniu-se, nesta quinta-feira (16/4), em Brasília, com a presidente do Tribuna...",
+      "category": "Operacional",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46459-ibge-90-anos-presidencias-do-ibge-e-do-tse-se-reunem-em-brasilia-para-fortalecer-a-democracia.html",
+      "published_at": "2026-04-17T12:28:10+00:00",
+      "collected_at": "2026-04-17T16:06:59.099157+00:00"
+    },
     {
       "id": "dc1a426a753f3a69",
       "title": "IBGE celebra 90 anos com evento no Itamaraty e lançamento de publicações inéditas",
