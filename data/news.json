@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-04-17T20:49:41.909440+00:00",
-  "total": 23,
+  "updated_at": "2026-04-17T21:44:38.499929+00:00",
+  "total": 24,
   "items": [
+    {
+      "id": "6deb8aba02946572",
+      "title": "Deliberação CVM 907, de 15 de Abril de 2026",
+      "summary": "<p>Oferta irregular de valores mobiliários sem o registro previsto na Lei n&ordm; 6.385, de 7 de dezembro de 1976.</p> <p><br /> (Publicada no DOU de 16.04.2026)</p> <hr /> <p><strong>- Deliberação CVM 907:&nbsp;<a href=\"/legislacao/deliberacoes/anexos/0900/deli907site.htm\" targe...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_legislacao",
+      "source_name": "CVM — Legislação",
+      "url": "http://www.cvm.gov.br/legislacao/deliberacoes/deli0900/deli907.html",
+      "published_at": "2026-04-15T22:09:05+00:00",
+      "collected_at": "2026-04-17T21:44:30.730294+00:00"
+    },
     {
       "id": "a5a47c02657d7b70",
       "title": "IBGE 90 anos: Presidências do IBGE e do TSE se reúnem em Brasília para fortalecer a democracia",
