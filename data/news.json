@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-04-17T11:59:29.631451+00:00",
-  "total": 20,
+  "updated_at": "2026-04-17T13:52:07.227872+00:00",
+  "total": 21,
   "items": [
+    {
+      "id": "d8e745f4c49b587f",
+      "title": "Domicílios alugados cresceram mais de 50% desde 2016",
+      "summary": "O número de domicílios alugados foi o que mais cresceu de 2016 para 2025 (54,1%), enquanto o de domicílios próprios ainda pagando aumentou 31,2% e o de domicílios próprios pagos subiu 7,2% - Foto: Pxhere (montagem) Em 2025, o número de domicílios particulares permanentes aumentou...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46449-domicilios-alugados-cresceram-mais-de-50-desde-2016.html",
+      "published_at": "2026-04-17T10:00:00+00:00",
+      "collected_at": "2026-04-17T13:51:58.499926+00:00"
+    },
     {
       "id": "019dea86604358a6",
       "title": "IBGE participa de reuniões com institutos de estatística do BRICS",
