@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-04-20T10:50:50.492787+00:00",
-  "total": 24,
+  "updated_at": "2026-04-20T12:08:29.741037+00:00",
+  "total": 25,
   "items": [
+    {
+      "id": "e17bd9334e9ca651",
+      "title": "IBGE disponibiliza Agenda semanal com programações para os dias 20 a 24 de abril",
+      "summary": "Agenda IBGE traz a programação do instituto para a semana - Foto: Bel Corção/Brasil com S O Instituto Brasileiro de Geografia e Estatística (IBGE) disponibilizou hoje (20) a Agenda IBGE para a semana dos dias 20 a 24 de abril. A edição contempla as reuniões internas e externas, o...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46455-ibge-disponibiliza-agenda-semanal-com-programacoes-para-os-dias-20-a-24-de-abril.html",
+      "published_at": "2026-04-20T09:00:00+00:00",
+      "collected_at": "2026-04-20T12:06:25.030952+00:00"
+    },
     {
       "id": "6deb8aba02946572",
       "title": "Deliberação CVM 907, de 15 de Abril de 2026",
