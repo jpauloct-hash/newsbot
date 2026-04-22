@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-04-22T22:56:24.276210+00:00",
-  "total": 27,
+  "updated_at": "2026-04-22T23:50:54.567306+00:00",
+  "total": 28,
   "items": [
+    {
+      "id": "8eb4f9dffb8738ae",
+      "title": "IBGE promove o Seminário Abril Indígena: Conhecimento, direitos e políticas públicas",
+      "summary": "O mês de abril é reconhecido nacionalmente como um momento de celebrar a diversidade sociocultural e valorizar os povos originários. O Dia dos Povos Indígenas, 19 de abril, carrega um sentido que vai além do simbólico. Ele se inscreve como um tempo/espaço de afirmação de direitos...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46468-ibge-promove-o-seminario-abril-indigena-conhecimento-direitos-e-politicas-publicas.html",
+      "published_at": "2026-04-22T06:45:11+00:00",
+      "collected_at": "2026-04-22T23:50:40.303513+00:00"
+    },
     {
       "id": "96fc674597c0e4bc",
       "title": "IBGE promove oficina para comunicadores sobre o 12º Censo Agropecuário, Florestal e Aquícola",
