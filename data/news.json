@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-04-22T17:04:37.596768+00:00",
-  "total": 26,
+  "updated_at": "2026-04-22T19:17:33.292857+00:00",
+  "total": 27,
   "items": [
+    {
+      "id": "96fc674597c0e4bc",
+      "title": "IBGE promove oficina para comunicadores sobre o 12º Censo Agropecuário, Florestal e Aquícola",
+      "summary": "A atividade integra o processo de mobilização para a 2ª Prova-Piloto da operação - Foto: Pexels O Instituto Brasileiro de Geografia e Estatística (IBGE) realizará, no dia 5 de maio, a oficina “12º Censo Agropecuário, Florestal e Aquícola: Comunicação, Mobilização e Qualidade da I...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46465-ibge-promove-oficina-para-comunicadores-sobre-o-12-censo-agropecuario-florestal-e-aquicola.html",
+      "published_at": "2026-04-22T02:01:01+00:00",
+      "collected_at": "2026-04-22T19:17:22.267966+00:00"
+    },
     {
       "id": "4704957fad85df5b",
       "title": "ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 20.04.2026",
