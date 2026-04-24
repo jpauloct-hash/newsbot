@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-04-24T11:59:07.376162+00:00",
-  "total": 28,
+  "updated_at": "2026-04-24T14:00:57.568799+00:00",
+  "total": 29,
   "items": [
+    {
+      "id": "fcac918186c4ad9c",
+      "title": "IBGE realiza oficina inédita para comunicadores que atuam na área agropecuária",
+      "summary": "A atividade integra o processo de mobilização para a 2ª Prova-Piloto da operação - Foto: Pexels O Instituto Brasileiro de Geografia e Estatística (IBGE) realizará, no dia 5 de maio, a oficina “12º Censo Agropecuário, Florestal e Aquícola: Comunicação, Mobilização e Qualidade da I...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46465-ibge-realiza-oficina-inedita-para-comunicadores-que-atuam-na-area-agropecuaria.html",
+      "published_at": "2026-04-22T02:01:01+00:00",
+      "collected_at": "2026-04-24T14:00:47.427149+00:00"
+    },
     {
       "id": "8eb4f9dffb8738ae",
       "title": "IBGE promove o Seminário Abril Indígena: Conhecimento, direitos e políticas públicas",
