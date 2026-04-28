@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-04-28T09:24:04.325331+00:00",
-  "total": 34,
+  "updated_at": "2026-04-28T11:47:38.892125+00:00",
+  "total": 35,
   "items": [
+    {
+      "id": "74d1a0ca46423acf",
+      "title": "Seminário \"Abril Indígena\" debate conhecimento, direitos e políticas públicas em Belém (PA)",
+      "summary": "Com a participação de membros da academia, representantes do setor público, integrantes dos movimentos indígenas e servidores do Instituto Brasileiro de Geografia e Estatística (IBGE), foi realizado nesta segunda-feira (27) o seminário “Abril Indígena: Conhecimento, direitos e po...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46488-seminario-abril-indigena-debate-conhecimento-direitos-e-politicas-publicas-em-belem-pa.html",
+      "published_at": "2026-04-27T04:24:44+00:00",
+      "collected_at": "2026-04-28T11:47:25.518143+00:00"
+    },
     {
       "id": "566d1a2eb1ab8e0e",
       "title": "IBGE lança em Belém 1º Censo Nacional da População em Situação de Rua",
