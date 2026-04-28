@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-04-27T23:55:59.879688+00:00",
-  "total": 33,
+  "updated_at": "2026-04-28T03:31:06.974941+00:00",
+  "total": 34,
   "items": [
+    {
+      "id": "566d1a2eb1ab8e0e",
+      "title": "IBGE lança em Belém 1º Censo Nacional da População em Situação de Rua",
+      "summary": "O Instituto Brasileiro de Geografia e Estatística (IBGE) realizou, nesta segunda-feira (27), em Belém (PA), no Instituto Pedro Vieira, o primeiro de três lançamentos regionais do 1º Censo Nacional da População em Situação de Rua. A iniciativa representa um marco histórico ao esta...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46491-ibge-lanca-em-belem-1-censo-nacional-da-populacao-em-situacao-de-rua.html",
+      "published_at": "2026-04-27T09:53:59+00:00",
+      "collected_at": "2026-04-28T03:30:54.116161+00:00"
+    },
     {
       "id": "e2281c15e400b82f",
       "title": "IBGE disponibiliza Agenda semanal com programações para os dias 27 a 30 de abril",
