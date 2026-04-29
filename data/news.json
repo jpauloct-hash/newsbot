@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-04-28T23:04:47.061531+00:00",
-  "total": 38,
+  "updated_at": "2026-04-29T03:24:29.606161+00:00",
+  "total": 39,
   "items": [
+    {
+      "id": "70421768130f0ac5",
+      "title": "Com presenças dos ministros Mauro Vieira (MRE) e Bruno Moretti (MPO) IBGE dá início aos eventos dos 90 anos",
+      "summary": "IBGE celebra 90 anos com evento no Itamaraty e lançamento de publicações inéditas. O Instituto Brasileiro de Geografia e Estatística (IBGE) dá início às comemorações de seus 90 anos com um evento especial que reunirá mais de 20 representações diplomáticas e organismos internacion...",
+      "category": "Fiscal",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46505-com-presencas-dos-ministros-mauro-vieira-mre-e-bruno-moretti-mpo-ibge-da-inicio-aos-eventos-dos-90-anos.html",
+      "published_at": "2026-04-28T08:00:00+00:00",
+      "collected_at": "2026-04-29T03:24:16.684028+00:00"
+    },
     {
       "id": "5ce7949c59aa1047",
       "title": "IPCA-15 foi de 0,89% em abril",
