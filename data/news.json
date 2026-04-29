@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-04-29T20:11:12.581712+00:00",
-  "total": 42,
+  "updated_at": "2026-04-29T22:00:35.691775+00:00",
+  "total": 43,
   "items": [
+    {
+      "id": "05c257cf385e2012",
+      "title": "EXTRATO DA ATA DA REUNIÃO DO COLEGIADO Nº 10 DE 28.04.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR (PRESIDENTE INTERINO) (1)</strong></p> <p><strong>&bull; MARINA PALMA COPOLA DE CARVALHO &ndash; DIRETORA (1)</strong></p> <p><strong>&bull; THIAGO PAIVA CHAVES ...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260428_R1.html",
+      "published_at": "2026-04-29T12:48:20+00:00",
+      "collected_at": "2026-04-29T22:00:26.437031+00:00"
+    },
     {
       "id": "d8e33cc1eb34f31d",
       "title": "Índice de Preços ao Produtor (IPP) é de 2,37% em março",
