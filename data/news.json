@@ -1,7 +1,50 @@
 {
-  "updated_at": "2026-04-29T11:41:40.131196+00:00",
-  "total": 39,
+  "updated_at": "2026-04-29T14:03:08.047403+00:00",
+  "total": 42,
   "items": [
+    {
+      "id": "d8e33cc1eb34f31d",
+      "title": "Índice de Preços ao Produtor (IPP) é de 2,37% em março",
+      "summary": "Em março de 2026, os preços da indústria variaram 2,37% frente a fevereiro. Nessa comparação, 18 das 24 atividades industriais tiveram aumento de preços. O índice acumulado em 12 meses se mantém negativo, em -1,54%. O acumulado no ano foi de 2,53%. O Índice de Preços ao Produtor ...",
+      "category": "Fiscal",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46500-indice-de-precos-ao-produtor-ipp-e-de-2-37-em-marco.html",
+      "published_at": "2026-04-29T09:00:00+00:00",
+      "collected_at": "2026-04-29T14:02:55.815641+00:00"
+    },
+    {
+      "id": "0866935a7587641a",
+      "title": "Preços da indústria avançam 2,37% em março, influenciados pelas indústrias extrativas",
+      "summary": "Preços de petróleo e seus derivados subiram nos mercados globais, impactando a indústria brasileira em março - Foto: André Motta de Souza/Petrobras Os preços da indústria brasileira avançaram 2,37% em março em relação a fevereiro (-0,16%), influenciados, em especial, pelo aumento...",
+      "category": "Fiscal",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46501-precos-da-industria-avancam-2-37-em-marco-influenciados-pelas-industrias-extrativas.html",
+      "published_at": "2026-04-29T09:00:00+00:00",
+      "collected_at": "2026-04-29T14:02:50.889978+00:00"
+    },
+    {
+      "id": "a309adc2bfaac5cd",
+      "title": "IBGE lança segunda edição do 70º volume da Revista Brasileira de Geografia com destaque aos 90 anos do IBGE",
+      "summary": "A Revista Brasileira de Geografia (RBG) chegou à segunda edição do 70º volume, nesta quarta-feira (29), reunindo 17 artigos científicos, com destaque para o Dossiê Clima Urbano, responsável por 12 dos trabalhos publicados, além de cinco artigos de submissão contínua. A publicação...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46508-ibge-lanca-segunda-edicao-do-70-volume-edicao-revista-brasileira-de-geografia-com-destaque-aos-90-anos-do-ibge.html",
+      "published_at": "2026-04-29T10:00:00+00:00",
+      "collected_at": "2026-04-29T14:02:45.913670+00:00"
+    },
     {
       "id": "70421768130f0ac5",
       "title": "Com presenças dos ministros Mauro Vieira (MRE) e Bruno Moretti (MPO) IBGE dá início aos eventos dos 90 anos",
