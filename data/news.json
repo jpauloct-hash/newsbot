@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-04-30T17:24:02.375230+00:00",
-  "total": 45,
+  "updated_at": "2026-04-30T19:25:58.938392+00:00",
+  "total": 46,
   "items": [
+    {
+      "id": "b80c6800151faef3",
+      "title": "Ofício Circular CVM/SSE 02/26, de 30 de Abril de 2026",
+      "summary": "<p>&nbsp;Esclarecimento sobre o preenchimento de CRIs no informe trimestral de FII</p>",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_legislacao",
+      "source_name": "CVM — Legislação",
+      "url": "http://www.cvm.gov.br/legislacao/oficios-circulares/sse1/oc-sse-0226.html",
+      "published_at": "2026-04-30T17:54:28+00:00",
+      "collected_at": "2026-04-30T19:25:50.843451+00:00"
+    },
     {
       "id": "1746f4a2181ea3b2",
       "title": "PNAD Contínua: taxa de desocupação é de 6,1% e taxa de subutilização é de 14,3% no trimestre encerrado em março",
