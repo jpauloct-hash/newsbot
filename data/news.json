@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-05-04T20:17:52.301395+00:00",
-  "total": 56,
+  "updated_at": "2026-05-04T22:03:37.981517+00:00",
+  "total": 57,
   "items": [
+    {
+      "id": "16191bc21875822a",
+      "title": "ATA DA REUNIÃO DO COLEGIADO Nº 6 DE 24.03.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR (PRESIDENTE INTERINO)<sup> (1)</sup><br /> &bull; MARINA PALMA COPOLA DE CARVALHO &ndash; DIRETORA<sup> (2)</sup><br /> &bull; THIAGO PAIVA CHAVES &ndash; DIRETO...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260324_R1.html",
+      "published_at": "2026-05-04T20:59:53+00:00",
+      "collected_at": "2026-05-04T22:03:30.556317+00:00"
+    },
     {
       "id": "4cb54154fd2a37c0",
       "title": "Consulta Pública SDM 06/2025",
