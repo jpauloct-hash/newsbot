@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-05-04T18:18:41.562976+00:00",
-  "total": 51,
+  "updated_at": "2026-05-04T20:17:52.301395+00:00",
+  "total": 56,
   "items": [
+    {
+      "id": "4cb54154fd2a37c0",
+      "title": "Consulta Pública SDM 06/2025",
+      "summary": "<p>Reforma do Anexo Normativo III da Resolução CVM n&ordm; 175, de 2022.</p> <p><a href=\"https://www.gov.br/cvm/pt-br/centrais-de-conteudo/publicacoes/estudos/analise-de-resultado-regulatorio-arr-assembleias-de-fundos-imobiliarios-uma-analise-de-dispersao-dos-cotistas-dos-fundos-...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_audiencias",
+      "source_name": "CVM — Audiências Públicas",
+      "url": "http://www.cvm.gov.br/audiencias_publicas/ap_sdm/2025/sdm0625.html",
+      "published_at": "2026-05-04T19:30:07+00:00",
+      "collected_at": "2026-05-04T20:17:45.593896+00:00"
+    },
+    {
+      "id": "1055a584fb5c01e7",
+      "title": "Consulta Pública SDM 07/2025",
+      "summary": "<p>Modernização do Regime Informacional dos Fundos de Investimento Financeiro.</p> <p><a href=\"https://www.gov.br/cvm/pt-br/centrais-de-conteudo/publicacoes/estudos/arr-regime-informacional-fundos-555.pdf\">Análise de Resultado Regulatório (ARR): Uma análise do regime informaciona...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_audiencias",
+      "source_name": "CVM — Audiências Públicas",
+      "url": "http://www.cvm.gov.br/audiencias_publicas/ap_sdm/2025/sdm0725.html",
+      "published_at": "2026-05-04T19:31:42+00:00",
+      "collected_at": "2026-05-04T20:17:40.698193+00:00"
+    },
+    {
+      "id": "a13f87afdf83437b",
+      "title": "IBGE prorroga inscrições de oficina inédita para comunicadores que atuam na área agropecuária, florestal e aquícola",
+      "summary": "O Instituto Brasileiro de Geografia e Estatística (IBGE) prorrogou até esta segunda-feira, 4 de maio, o prazo de inscrição para a oficina “12º Censo Agropecuário, Florestal e Aquícola: Comunicação, Mobilização e Qualidade da Informação”, que será realizada no dia 5 de maio. A ati...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46532-ibge-prorroga-inscricoes-de-oficina-inedita-para-comunicadores-que-atuam-na-area-agropecuaria-florestal-e-aquicola.html",
+      "published_at": "2026-05-04T02:37:47+00:00",
+      "collected_at": "2026-05-04T20:17:30.260219+00:00"
+    },
+    {
+      "id": "2d54ea36c169058c",
+      "title": "Mapa-múndi do IBGE celebra seus 90 anos, mostrando a riqueza de espécies e a representação dos continentes em proporções reais",
+      "summary": "O Instituto Brasileiro de Geografia e Estatística (IBGE) dá início às comemorações de seus 90 anos com um evento especial que reunirá mais de 20 representações diplomáticas e organismos internacionais, além de gestores públicos e privados, hoje, 4 de maio de 2026, em Brasília. A ...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46533-mapa-mundi-do-ibge-celebra-seus-90-anos-mostrando-a-riqueza-de-especies-e-a-representacao-dos-continentes-em-proporcoes-reais.html",
+      "published_at": "2026-05-04T02:47:36+00:00",
+      "collected_at": "2026-05-04T20:17:25.135813+00:00"
+    },
+    {
+      "id": "46fa07f08708fb4a",
+      "title": "Com lançamentos no Itamaraty, IBGE inicia celebrações dos seus 90 anos",
+      "summary": "Matéria em atualização. O Instituto Brasileiro de Geografia e Estatística (IBGE) deu início às comemorações de seus 90 anos com um evento especial que reuniu mais de 20 representações diplomáticas e organismos internacionais, gestores públicos e privados, nesta segunda-feira (04)...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46534-com-lancamentos-no-itamaraty-ibge-inicia-celebracoes-dos-seus-90-anos.html",
+      "published_at": "2026-05-04T03:40:45+00:00",
+      "collected_at": "2026-05-04T20:17:20.200197+00:00"
+    },
     {
       "id": "e92a0ebe787c0f3b",
       "title": "IBGE disponibiliza Agenda semanal com programações para os dias 4 a 8 de maio",
