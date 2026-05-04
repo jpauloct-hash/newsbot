@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-05-04T11:50:51.643017+00:00",
-  "total": 50,
+  "updated_at": "2026-05-04T14:06:13.515426+00:00",
+  "total": 51,
   "items": [
+    {
+      "id": "e92a0ebe787c0f3b",
+      "title": "IBGE disponibiliza Agenda semanal com programações para os dias 4 a 8 de maio",
+      "summary": "Agenda IBGE traz a programação do instituto para a semana - Foto: Bel Corção/Brasil com S O Instituto Brasileiro de Geografia e Estatística (IBGE) disponibilizou hoje (4) a Agenda IBGE para a semana dos dias 4 a 8 de maio. A edição contempla as reuniões internas e externas, os ev...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46523-ibge-disponibiliza-agenda-semanal-com-programacoes-para-os-dias-4-a-8-de-maio.html",
+      "published_at": "2026-05-04T09:00:00+00:00",
+      "collected_at": "2026-05-04T14:05:59.168072+00:00"
+    },
     {
       "id": "34bc513f0cb16de3",
       "title": "Cem anos de Milton Santos: por que seu pensamento segue essencial para entender o Brasil",

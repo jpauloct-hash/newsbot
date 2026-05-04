@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 04 May 2026 11:50:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 14:06:13 +0000</lastBuildDate>
+    <item>
+      <title>IBGE disponibiliza Agenda semanal com programações para os dias 4 a 8 de maio</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46523-ibge-disponibiliza-agenda-semanal-com-programacoes-para-os-dias-4-a-8-de-maio.html</link>
+      <description>Agenda IBGE traz a programação do instituto para a semana - Foto: Bel Corção/Brasil com S O Instituto Brasileiro de Geografia e Estatística (IBGE) disponibilizou hoje (4) a Agenda IBGE para a semana dos dias 4 a 8 de maio. A edição contempla as reuniões internas e externas, os ev...</description>
+      <category>Mercado de Capitais</category>
+      <guid>e92a0ebe787c0f3b</guid>
+      <pubDate>Mon, 04 May 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Cem anos de Milton Santos: por que seu pensamento segue essencial para entender o Brasil</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46531-cem-anos-de-milton-santos-por-que-seu-pensamento-segue-essencial-para-entender-o-brasil.html</link>
@@ -397,14 +405,6 @@
       <category>Mercado de Capitais</category>
       <guid>eb85ac0857a11fe4</guid>
       <pubDate>Wed, 15 Apr 2026 12:52:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>BC e CVM fortalecem cooperação para o aprimoramento das informações de crédito no país</title>
-      <link>https://www.bcb.gov.br/detalhenoticia/21090/nota</link>
-      <description>O Banco Central e a CVM firmaram um Acordo de Cooperação Técnica em 13 de abril para aprimorar o intercâmbio de informações sobre operações de crédito no país, consolidando e expandindo práticas já existentes desde 2012. A iniciativa busca uniformizar e ampliar o compartilhamento de dados de FIDCs, securitizadoras e outras entidades reguladas pela CVM junto ao Sistema de Informações de Créditos (SCR), fortalecendo a supervisão e a capacidade analítica na identificação de riscos de crédito. O acordo visa subsidiar políticas públicas de estabilidade financeira e macroprudencial.</description>
-      <category>Regulatorio</category>
-      <guid>8db9e6a44071a1c6</guid>
-      <pubDate>Mon, 13 Apr 2026 20:30:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
