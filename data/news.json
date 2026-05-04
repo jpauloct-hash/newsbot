@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-05-04T09:22:08.901555+00:00",
-  "total": 49,
+  "updated_at": "2026-05-04T11:50:51.643017+00:00",
+  "total": 50,
   "items": [
+    {
+      "id": "34bc513f0cb16de3",
+      "title": "Cem anos de Milton Santos: por que seu pensamento segue essencial para entender o Brasil",
+      "summary": "Reconhecido como um dos maiores intelectuais brasileiros do século XX, Milton Santos construiu uma obra marcada pelo rigor científico, pelo compromisso social e por uma leitura crítica das desigualdades produzidas pelo sistema capitalista. Nascido em 3 de maio de 1926, em Brotas ...",
+      "category": "Internacional",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46531-cem-anos-de-milton-santos-por-que-seu-pensamento-segue-essencial-para-entender-o-brasil.html",
+      "published_at": "2026-05-04T07:48:11+00:00",
+      "collected_at": "2026-05-04T11:50:41.710986+00:00"
+    },
     {
       "id": "eb597fe402ef7181",
       "title": "No Rio de Janeiro, IBGE realiza o XVI Seminário Brasil em Números",
