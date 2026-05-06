@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-05-06T16:43:18.165096+00:00",
-  "total": 61,
+  "updated_at": "2026-05-06T18:19:21.042186+00:00",
+  "total": 63,
   "items": [
+    {
+      "id": "ede2c53fcafb5681",
+      "title": "IBGE apresenta oficina inédita para comunicadores que atuam na área agropecuária, florestal e aquícola",
+      "summary": "O Instituto Brasileiro de Geografia e Estatística (IBGE) realizou nesta terça-feira (5) a oficina “12º Censo Agropecuário, Florestal e Aquícola: Comunicação, Mobilização e Qualidade da Informação\". A atividade foi voltada à preparação de comunicadores para a cobertura e a dissemi...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46544-ibge-apresenta-oficina-inedita-para-comunicadores-que-atuam-na-area-agropecuaria-florestal-e-aquicola.html",
+      "published_at": "2026-05-05T02:49:19+00:00",
+      "collected_at": "2026-05-06T18:18:52.239873+00:00"
+    },
+    {
+      "id": "c8184a60d94b54da",
+      "title": "Nota de pesar",
+      "summary": "Maria Luisa Gomes Castello Branco ingressou no IBGE em 1976, onde construiu uma sólida carreira marcada pela dedicação à pesquisa. - Foto: Reprodução O Instituto Brasileiro de Geografia e Estatística (IBGE) lamenta o falecimento de Maria Luisa Gomes Castello Branco, ocorrido em 0...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46575-nota-de-pesar.html",
+      "published_at": "2026-05-06T01:57:14+00:00",
+      "collected_at": "2026-05-06T18:18:47.252441+00:00"
+    },
     {
       "id": "279e13a35095ce9e",
       "title": "Seminário sobre geoinformação celebra o Dia do Cartógrafo na Casa Brasil IBGE",
