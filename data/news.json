@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-05-06T09:26:46.504814+00:00",
-  "total": 59,
+  "updated_at": "2026-05-06T11:52:01.394116+00:00",
+  "total": 60,
   "items": [
+    {
+      "id": "4b815e25db60b072",
+      "title": "IBGE apresenta oficina inédita para comunicadores que atuam na área agropecuária, florestal e aquícola",
+      "summary": "O Instituto Brasileiro de Geografia e Estatística (IBGE) realizou nesta terça-feira (5) a oficina “12º Censo Agropecuário, Florestal e Aquícola: Comunicação, Mobilização e Qualidade da Informação\". A atividade foi voltada à preparação de comunicadores para a cobertura e a dissemi...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "https://agenciadenoticias.ibge.gov.br/agencia-noticias/3149-agencia-de-noticias/an-outras-noticias/an-censo-agro-12/46544-ibge-apresenta-oficina-inedita-para-comunicadores-que-atuam-na-area-agropecuaria-florestal-e-aquicola.html",
+      "published_at": "2026-05-05T02:49:19+00:00",
+      "collected_at": "2026-05-06T11:49:54.462225+00:00"
+    },
     {
       "id": "170f8205b705ea15",
       "title": "IBGE inicia testes da Pesquisa Nacional de Saúde 2026 com coleta inédita de biomarcadores",
