@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-05-06T18:19:21.042186+00:00",
-  "total": 63,
+  "updated_at": "2026-05-06T20:25:19.796439+00:00",
+  "total": 65,
   "items": [
+    {
+      "id": "a1fdc0bac6ee7d9d",
+      "title": "Dia do Cartógrafo destaca evolução tecnológica e importância estratégica da área no IBGE",
+      "summary": "Em 1500, quando a carta de Pero Vaz de Caminha foi enviada a Portugal, relatando o Brasil, um documento igualmente relevante foi junto. Potência da navegação, os portugueses sabiam que uma boa descrição de uma localidade dependia de coordenadas bem definidas. Por isso, o astrônom...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46582-dia-do-cartografo-destaca-evolucao-tecnologica-e-importancia-estrategica-da-area-no-ibge.html",
+      "published_at": "2026-05-06T04:31:33+00:00",
+      "collected_at": "2026-05-06T20:25:07.656639+00:00"
+    },
+    {
+      "id": "31e30fbb5b4cc199",
+      "title": "Coletiva pública: divulgações das ações da 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola acontecem nesta sexta-feira (08)",
+      "summary": "O Instituto Brasileiro de Geografia e Estatística (IBGE) iniciará, em maio, a segunda prova piloto do 12º Censo Agropecuário, Florestal e Aquícola, mais uma preparatória e de testes para garantir a qualidade e a abrangência do levantamento que será realizado em todo o país. Seis ...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46585-coletiva-publica-divulgacoes-das-acoes-da-2-prova-piloto-do-12-censo-agropecuario-florestal-e-aquicola-acontecem-nesta-sexta-feira-08.html",
+      "published_at": "2026-05-06T04:59:38+00:00",
+      "collected_at": "2026-05-06T20:25:02.634402+00:00"
+    },
     {
       "id": "ede2c53fcafb5681",
       "title": "IBGE apresenta oficina inédita para comunicadores que atuam na área agropecuária, florestal e aquícola",
