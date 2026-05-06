@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-05-06T11:52:01.394116+00:00",
-  "total": 60,
+  "updated_at": "2026-05-06T14:18:35.047973+00:00",
+  "total": 61,
   "items": [
+    {
+      "id": "279e13a35095ce9e",
+      "title": "Seminário sobre geoinformação celebra o Dia do Cartógrafo na Casa Brasil IBGE",
+      "summary": "O IBGE reuniu, ontem (5), especialistas de instituições parceiras para o seminário Geoinformação: conectando saberes e transformando realidades, realizado na Casa Brasil IBGE, no Rio de Janeiro. Durante o encontro, que faz parte das comemorações do Dia do Cartógrafo (6), profissi...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46566-seminario-sobre-geoinformacao-celebra-o-dia-do-cartografo-na-casa-brasil-ibge.html",
+      "published_at": "2026-05-06T09:45:17+00:00",
+      "collected_at": "2026-05-06T14:18:22.783149+00:00"
+    },
     {
       "id": "4b815e25db60b072",
       "title": "IBGE apresenta oficina inédita para comunicadores que atuam na área agropecuária, florestal e aquícola",

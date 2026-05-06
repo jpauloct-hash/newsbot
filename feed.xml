@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 06 May 2026 11:52:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 14:18:35 +0000</lastBuildDate>
+    <item>
+      <title>Seminário sobre geoinformação celebra o Dia do Cartógrafo na Casa Brasil IBGE</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46566-seminario-sobre-geoinformacao-celebra-o-dia-do-cartografo-na-casa-brasil-ibge.html</link>
+      <description>O IBGE reuniu, ontem (5), especialistas de instituições parceiras para o seminário Geoinformação: conectando saberes e transformando realidades, realizado na Casa Brasil IBGE, no Rio de Janeiro. Durante o encontro, que faz parte das comemorações do Dia do Cartógrafo (6), profissi...</description>
+      <category>Mercado de Capitais</category>
+      <guid>279e13a35095ce9e</guid>
+      <pubDate>Wed, 06 May 2026 09:45:17 +0000</pubDate>
+    </item>
     <item>
       <title>IBGE apresenta oficina inédita para comunicadores que atuam na área agropecuária, florestal e aquícola</title>
       <link>https://agenciadenoticias.ibge.gov.br/agencia-noticias/3149-agencia-de-noticias/an-outras-noticias/an-censo-agro-12/46544-ibge-apresenta-oficina-inedita-para-comunicadores-que-atuam-na-area-agropecuaria-florestal-e-aquicola.html</link>
@@ -397,14 +405,6 @@
       <category>Regulatorio</category>
       <guid>f9030ff5b779e32a</guid>
       <pubDate>Mon, 13 Apr 2026 19:05:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>IBGE disponibiliza Agenda semanal com programações para os dias 13 a 17 de abril</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46396-ibge-disponibiliza-agenda-semanal-com-programacoes-para-os-dias-13-a-17-de-abril.html</link>
-      <description>Agenda IBGE traz a programação do instituto para a semana - Foto: Bel Corção/Brasil com S O Instituto Brasileiro de Geografia e Estatística (IBGE) disponibilizou hoje (13) a Agenda IBGE para a semana dos dias 13 a 17 de abril. A edição contempla as reuniões internas e externas, o...</description>
-      <category>Mercado de Capitais</category>
-      <guid>349d618fc47efa16</guid>
-      <pubDate>Mon, 13 Apr 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
