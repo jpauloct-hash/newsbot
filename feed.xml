@@ -5,7 +5,23 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 07 May 2026 11:51:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 14:14:24 +0000</lastBuildDate>
+    <item>
+      <title>Indústria nacional varia 0,1% em março e acumula alta de 3,1% em 2026</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46578-industria-nacional-varia-0-1-em-marco-e-acumula-alta-de-3-1-em-2026.html</link>
+      <description>Produção de produtos químicos registrou alta de 4,0% em março - Foto: Geraldo Bubniak/AEN A produção industrial registrou crescimento pelo terceiro mês consecutivo, ao mostrar variação positiva de 0,1% na passagem de fevereiro para março. No período, o setor acumula expansão de 3...</description>
+      <category>Resultado Financeiro</category>
+      <guid>6b8a849cd7e6a283</guid>
+      <pubDate>Thu, 07 May 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Produção industrial mostrou variação de 0,1% em março</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46577-producao-industrial-mostrou-variacao-de-0-1-em-marco.html</link>
+      <description>Em março de 2026, a produção industrial nacional mostrou variação positiva de 0,1% frente a fevereiro, terceira taxa positiva consecutiva, acumulando neste período expansão de 3,1%. Em relação a março do ano passado, a indústria ampliou a produção em 4,3%, após recuar 0,7% em fev...</description>
+      <category>Resultado Financeiro</category>
+      <guid>b9eaaee00ba38ee6</guid>
+      <pubDate>Thu, 07 May 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Dia do Cartógrafo destaca evolução tecnológica e importância estratégica da área no IBGE</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46582-dia-do-cartografo-destaca-evolucao-tecnologica-e-importancia-estrategica-da-area-no-ibge.html</link>
@@ -389,22 +405,6 @@
       <category>Mercado de Capitais</category>
       <guid>34eb708792ac06d0</guid>
       <pubDate>Thu, 16 Apr 2026 01:30:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Portaria CVM/PTE Nº 111/2024, de 25 de Outubro de 2024</title>
-      <link>http://www.cvm.gov.br/legislacao/portarias/portaria2024_111.html</link>
-      <description>&lt;p&gt;Autoriza e institui, no âmbito da Comissão de Valores Mobiliários, o novo Programa de Gestão e Desempenho (PGD) para o exercício de atividades que serão avaliadas em função da efetividade e da qualidade das entregas.&lt;/p&gt; &lt;p&gt;ALTERADA pela Portaria PTE &lt;a href="/export/sites/cvm...</description>
-      <category>Regulatorio</category>
-      <guid>f69505194c6bff27</guid>
-      <pubDate>Thu, 16 Apr 2026 12:06:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Portaria CVM/PTE Nº 81/2026, de 15 de Abril de 2026</title>
-      <link>http://www.cvm.gov.br/legislacao/portarias/portaria2026_081.html</link>
-      <description>&lt;p&gt;Institui o Programa de Gestão e Desempenho (PGD) no âmbito da Comissão de Valores Mobiliários (CVM) e dá outras providências.&lt;/p&gt; &lt;p&gt;REVOGA a Portaria PTE &lt;a href="/legislacao/portarias/portaria2024_111.html" target="_blank"&gt;111/24&lt;/a&gt;.&lt;/p&gt;</description>
-      <category>Regulatorio</category>
-      <guid>bfbb74322a568431</guid>
-      <pubDate>Thu, 16 Apr 2026 12:09:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

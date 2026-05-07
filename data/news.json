@@ -1,7 +1,38 @@
 {
-  "updated_at": "2026-05-07T11:51:41.467936+00:00",
-  "total": 65,
+  "updated_at": "2026-05-07T14:14:24.715328+00:00",
+  "total": 67,
   "items": [
+    {
+      "id": "6b8a849cd7e6a283",
+      "title": "Indústria nacional varia 0,1% em março e acumula alta de 3,1% em 2026",
+      "summary": "Produção de produtos químicos registrou alta de 4,0% em março - Foto: Geraldo Bubniak/AEN A produção industrial registrou crescimento pelo terceiro mês consecutivo, ao mostrar variação positiva de 0,1% na passagem de fevereiro para março. No período, o setor acumula expansão de 3...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "produção industrial"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46578-industria-nacional-varia-0-1-em-marco-e-acumula-alta-de-3-1-em-2026.html",
+      "published_at": "2026-05-07T09:00:00+00:00",
+      "collected_at": "2026-05-07T14:14:15.471932+00:00"
+    },
+    {
+      "id": "b9eaaee00ba38ee6",
+      "title": "Produção industrial mostrou variação de 0,1% em março",
+      "summary": "Em março de 2026, a produção industrial nacional mostrou variação positiva de 0,1% frente a fevereiro, terceira taxa positiva consecutiva, acumulando neste período expansão de 3,1%. Em relação a março do ano passado, a indústria ampliou a produção em 4,3%, após recuar 0,7% em fev...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "produção industrial"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46577-producao-industrial-mostrou-variacao-de-0-1-em-marco.html",
+      "published_at": "2026-05-07T09:00:00+00:00",
+      "collected_at": "2026-05-07T14:14:10.668771+00:00"
+    },
     {
       "id": "a1fdc0bac6ee7d9d",
       "title": "Dia do Cartógrafo destaca evolução tecnológica e importância estratégica da área no IBGE",
