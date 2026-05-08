@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-05-08T17:20:41.326169+00:00",
-  "total": 68,
+  "updated_at": "2026-05-08T19:21:36.999808+00:00",
+  "total": 69,
   "items": [
+    {
+      "id": "b981573bf935372f",
+      "title": "Coletiva Pública apresenta detalhes da a segunda prova piloto do 12º Censo Agropecuário, Florestal e Aquícola",
+      "summary": "O Instituto Brasileiro de Geografia e Estatística (IBGE) realizou uma coletiva pública, nesta sexta-feira (8), com detalhes sobre a segunda prova piloto do 12º Censo Agropecuário, Florestal e Aquícola que acontece na próxima semana em seis cidades, de quatro regiões do país. O pr...",
+      "category": "Resultado Financeiro",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46634-coletiva-publica-apresenta-detalhes-da-a-segunda-prova-piloto-do-12-censo-agropecuario-florestal-e-aquicola.html",
+      "published_at": "2026-05-08T02:35:33+00:00",
+      "collected_at": "2026-05-08T19:21:28.189237+00:00"
+    },
     {
       "id": "9060380060e79984",
       "title": "Rendimento médio da população brasileira atinge R$ 3.367 em 2025",
