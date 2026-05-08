@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-05-08T11:18:41.261569+00:00",
-  "total": 67,
+  "updated_at": "2026-05-08T13:53:56.846801+00:00",
+  "total": 68,
   "items": [
+    {
+      "id": "9060380060e79984",
+      "title": "Rendimento médio da população brasileira atinge R$ 3.367 em 2025",
+      "summary": "Do total de 212,7 milhões de pessoas residentes no Brasil em 2025, 67,2% possuíam algum tipo de rendimento - Foto: Marcello Casal Jr/Agência Brasil O rendimento médio mensal real de todas as fontes da população residente com rendimento no Brasil alcançou R$ 3.367 em 2025, o maior...",
+      "category": "Resultado Financeiro",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46579-rendimento-medio-da-populacao-brasileira-atinge-r-3-367-em-2025.html",
+      "published_at": "2026-05-08T10:00:00+00:00",
+      "collected_at": "2026-05-08T13:53:45.770930+00:00"
+    },
     {
       "id": "6b8a849cd7e6a283",
       "title": "Indústria nacional varia 0,1% em março e acumula alta de 3,1% em 2026",

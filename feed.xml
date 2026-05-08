@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 08 May 2026 11:18:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 13:53:56 +0000</lastBuildDate>
+    <item>
+      <title>Rendimento médio da população brasileira atinge R$ 3.367 em 2025</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46579-rendimento-medio-da-populacao-brasileira-atinge-r-3-367-em-2025.html</link>
+      <description>Do total de 212,7 milhões de pessoas residentes no Brasil em 2025, 67,2% possuíam algum tipo de rendimento - Foto: Marcello Casal Jr/Agência Brasil O rendimento médio mensal real de todas as fontes da população residente com rendimento no Brasil alcançou R$ 3.367 em 2025, o maior...</description>
+      <category>Resultado Financeiro</category>
+      <guid>9060380060e79984</guid>
+      <pubDate>Fri, 08 May 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Indústria nacional varia 0,1% em março e acumula alta de 3,1% em 2026</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46578-industria-nacional-varia-0-1-em-marco-e-acumula-alta-de-3-1-em-2026.html</link>
@@ -397,14 +405,6 @@
       <category>Resultado Financeiro</category>
       <guid>92b0f4ecfe75387a</guid>
       <pubDate>Thu, 16 Apr 2026 03:22:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Oficinas participativas fecham o Workshop de Experiências em Censos de População de Rua</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46448-oficinas-participativas-fecham-o-workshop-de-experiencias-em-censos-de-populacao-de-rua.html</link>
-      <description>IBGE apresentou os projetos de mapeamento, planejamento e questionários para escrutínio dos participantes. - Foto: Hiago Martins O terceiro dia do Workshop de Experiências de Censos da População em Situação de Rua, nesta quarta-feira (15), foi marcado pelas oficinas de debates. M...</description>
-      <category>Mercado de Capitais</category>
-      <guid>34eb708792ac06d0</guid>
-      <pubDate>Thu, 16 Apr 2026 01:30:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
