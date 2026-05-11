@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-05-11T11:25:07.598277+00:00",
-  "total": 69,
+  "updated_at": "2026-05-11T14:58:07.763561+00:00",
+  "total": 71,
   "items": [
+    {
+      "id": "7ed527b0f7bb227c",
+      "title": "IBGE disponibiliza Agenda semanal com programações para os dias 11 a 15 de maio",
+      "summary": "Agenda IBGE traz a programação do instituto para a semana - Foto: Bel Corção/Brasil com S O Instituto Brasileiro de Geografia e Estatística (IBGE) disponibilizou hoje (11) a Agenda IBGE para a semana dos dias 11 a 15 de maio. A edição contempla as reuniões internas e externas, os...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46631-ibge-disponibiliza-agenda-semanal-com-programacoes-para-os-dias-11-a-15-de-maio.html",
+      "published_at": "2026-05-11T09:00:00+00:00",
+      "collected_at": "2026-05-11T14:57:57.965313+00:00"
+    },
+    {
+      "id": "652311bc56d6b6f7",
+      "title": "Acompanhe em Tempo Real a cobertura da segunda prova piloto do 12º Censo Agropecuário, Florestal e Aquícola",
+      "summary": "Equipes se preparando para a coleta em Barcarena (PA). - Foto: Marina Guerra O Instituto Brasileiro de Geografia e Estatística (IBGE) inicia hoje a 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola, mais uma etapa preparatória e de testes para garantir a qualidade e...",
+      "category": "Operacional",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46640-ibge-inicia-nesta-segunda-feira-11-a-segunda-prova-piloto-do-12-censo-agropecuario-florestal-e-aquicola.html",
+      "published_at": "2026-05-11T09:00:00+00:00",
+      "collected_at": "2026-05-11T14:57:53.140094+00:00"
+    },
     {
       "id": "b981573bf935372f",
       "title": "Coletiva Pública apresenta detalhes da a segunda prova piloto do 12º Censo Agropecuário, Florestal e Aquícola",
