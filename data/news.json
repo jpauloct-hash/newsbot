@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-05-11T17:28:50.339423+00:00",
-  "total": 71,
+  "updated_at": "2026-05-11T19:51:02.923256+00:00",
+  "total": 74,
   "items": [
+    {
+      "id": "d52202debbb68b3e",
+      "title": "Confira a cobertura da segunda prova piloto do 12º Censo Agropecuário, Florestal e Aquícola",
+      "summary": "O Instituto Brasileiro de Geografia e Estatística (IBGE) iniciou hoje (11) a 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola, mais uma etapa preparatória e de testes para garantir a qualidade e a abrangência do levantamento que será realizado em todo o país. Seis ...",
+      "category": "Operacional",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46640-ibge-inicia-nesta-segunda-feira-11-a-segunda-prova-piloto-do-12-censo-agropecuario-florestal-e-aquicola.html",
+      "published_at": "2026-05-11T09:00:00+00:00",
+      "collected_at": "2026-05-11T19:50:54.401550+00:00"
+    },
+    {
+      "id": "28a594b7059a46fe",
+      "title": "IBGE debate soberania de dados e produção científica em palestra na Universidade Estadual do Ceará",
+      "summary": "Para o presidente do IBGE, a temática é central para o futuro do Brasil. - Foto: Cortesia/ IPECE O presidente do Instituto Brasileiro de Geografia e Estatística (IBGE), Marcio Pochmann, ministrou nesta segunda-feira, 11 de maio, a palestra “Produção Científica e Soberania de Dado...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46649-ibge-debate-soberania-de-dados-e-producao-cientifica-em-palestra-na-universidade-estadual-do-ceara.html",
+      "published_at": "2026-05-11T02:29:38+00:00",
+      "collected_at": "2026-05-11T19:50:49.506353+00:00"
+    },
+    {
+      "id": "900f6bd5b8224510",
+      "title": "Destaque em mapa global de biodiversidade, Barcarena-PA será a primeira cidade na Amazônia a receber lançamento de mapa-múndi do IBGE",
+      "summary": "Fachada da UEPA, Bacarena, Pará. - Foto: Reprodução O Instituto Brasileiro de Geografia e Estatística, por meio da Superintendência Estadual no Pará (SES/PA), realizará o evento de lançamento do “Mapa de Riqueza de Espécies 2025”, iniciativa que marca o início das comemorações pe...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46651-destaque-em-mapa-global-de-biodiversidade-barcarena-pa-sera-a-primeira-cidade-na-amazonia-a-receber-lancamento-de-mapa-mundi-do-ibge.html",
+      "published_at": "2026-05-11T02:51:30+00:00",
+      "collected_at": "2026-05-11T19:50:44.645523+00:00"
+    },
     {
       "id": "7ed527b0f7bb227c",
       "title": "IBGE disponibiliza Agenda semanal com programações para os dias 11 a 15 de maio",
