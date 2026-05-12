@@ -1,7 +1,83 @@
 {
-  "updated_at": "2026-05-12T18:57:31.523616+00:00",
-  "total": 94,
+  "updated_at": "2026-05-12T20:44:04.705038+00:00",
+  "total": 99,
   "items": [
+    {
+      "id": "c3882a35877a2a51",
+      "title": "Pesquisadores são acolhidos em comunidade na 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola em Viamão (RS)",
+      "summary": "O segundo dia de atividades da 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola, conduzido pelo Instituto Brasileiro de Geografia e Estatística (IBGE) contou com mais lugares visitados na cidade de Viamão (RS). Comunidade acolheu pesquisadores do IBGE. - Foto: Equi...",
+      "category": "Operacional",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46704-pesquisadores-sao-acolhidos-em-comunidade-na-2-prova-piloto-do-12-censo-agropecuario-florestal-e-aquicola-em-viamao-rs.html",
+      "published_at": "2026-05-12T04:58:29+00:00",
+      "collected_at": "2026-05-12T20:43:52.485566+00:00"
+    },
+    {
+      "id": "1554b965c8cf99c6",
+      "title": "IBGE avança no segundo dia da 2ª prova piloto do Censo Agropecuário em Uruçuí (PI)",
+      "summary": "Segundo dia de prova piloto do Censo em Uruçuí. - Foto: Equipe CDDI/CCS O Instituto Brasileiro de Geografia e Estatística (IBGE) realizou, nesta terça-feira (12), o segundo dia de atividades da 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola no município de Uruçuí...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "pib"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46700-ibge-avanca-no-segundo-dia-da-2-prova-piloto-do-censo-agropecuario-em-urucui-pi.html",
+      "published_at": "2026-05-12T05:02:31+00:00",
+      "collected_at": "2026-05-12T20:43:47.233724+00:00"
+    },
+    {
+      "id": "e8b34f145a528f7d",
+      "title": "Recenseadores destacam preparação para a segunda prova piloto do 12º Censo Agropecuário em Irati (PR)",
+      "summary": "Equipes destacam a preparação para operação. - Foto: Equipe CDDI/CCS O segundo dia de atividades da 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola, conduzido pelo Instituto Brasileiro de Geografia e Estatística (IBGE) contou com mais lugares visitados na cidade d...",
+      "category": "Operacional",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46703-recenseadores-destacam-preparacao-para-a-segunda-prova-piloto-do-12-censo-agropecuario-em-irati-pr.html",
+      "published_at": "2026-05-12T05:07:18+00:00",
+      "collected_at": "2026-05-12T20:43:42.353298+00:00"
+    },
+    {
+      "id": "35810bd0abf2552b",
+      "title": "Durante a 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola, pesquisadores relembram aventuras em Corumbá (MS)",
+      "summary": "O segundo dia de atividades da 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola, conduzido pelo Instituto Brasileiro de Geografia e Estatística (IBGE) contou com mais lugares visitados na cidade de Corumbá (MS). Pesquisadores indo a campo em Corumbá (MS). - Foto: E...",
+      "category": "Operacional",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46702-durante-a-2-prova-piloto-do-12-censo-agropecuario-florestal-e-aquicola-pesquisadores-relembram-aventuras-em-corumba-ms.html",
+      "published_at": "2026-05-12T05:16:30+00:00",
+      "collected_at": "2026-05-12T20:43:37.515051+00:00"
+    },
+    {
+      "id": "e2e91a20aa0a1c3f",
+      "title": "Segunda prova piloto do Censo Agropecuário testa sistemas em áreas rurais de Rio Verde (GO)",
+      "summary": "Segundo dia de prova piloto do Censo em Rio Verde. - Foto: Equipe CDDI/CCS O Instituto Brasileiro de Geografia e Estatística (IBGE) realiza, em Rio Verde (GO), a 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola. A atividade integra o conjunto de ações preparatórias...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46701-segunda-prova-piloto-do-censo-agropecuario-testa-sistemas-em-areas-rurais-de-rio-verde-go.html",
+      "published_at": "2026-05-12T05:30:00+00:00",
+      "collected_at": "2026-05-12T20:43:32.671125+00:00"
+    },
     {
       "id": "3c4f42ec6a26e4c8",
       "title": "Presidente do IBGE debate soberania de dados e produção científica em palestra na Universidade Estadual do Ceará",
