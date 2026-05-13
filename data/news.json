@@ -1,7 +1,65 @@
 {
-  "updated_at": "2026-05-13T18:57:56.129855+00:00",
-  "total": 107,
+  "updated_at": "2026-05-13T20:50:13.525066+00:00",
+  "total": 111,
   "items": [
+    {
+      "id": "446c53fd261b84e9",
+      "title": "Em Barcarena-PA, IBGE apresenta Mapa de Riqueza de Espécies 2025 durante prova piloto do 12º CAFA",
+      "summary": "Estudantes da UEPA com exemplares do mapa-múndi no auditório do campus O Instituto Brasileiro de Geografia e Estatística, por meio da Superintendência Estadual no Pará (SES/PA), realizou, nesta quarta-feira (13), o lançamento do “Mapa de Riqueza de Espécies 2025”, iniciativa que ...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46726-em-barcarena-pa-ibge-apresenta-mapa-de-riqueza-de-especies-2025-durante-prova-piloto-do-12-cafa.html",
+      "published_at": "2026-05-13T02:58:31+00:00",
+      "collected_at": "2026-05-13T20:50:01.069902+00:00"
+    },
+    {
+      "id": "40d16ce5551b8a71",
+      "title": "Pesquisadores conhecem agricultura familia em Irati (PR) durante prova piloto do 12º Censo Agropecuário, Florestal e Aquícola",
+      "summary": "Durante a prova piloto do 12º Censo Agropecuário, Florestal e Aquícola, os recenseadores, em Irati (PR), conheceram a realidade da agricultura familiar da região. Coleta de informações em Irati (PR). - Foto: Equipe CDDI/CCS As equipes visitaram a Faxinal Monjolo, comunidade tradi...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46730-pesquisadores-conhecem-agricultura-familia-em-irati-pr-durante-prova-piloto-do-12-censo-agropecuario-florestal-e-aquicola.html",
+      "published_at": "2026-05-13T04:49:33+00:00",
+      "collected_at": "2026-05-13T20:49:55.685602+00:00"
+    },
+    {
+      "id": "795d4d3f0f7c5676",
+      "title": "Moradores de comunidades ribeirinhas explicam sobre a cultura do açaí na prova piloto do 12º Censo Agropecuário, Florestal e Aquícola em Barcarena (PA)",
+      "summary": "Pesquisadores chegando nas comunidades de Barcarena (PA). - Foto: Equipe CDDI/CCS Moradores de comunidade explicam sobre a cultura do açaí na prova piloto do 12º Censo Agropecuário, Florestal e Aquícola em Barcarena (PA). Na Ilha das Onças, no Pará, a economia local segue forteme...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46731-moradores-de-comunidades-ribeirinhas-explicam-sobre-a-cultura-do-acai-na-prova-piloto-do-12-censo-agropecuario-florestal-e-aquicola-em-barcarena-pa.html",
+      "published_at": "2026-05-13T05:01:17+00:00",
+      "collected_at": "2026-05-13T20:49:50.797436+00:00"
+    },
+    {
+      "id": "feb424dc7f9f5e94",
+      "title": "XVI Seminário Brasil em Números debate dimensões da realidade brasileira",
+      "summary": "O primeiro dia do XVI Seminário Brasil em Números, realizado na Casa Brasil IBGE nesta quarta-feira (13), reuniu, em cinco mesas temáticas, especialistas e pesquisadores do IBGE que escreveram os capítulos da edição especial de 90 anos do IBGE. O seminário está diretamente ligado...",
+      "category": "Operacional",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46732-xvi-seminario-brasil-em-numeros-debate-dimensoes-da-realidade-brasileira.html",
+      "published_at": "2026-05-13T05:17:35+00:00",
+      "collected_at": "2026-05-13T20:49:45.899154+00:00"
+    },
     {
       "id": "c742c1a629f41d77",
       "title": "Produtores celebram colheita durante visita de pesquisadores na prova piloto do 12º Censo Agropecuário, Florestal e Aquícola em Viamão (RS)",
