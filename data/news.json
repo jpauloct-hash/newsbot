@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-05-13T20:50:13.525066+00:00",
-  "total": 111,
+  "updated_at": "2026-05-13T22:14:37.461269+00:00",
+  "total": 112,
   "items": [
+    {
+      "id": "8283ac81d942feea",
+      "title": "Pesquisadores conhecem agricultura familiar em Irati (PR) durante prova piloto do 12º Censo Agropecuário, Florestal e Aquícola",
+      "summary": "Durante a prova piloto do 12º Censo Agropecuário, Florestal e Aquícola, os recenseadores, em Irati (PR), conheceram a realidade da agricultura familiar da região. Coleta de informações em Irati (PR). - Foto: Equipe CDDI/CCS As equipes visitaram a Faxinal Monjolo, comunidade tradi...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46730-pesquisadores-conhecem-agricultura-familia-em-irati-pr-durante-prova-piloto-do-12-censo-agropecuario-florestal-e-aquicola.html",
+      "published_at": "2026-05-13T04:49:33+00:00",
+      "collected_at": "2026-05-13T22:14:26.673713+00:00"
+    },
     {
       "id": "446c53fd261b84e9",
       "title": "Em Barcarena-PA, IBGE apresenta Mapa de Riqueza de Espécies 2025 durante prova piloto do 12º CAFA",
