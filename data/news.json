@@ -1,7 +1,50 @@
 {
-  "updated_at": "2026-05-13T16:23:46.752537+00:00",
-  "total": 104,
+  "updated_at": "2026-05-13T18:57:56.129855+00:00",
+  "total": 107,
   "items": [
+    {
+      "id": "c742c1a629f41d77",
+      "title": "Produtores celebram colheita durante visita de pesquisadores na prova piloto do 12º Censo Agropecuário, Florestal e Aquícola em Viamão (RS)",
+      "summary": "Uma produção ainda recente, mas já consolidada em qualidade e diversidade, marca o ritmo das atividades rurais em Viamão (RS), onde diferentes iniciativas produtivas evidenciam o dinamismo do campo durante a realização da segunda prova piloto do 12º Censo Agropecuário, Florestal ...",
+      "category": "Operacional",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46721-produtores-celebram-colheita-durante-visita-de-pesquisadores-no-prova-piloto-do-12-censo-agropecuario-florestal-e-aquicola-em-viamao-rs.html",
+      "published_at": "2026-05-13T02:11:44+00:00",
+      "collected_at": "2026-05-13T18:57:47.158479+00:00"
+    },
+    {
+      "id": "b3dfeab418f71da7",
+      "title": "IBGE lança “Mapa de Riqueza de Espécies 2025” durante segunda prova piloto do Aquícola em Barcarena (PA)",
+      "summary": "O Instituto Brasileiro de Geografia e Estatística, por meio da Superintendência Estadual no Pará (SES/PA), realizou, nesta quarta-feira (13), o lançamento do “Mapa de Riqueza de Espécies 2025”, iniciativa que marca o início das comemorações pelos 90 anos do IBGE na Região Norte e...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46726-ibge-lanca-mapa-de-riqueza-de-especies-2025-durante-segunda-prova-piloto-do-aquicola-em-barcarena-pa.html",
+      "published_at": "2026-05-13T02:58:31+00:00",
+      "collected_at": "2026-05-13T18:57:42.332797+00:00"
+    },
+    {
+      "id": "20e6fa619466e937",
+      "title": "Equipes avançam na coleta da segunda prova piloto do 12º Censo Agropecuário, Florestal e Aquícola em Rio Verde (GO)",
+      "summary": "Em Rio Verde (GO), a operação de coleta de dados censitários avança em 14 setores, onde equipes de recenseadores atuam no levantamento das informações durante a prova piloto do 12º Censo Agropecuário, Florestal e Aquícola. O município se destaca no cenário nacional pela força de ...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46728-equipes-avancam-na-coleta-da-segunda-prova-piloto-do-12-censo-agropecuario-florestal-e-aquicola-em-rio-verde-go.html",
+      "published_at": "2026-05-13T03:03:16+00:00",
+      "collected_at": "2026-05-13T18:57:37.503029+00:00"
+    },
     {
       "id": "2d47865124c7d5d4",
       "title": "Recenseadores destacam preparação para a segunda prova piloto do 12º Censo Agropecuário, Florestal e Aquícola em Irati (PR)",
