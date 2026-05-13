@@ -1,7 +1,85 @@
 {
-  "updated_at": "2026-05-13T10:30:00.917434+00:00",
-  "total": 99,
+  "updated_at": "2026-05-13T13:13:07.777712+00:00",
+  "total": 104,
   "items": [
+    {
+      "id": "2d47865124c7d5d4",
+      "title": "Recenseadores destacam preparação para a segunda prova piloto do 12º Censo Agropecuário, Florestal e Aquícola em Irati (PR)",
+      "summary": "Equipes destacam a preparação para operação. - Foto: Equipe CDDI/CCS O segundo dia de atividades da 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola, conduzido pelo Instituto Brasileiro de Geografia e Estatística (IBGE) contou com mais lugares visitados na cidade d...",
+      "category": "Operacional",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46703-recenseadores-destacam-preparacao-para-a-segunda-prova-piloto-do-12-censo-agropecuario-em-irati-pr.html",
+      "published_at": "2026-05-12T05:07:18+00:00",
+      "collected_at": "2026-05-13T13:12:56.428160+00:00"
+    },
+    {
+      "id": "271979210e3541b9",
+      "title": "Em março, indústria avança em 11 dos 15 locais pesquisados",
+      "summary": "Em março de 2026, a variação positiva de 0,1% da produção industrial nacional, frente a fevereiro, na série com ajuste sazonal, foi acompanhada por resultados positivos em onze dos quinze locais pesquisados. Pará (4,5%), Mato Grosso (3,6%), Goiás (3,6%) e Espírito Santo (3,5%) as...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "produção industrial"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46675-em-marco-industria-avanca-em-11-dos-15-locais-pesquisados2.html",
+      "published_at": "2026-05-13T09:00:00+00:00",
+      "collected_at": "2026-05-13T13:12:51.542924+00:00"
+    },
+    {
+      "id": "6d9548596546d4de",
+      "title": "Em março, vendas no varejo crescem 0,5%",
+      "summary": "Em março de 2026, o volume de vendas do comércio varejista cresceu 0,5% frente a fevereiro deste ano, na série com ajuste sazonal. Com isso, a média móvel trimestral foi de 0,6%. Período Varejo Varejo Ampliado Volume de vendas Receita nominal Volume de vendas Receita nominal Març...",
+      "category": "Operacional",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "varejo"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46693-em-marco-vendas-no-varejo-crescem-0-5.html",
+      "published_at": "2026-05-13T09:00:00+00:00",
+      "collected_at": "2026-05-13T13:12:44.363311+00:00"
+    },
+    {
+      "id": "25a7ca8683920423",
+      "title": "Em março, produção industrial cresce em 11 dos 15 locais pesquisados",
+      "summary": "A produção de petróleo e derivados se destacou nos principais estados com alta na atividade industrial - Foto: Agência Petrobras De fevereiro para março, a variação positiva de 0,1% na produção industrial do país, na série com ajuste sazonal, foi acompanhada por 11 dos 15 locais ...",
+      "category": "Mercado de Capitais",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "produção industrial"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46677-em-marco-producao-industrial-cresce-em-11-dos-15-locais-pesquisados.html",
+      "published_at": "2026-05-13T09:00:00+00:00",
+      "collected_at": "2026-05-13T13:12:39.404515+00:00"
+    },
+    {
+      "id": "498f15bfe63676d7",
+      "title": "Em março, comércio cresce 0,5% e atinge novo recorde",
+      "summary": "Combustíveis e lubrificantes contribuíram para o crescimento das vendas no varejo - Foto: Helena Pontes/Agência IBGE Notícias O volume de vendas do comércio varejista do país cresceu 0,5% em março, frente a fevereiro, na série sem influências sazonais. Com esse desempenho, o seto...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "varejo"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46694-em-marco-comercio-cresce-0-5-e-atinge-novo-recorde.html",
+      "published_at": "2026-05-13T09:00:00+00:00",
+      "collected_at": "2026-05-13T13:12:34.521332+00:00"
+    },
     {
       "id": "c3882a35877a2a51",
       "title": "Pesquisadores são acolhidos em comunidade na 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola em Viamão (RS)",
