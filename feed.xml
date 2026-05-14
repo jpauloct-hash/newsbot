@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 17:54:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 19:48:29 +0000</lastBuildDate>
+    <item>
+      <title>Alerta de uso indevido de nome e logotipo do IBGE em sítio eletrônico</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46750-alerta-de-uso-indevido-de-nome-e-logotipo-do-ibge-em-sitio-eletronico.html</link>
+      <description>Esta Fundação IBGE tomou ciência de que o nome fantasia e o logotipo do Instituto estão sendo utilizados de forma irregular por terceiros, coletando dados sensíveis de pessoas desavisadas, para fins desconhecidos, no endereço eletrônico https://concurso-ibge-2026.netlify.app. Esc...</description>
+      <category>Mercado de Capitais</category>
+      <guid>a4961a31bca9e722</guid>
+      <pubDate>Thu, 14 May 2026 02:35:56 +0000</pubDate>
+    </item>
     <item>
       <title>PNAD Contínua Trimestral: desocupação sobe em 15 das 27 UFs no 1° trimestre de 2026</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46676-pnad-continua-trimestral-desocupacao-sobe-em-15-das-27-ufs-no-1-trimestre-de-2026.html</link>
@@ -397,14 +405,6 @@
       <category>Resultado Financeiro</category>
       <guid>9060380060e79984</guid>
       <pubDate>Fri, 08 May 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indústria nacional varia 0,1% em março e acumula alta de 3,1% em 2026</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46578-industria-nacional-varia-0-1-em-marco-e-acumula-alta-de-3-1-em-2026.html</link>
-      <description>Produção de produtos químicos registrou alta de 4,0% em março - Foto: Geraldo Bubniak/AEN A produção industrial registrou crescimento pelo terceiro mês consecutivo, ao mostrar variação positiva de 0,1% na passagem de fevereiro para março. No período, o setor acumula expansão de 3...</description>
-      <category>Resultado Financeiro</category>
-      <guid>6b8a849cd7e6a283</guid>
-      <pubDate>Thu, 07 May 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
