@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-05-14T21:12:37.605863+00:00",
-  "total": 117,
+  "updated_at": "2026-05-14T22:58:28.230465+00:00",
+  "total": 118,
   "items": [
+    {
+      "id": "d11c07f690e857a8",
+      "title": "Ministro Bruno Moretti (MPO) visita a sede do IBGE no Rio de Janeiro",
+      "summary": "Novo ministro do Planejamento e Orçamento (MPO) foi servidor do IBGE, da Diretoria de Pesquisa do concurso de 2002. O presidente do IBGE, Marcio Pochmann recebeu hoje na sede do Instituto, no Rio de Janeiro, das 15h às 17h, o ministro Bruno Moretti, do Ministério do Planejamento ...",
+      "category": "Fiscal",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46753-ministro-bruno-moretti-mpo-visita-a-sede-do-ibge-no-rio-de-janeiro.html",
+      "published_at": "2026-05-14T06:34:19+00:00",
+      "collected_at": "2026-05-14T22:58:19.105892+00:00"
+    },
     {
       "id": "a4961a31bca9e722",
       "title": "Alerta de uso indevido de nome e logotipo do IBGE em sítio eletrônico",

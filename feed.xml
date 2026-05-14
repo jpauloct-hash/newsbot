@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 14 May 2026 21:12:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 22:58:28 +0000</lastBuildDate>
+    <item>
+      <title>Ministro Bruno Moretti (MPO) visita a sede do IBGE no Rio de Janeiro</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46753-ministro-bruno-moretti-mpo-visita-a-sede-do-ibge-no-rio-de-janeiro.html</link>
+      <description>Novo ministro do Planejamento e Orçamento (MPO) foi servidor do IBGE, da Diretoria de Pesquisa do concurso de 2002. O presidente do IBGE, Marcio Pochmann recebeu hoje na sede do Instituto, no Rio de Janeiro, das 15h às 17h, o ministro Bruno Moretti, do Ministério do Planejamento ...</description>
+      <category>Fiscal</category>
+      <guid>d11c07f690e857a8</guid>
+      <pubDate>Thu, 14 May 2026 06:34:19 +0000</pubDate>
+    </item>
     <item>
       <title>Alerta de uso indevido de nome e logotipo do IBGE em sítio eletrônico</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46750-alerta-de-uso-indevido-de-nome-e-logotipo-do-ibge-em-sitio-eletronico.html</link>
@@ -397,14 +405,6 @@
       <category>Resultado Financeiro</category>
       <guid>b981573bf935372f</guid>
       <pubDate>Fri, 08 May 2026 02:35:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rendimento médio da população brasileira atinge R$ 3.367 em 2025</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46579-rendimento-medio-da-populacao-brasileira-atinge-r-3-367-em-2025.html</link>
-      <description>Do total de 212,7 milhões de pessoas residentes no Brasil em 2025, 67,2% possuíam algum tipo de rendimento - Foto: Marcello Casal Jr/Agência Brasil O rendimento médio mensal real de todas as fontes da população residente com rendimento no Brasil alcançou R$ 3.367 em 2025, o maior...</description>
-      <category>Resultado Financeiro</category>
-      <guid>9060380060e79984</guid>
-      <pubDate>Fri, 08 May 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
