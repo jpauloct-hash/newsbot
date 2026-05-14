@@ -1,7 +1,65 @@
 {
-  "updated_at": "2026-05-14T10:20:35.858313+00:00",
-  "total": 112,
+  "updated_at": "2026-05-14T12:26:43.045010+00:00",
+  "total": 116,
   "items": [
+    {
+      "id": "c8bf69f93a53d53c",
+      "title": "PNAD Contínua Trimestral: desocupação sobe em 15 das 27 UFs no 1° trimestre de 2026",
+      "summary": "A taxa de desocupação do país no primeiro trimestre de 2026 foi de 6,1%, alta de 1,0 ponto percentual (p.p.) em relação ao quarto trimestre de 2025 (5,1%) e recuo de 0,9 p.p. ante o primeiro trimestre de 2025 (7,0%). Frente ao trimestre imediatamente anterior, a taxa de desocupaç...",
+      "category": "Internacional",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46676-pnad-continua-trimestral-desocupacao-sobe-em-15-das-27-ufs-no-1-trimestre-de-2026.html",
+      "published_at": "2026-05-14T09:00:00+00:00",
+      "collected_at": "2026-05-14T12:26:33.584800+00:00"
+    },
+    {
+      "id": "1bc58729b2d6ec30",
+      "title": "Soja tem previsão de novo recorde na série histórica em 2026",
+      "summary": "Projeções indicam mais uma safra histórica da soja - Foto: Jaelson Lucas/AEN-PR A estimativa em abril da safra nacional de cereais, leguminosas e oleaginosas para 2026 atingiu 348,7 milhões de toneladas, com previsão de novo recorde da série histórica para a produção da soja no a...",
+      "category": "Resultado Financeiro",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46727-soja-tem-previsao-de-novo-recorde-na-serie-historica-em-2026.html",
+      "published_at": "2026-05-14T09:00:00+00:00",
+      "collected_at": "2026-05-14T12:26:28.766178+00:00"
+    },
+    {
+      "id": "bf4b5eb6eecfea4d",
+      "title": "Desocupação sobe em 15 estados no primeiro trimestre; 12 ficam estáveis",
+      "summary": "Amapá, Alagoas, Bahia, Pernambuco e Piauí registraram as maiores taxas de desocupação - Foto: GilsonAbreu/SGAS O aumento da taxa de desocupação para 6,1%, no primeiro trimestre, refletiu a alta do desemprego em 15 estados, em relação ao quarto trimestre de 2025. As maiores taxas ...",
+      "category": "Operacional",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46678-desocupacao-sobe-em-15-estados-no-primeiro-trimestre-12-ficam-estaveis.html",
+      "published_at": "2026-05-14T09:00:00+00:00",
+      "collected_at": "2026-05-14T12:26:23.850992+00:00"
+    },
+    {
+      "id": "5f4850a8304b07a3",
+      "title": "Em abril, IBGE prevê safra de 348,7 milhões de toneladas para 2026",
+      "summary": "A estimativa de abril de 2026 para a produção de cereais, leguminosas e oleaginosas é de 348,7 milhões de toneladas, 0,7% maior (ou mais 2,6 milhões de toneladas) que a obtida em 2025 (346,1 milhões de toneladas), com variação positiva de 0,1% (ou mais 334.277 mil toneladas) à es...",
+      "category": "Operacional",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46725-em-abril-ibge-preve-safra-de-348-7-milhoes-de-toneladas-para-2026.html",
+      "published_at": "2026-05-14T09:00:00+00:00",
+      "collected_at": "2026-05-14T12:26:18.944922+00:00"
+    },
     {
       "id": "8283ac81d942feea",
       "title": "Pesquisadores conhecem agricultura familiar em Irati (PR) durante prova piloto do 12º Censo Agropecuário, Florestal e Aquícola",
