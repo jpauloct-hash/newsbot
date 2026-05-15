@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-05-15T10:26:32.808847+00:00",
-  "total": 118,
+  "updated_at": "2026-05-15T12:55:34.055697+00:00",
+  "total": 120,
   "items": [
+    {
+      "id": "6eaa5a951c8e0956",
+      "title": "Volume de serviços recua 1,2% em março",
+      "summary": "Em março de 2026, o volume de serviços no Brasil mostrou queda de 1,2% frente ao mês imediatamente anterior, na série livre de influências sazonais, após ter apresentado estabilidade (0,0%) em fevereiro de 2026. Dessa forma, o setor de serviços está 18,2% acima do nível de fevere...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46746-volume-de-servicos-recua-1-2-em-marco.html",
+      "published_at": "2026-05-15T09:00:00+00:00",
+      "collected_at": "2026-05-15T12:55:23.328316+00:00"
+    },
+    {
+      "id": "733a1f36569fd2d6",
+      "title": "Setor de serviços recua 1,2% com destaque para transportes",
+      "summary": "O segmento de transportes teve queda de 1,7% em março - Foto: Pixabay O volume de serviços do país recuou 1,2% em março de 2026, em relação ao mês anterior, após estabilidade em fevereiro. A queda foi acompanhada por todas as cinco atividades investigadas, com destaque para os tr...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46747-setor-de-servicos-recua-1-2-com-destaque-para-transportes.html",
+      "published_at": "2026-05-15T09:00:00+00:00",
+      "collected_at": "2026-05-15T12:55:18.468821+00:00"
+    },
     {
       "id": "d11c07f690e857a8",
       "title": "Ministro Bruno Moretti (MPO) visita a sede do IBGE no Rio de Janeiro",

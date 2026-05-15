@@ -5,7 +5,23 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 15 May 2026 10:26:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 12:55:34 +0000</lastBuildDate>
+    <item>
+      <title>Volume de serviços recua 1,2% em março</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46746-volume-de-servicos-recua-1-2-em-marco.html</link>
+      <description>Em março de 2026, o volume de serviços no Brasil mostrou queda de 1,2% frente ao mês imediatamente anterior, na série livre de influências sazonais, após ter apresentado estabilidade (0,0%) em fevereiro de 2026. Dessa forma, o setor de serviços está 18,2% acima do nível de fevere...</description>
+      <category>Resultado Financeiro</category>
+      <guid>6eaa5a951c8e0956</guid>
+      <pubDate>Fri, 15 May 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Setor de serviços recua 1,2% com destaque para transportes</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46747-setor-de-servicos-recua-1-2-com-destaque-para-transportes.html</link>
+      <description>O segmento de transportes teve queda de 1,7% em março - Foto: Pixabay O volume de serviços do país recuou 1,2% em março de 2026, em relação ao mês anterior, após estabilidade em fevereiro. A queda foi acompanhada por todas as cinco atividades investigadas, com destaque para os tr...</description>
+      <category>Resultado Financeiro</category>
+      <guid>733a1f36569fd2d6</guid>
+      <pubDate>Fri, 15 May 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Ministro Bruno Moretti (MPO) visita a sede do IBGE no Rio de Janeiro</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46753-ministro-bruno-moretti-mpo-visita-a-sede-do-ibge-no-rio-de-janeiro.html</link>
@@ -389,22 +405,6 @@
       <category>Mercado de Capitais</category>
       <guid>7ed527b0f7bb227c</guid>
       <pubDate>Mon, 11 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Acompanhe em Tempo Real a cobertura da segunda prova piloto do 12º Censo Agropecuário, Florestal e Aquícola</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46640-ibge-inicia-nesta-segunda-feira-11-a-segunda-prova-piloto-do-12-censo-agropecuario-florestal-e-aquicola.html</link>
-      <description>Equipes se preparando para a coleta em Barcarena (PA). - Foto: Marina Guerra O Instituto Brasileiro de Geografia e Estatística (IBGE) inicia hoje a 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola, mais uma etapa preparatória e de testes para garantir a qualidade e...</description>
-      <category>Operacional</category>
-      <guid>652311bc56d6b6f7</guid>
-      <pubDate>Mon, 11 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coletiva Pública apresenta detalhes da a segunda prova piloto do 12º Censo Agropecuário, Florestal e Aquícola</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46634-coletiva-publica-apresenta-detalhes-da-a-segunda-prova-piloto-do-12-censo-agropecuario-florestal-e-aquicola.html</link>
-      <description>O Instituto Brasileiro de Geografia e Estatística (IBGE) realizou uma coletiva pública, nesta sexta-feira (8), com detalhes sobre a segunda prova piloto do 12º Censo Agropecuário, Florestal e Aquícola que acontece na próxima semana em seis cidades, de quatro regiões do país. O pr...</description>
-      <category>Resultado Financeiro</category>
-      <guid>b981573bf935372f</guid>
-      <pubDate>Fri, 08 May 2026 02:35:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
