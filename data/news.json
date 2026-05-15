@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-05-15T21:03:37.995464+00:00",
-  "total": 121,
+  "updated_at": "2026-05-15T22:56:19.178996+00:00",
+  "total": 122,
   "items": [
+    {
+      "id": "0a6136503d66fd93",
+      "title": "IBGE, Sudene e MinC abrem inscrições para capacitação em dados aplicados a políticas culturais",
+      "summary": "Encontro em Recife é voltado à aplicação prática de dados oficiais do IBGE. Foto: MTUR/Bruno Lima O Instituto Brasileiro de Geografia e Estatística (IBGE) promove, no próximo dia 19 de maio de 2026, em Recife (PE), o encontro “Dados para Políticas Públicas: Cultura”, iniciativa q...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46769-ibge-sudene-e-minc-abrem-inscricoes-para-capacitacao-em-dados-aplicados-a-politicas-culturais.html",
+      "published_at": "2026-05-15T06:00:00+00:00",
+      "collected_at": "2026-05-15T22:56:09.487102+00:00"
+    },
     {
       "id": "11c04d90e672978d",
       "title": "Primeira semana da 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola testa operação e indica ajustes para a coleta nacional",
