@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-05-18T10:08:39.401386+00:00",
-  "total": 122,
+  "updated_at": "2026-05-18T14:32:04.423686+00:00",
+  "total": 124,
   "items": [
+    {
+      "id": "e9eb8b1fded85232",
+      "title": "Ofício Circular CVM/SEP 03/26, de 18 de Maio de 2026",
+      "summary": "<p>Descontinuidade do endereço https://www.rad.cvm.gov.br/ENET para acesso ao Sistema Empresas.Net</p>",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_legislacao",
+      "source_name": "CVM — Legislação",
+      "url": "http://www.cvm.gov.br/legislacao/oficios-circulares/sep/oc-sep-0326.html",
+      "published_at": "2026-05-18T13:44:53+00:00",
+      "collected_at": "2026-05-18T14:31:54.847409+00:00"
+    },
+    {
+      "id": "e77408368657f5f3",
+      "title": "Ofício Circular CVM/SEP 02/26, de 18 de Maio de 2026",
+      "summary": "<p>Orientações às entidades administradoras de mercados organizados para obtenção de registro inicial de emissor de valores mobiliários de companhias de menor porte (CMP).</p>",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_legislacao",
+      "source_name": "CVM — Legislação",
+      "url": "http://www.cvm.gov.br/legislacao/oficios-circulares/sep/oc-sep-0226.html",
+      "published_at": "2026-05-18T13:50:16+00:00",
+      "collected_at": "2026-05-18T14:31:50.014171+00:00"
+    },
     {
       "id": "0a6136503d66fd93",
       "title": "IBGE, Sudene e MinC abrem inscrições para capacitação em dados aplicados a políticas culturais",

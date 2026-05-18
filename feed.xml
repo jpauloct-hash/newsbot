@@ -5,7 +5,23 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 18 May 2026 10:08:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 14:32:04 +0000</lastBuildDate>
+    <item>
+      <title>Ofício Circular CVM/SEP 03/26, de 18 de Maio de 2026</title>
+      <link>http://www.cvm.gov.br/legislacao/oficios-circulares/sep/oc-sep-0326.html</link>
+      <description>&lt;p&gt;Descontinuidade do endereço https://www.rad.cvm.gov.br/ENET para acesso ao Sistema Empresas.Net&lt;/p&gt;</description>
+      <category>Regulatorio</category>
+      <guid>e9eb8b1fded85232</guid>
+      <pubDate>Mon, 18 May 2026 13:44:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ofício Circular CVM/SEP 02/26, de 18 de Maio de 2026</title>
+      <link>http://www.cvm.gov.br/legislacao/oficios-circulares/sep/oc-sep-0226.html</link>
+      <description>&lt;p&gt;Orientações às entidades administradoras de mercados organizados para obtenção de registro inicial de emissor de valores mobiliários de companhias de menor porte (CMP).&lt;/p&gt;</description>
+      <category>Regulatorio</category>
+      <guid>e77408368657f5f3</guid>
+      <pubDate>Mon, 18 May 2026 13:50:16 +0000</pubDate>
+    </item>
     <item>
       <title>IBGE, Sudene e MinC abrem inscrições para capacitação em dados aplicados a políticas culturais</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46769-ibge-sudene-e-minc-abrem-inscricoes-para-capacitacao-em-dados-aplicados-a-politicas-culturais.html</link>
@@ -389,22 +405,6 @@
       <category>Operacional</category>
       <guid>17e88e8e9325107f</guid>
       <pubDate>Mon, 11 May 2026 08:59:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Confira a cobertura da segunda prova piloto do 12º Censo Agropecuário, Florestal e Aquícola</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46640-ibge-inicia-nesta-segunda-feira-11-a-segunda-prova-piloto-do-12-censo-agropecuario-florestal-e-aquicola.html</link>
-      <description>O Instituto Brasileiro de Geografia e Estatística (IBGE) iniciou hoje (11) a 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola, mais uma etapa preparatória e de testes para garantir a qualidade e a abrangência do levantamento que será realizado em todo o país. Seis ...</description>
-      <category>Operacional</category>
-      <guid>d52202debbb68b3e</guid>
-      <pubDate>Mon, 11 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IBGE debate soberania de dados e produção científica em palestra na Universidade Estadual do Ceará</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46649-ibge-debate-soberania-de-dados-e-producao-cientifica-em-palestra-na-universidade-estadual-do-ceara.html</link>
-      <description>Para o presidente do IBGE, a temática é central para o futuro do Brasil. - Foto: Cortesia/ IPECE O presidente do Instituto Brasileiro de Geografia e Estatística (IBGE), Marcio Pochmann, ministrou nesta segunda-feira, 11 de maio, a palestra “Produção Científica e Soberania de Dado...</description>
-      <category>Mercado de Capitais</category>
-      <guid>28a594b7059a46fe</guid>
-      <pubDate>Mon, 11 May 2026 02:29:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
