@@ -7,18 +7,12 @@ Compatível com o main.py atual:
 """
 
 SOURCES = [
-    # CVM
+    # CVM — manter apenas feeds com maior potencial de relevância para mercado
     {
         "id": "cvm_decisoes",
         "name": "CVM — Decisões do Colegiado",
         "category": "Regulatório",
         "rss_url": "http://www.cvm.gov.br/feed/decisoes.xml",
-    },
-    {
-        "id": "cvm_legislacao",
-        "name": "CVM — Legislação",
-        "category": "Regulatório",
-        "rss_url": "http://www.cvm.gov.br/feed/legislacao.xml",
     },
     {
         "id": "cvm_sancionadores",
@@ -27,37 +21,23 @@ SOURCES = [
         "rss_url": "http://www.cvm.gov.br/feed/sancionadores.xml",
     },
     {
-        "id": "cvm_despachos",
-        "name": "CVM — Despachos",
-        "category": "Regulatório",
-        "rss_url": "http://www.cvm.gov.br/feed/despachos.xml",
-    },
-    {
         "id": "cvm_audiencias",
         "name": "CVM — Audiências Públicas",
         "category": "Regulatório",
         "rss_url": "http://www.cvm.gov.br/feed/audiencias.xml",
     },
-    {
-        "id": "cvm_informativos",
-        "name": "CVM — Informativos do Colegiado",
-        "category": "Regulatório",
-        "rss_url": "http://www.cvm.gov.br/feed/informativos_colegiado.xml",
-    },
+
+    # Atenção:
+    # Removi temporariamente:
+    # - cvm_legislacao
+    # - cvm_despachos
+    # - cvm_informativos
+    #
+    # Motivo:
+    # Esses feeds estão trazendo muitos ofícios, despachos e orientações operacionais.
+    # Podemos reativar depois com filtro específico por fonte.
 
     # Gov.br
-    {
-        "id": "gov_noticias",
-        "name": "Gov.br — Notícias",
-        "category": "Fiscal",
-        "rss_url": "https://www.gov.br/pt-br/noticias/RSS",
-    },
-    {
-        "id": "gov_rss_noticias",
-        "name": "Gov.br — RSS Notícias",
-        "category": "Fiscal",
-        "rss_url": "https://www.gov.br/pt-br/rss/colecoes-de-rss/rss-noticias/RSS",
-    },
     {
         "id": "gov_financas",
         "name": "Gov.br — Finanças, Impostos e Gestão Pública",
@@ -84,7 +64,7 @@ RELEVANCE_KEYWORDS = [
     "boletim focus",
 
     # Mercado de capitais / regulação
-    "cvm",
+    # IMPORTANTE: não colocar apenas "cvm", senão qualquer item da CVM passa no filtro.
     "mercado de capitais",
     "oferta pública",
     "oferta publica",
@@ -97,17 +77,46 @@ RELEVANCE_KEYWORDS = [
     "securitizacao",
     "fii",
     "fiagro",
+    "fidc",
     "fundo de investimento",
     "fundos de investimento",
     "cri",
     "cra",
     "ipo",
     "follow-on",
+    "opa",
     "companhia aberta",
+    "companhias abertas",
+    "emissor de valores mobiliários",
+    "emissores de valores mobiliários",
     "valores mobiliários",
     "valores mobiliarios",
     "ações",
     "acoes",
+    "acionistas",
+    "administrador de carteira",
+    "gestor de recursos",
+    "consultor de valores mobiliários",
+    "analista de valores mobiliários",
+    "processo administrativo sancionador",
+    "processo sancionador",
+    "termo de compromisso",
+    "multa",
+    "condenação",
+    "condenacao",
+    "insider trading",
+    "manipulação de mercado",
+    "manipulacao de mercado",
+    "fraude",
+    "colegiado",
+    "decisão do colegiado",
+    "decisao do colegiado",
+    "resolução cvm",
+    "resolucao cvm",
+    "consulta pública",
+    "consulta publica",
+    "audiência pública",
+    "audiencia publica",
 
     # Crédito / bancário
     "crédito",
@@ -218,6 +227,7 @@ RELEVANCE_KEYWORDS = [
 ]
 
 IRRELEVANT_HINTS = [
+    # Institucional / eventos
     "aniversário",
     "aniversario",
     "campanha institucional",
@@ -227,4 +237,68 @@ IRRELEVANT_HINTS = [
     "premiação",
     "premiacao",
     "agenda cultural",
+    "curso",
+    "capacitação",
+    "capacitacao",
+    "workshop",
+    "webinário",
+    "webinario",
+    "seminário",
+    "seminario",
+    "encontro",
+    "reunião",
+    "reuniao",
+
+    # CVM — ruído operacional / administrativo
+    "ofício circular",
+    "oficio circular",
+    "ofícios circulares",
+    "oficios circulares",
+    "descontinuidade do endereço",
+    "descontinuidade de endereço",
+    "endereço https",
+    "endereco https",
+    "sistema empresas.net",
+    "empresas.net",
+    "sistema enet",
+    "enet",
+    "sistema fundos.net",
+    "fundos.net",
+    "sistema cvm",
+    "indisponibilidade",
+    "manutenção",
+    "manutencao",
+    "instabilidade",
+    "atualização de sistema",
+    "atualizacao de sistema",
+    "manual de preenchimento",
+    "orientações às entidades administradoras",
+    "orientacoes as entidades administradoras",
+    "orientação às entidades administradoras",
+    "orientacao as entidades administradoras",
+    "registro inicial de emissor",
+    "companhias de menor porte",
+    "formulário cadastral",
+    "formulario cadastral",
+    "formulário de referência",
+    "formulario de referencia",
+    "entrega de documentos",
+    "prazo para envio",
+    "prazo de envio",
+    "instruções de preenchimento",
+    "instrucoes de preenchimento",
+
+    # Gov.br — ruído geral
+    "ministro participa",
+    "ministra participa",
+    "governo participa",
+    "cerimônia",
+    "cerimonia",
+    "assinatura de acordo",
+    "acordo de cooperação",
+    "acordo de cooperacao",
+    "nota de pesar",
+    "posse",
+    "nomeação",
+    "nomeacao",
 ]
