@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-05-19T11:20:54.963174+00:00",
-  "total": 124,
+  "updated_at": "2026-05-19T15:29:04.405415+00:00",
+  "total": 126,
   "items": [
+    {
+      "id": "6a902a8505a40440",
+      "title": "Abate de bovinos, suínos e frangos crescem no 1° trimestre de 2026",
+      "summary": "Os primeiros resultados da produção animal no 1º trimestre de 2026 apontam que o abate de bovinos teve alta de 3,3% em comparação com o 1º trimestre de 2025 e redução de 6,8% quando comparado ao 4º trimestre de 2025. O abate de suínos teve alta de 5,5% e o de frangos cresceu 3,7%...",
+      "category": "Resultado Financeiro",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46788-abate-de-bovinos-suinos-e-frangos-crescem-no-1-trimestre-de-2026.html",
+      "published_at": "2026-05-19T09:00:00+00:00",
+      "collected_at": "2026-05-19T15:29:00.187394+00:00"
+    },
+    {
+      "id": "22606d225c0c3080",
+      "title": "No 1° trimestre de 2026, crescem os abates de bovinos, suínos e frangos",
+      "summary": "O abate de bovinos cresceu 3,3% no primeiro trimestre de 2026, comparado ao mesmo período de 2025 - Foto: Licia Rubinstein/Agência IBGE Notícias No 1° trimestre de 2026, o abate de bovinos cresceu 3,3% em comparação ao 1º trimestre de 2025, o de suínos registrou alta de 5,5% e o ...",
+      "category": "Resultado Financeiro",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46790-no-1-trimestre-de-2026-crescem-os-abates-de-bovinos-suinos-e-frangos.html",
+      "published_at": "2026-05-19T09:00:00+00:00",
+      "collected_at": "2026-05-19T15:28:55.205985+00:00"
+    },
     {
       "id": "e9eb8b1fded85232",
       "title": "Ofício Circular CVM/SEP 03/26, de 18 de Maio de 2026",
