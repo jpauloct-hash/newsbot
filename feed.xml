@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 21 May 2026 11:31:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 15:32:28 +0000</lastBuildDate>
+    <item>
+      <title>IBGE divulga Relatório Metodológico das Pesquisas Estruturais em Empresas</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46822-ibge-divulga-relatorio-metodologico-das-pesquisas-estruturais-em-empresas.html</link>
+      <description>Pesquisa Anual da Indústria da Construção (PAIC) está dentro do relatório metodológico. – Foto: Marcello Casal Jr/ Agência Brasil O Instituto Brasileiro de Geografia e Estatística (IBGE) divulga, nesta quinta-feira (21), o primeiro relatório metodológico unificado das pesquisas e...</description>
+      <category>Mercado de Capitais</category>
+      <guid>610249667b315ca1</guid>
+      <pubDate>Thu, 21 May 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Abate de bovinos, suínos e frangos crescem no 1° trimestre de 2026</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46788-abate-de-bovinos-suinos-e-frangos-crescem-no-1-trimestre-de-2026.html</link>
@@ -397,14 +405,6 @@
       <category>Operacional</category>
       <guid>02c1fa684c1833e9</guid>
       <pubDate>Mon, 11 May 2026 08:58:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Criação ao lar livre é destaque no primeiro dia da 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola em Irati (PR)</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46657-criacao-ao-lar-livre-e-destaque-no-primeiro-dia-da-2-prova-piloto-do-12-censo-agropecuario-florestal-e-aquicola-em-irati-pr.html</link>
-      <description>Irati (PR) iniciou a operação após reunião das equipes. - Foto: Maria Eduarda Gonçalves O Instituto Brasileiro de Geografia e Estatística (IBGE) iniciou hoje (11) a 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola, mais uma etapa preparatória e de testes para garan...</description>
-      <category>Operacional</category>
-      <guid>fec5c172d9409c27</guid>
-      <pubDate>Mon, 11 May 2026 08:59:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
