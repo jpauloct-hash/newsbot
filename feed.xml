@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 19:49:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 21:13:26 +0000</lastBuildDate>
+    <item>
+      <title>ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 07.05.2026</title>
+      <link>http://www.cvm.gov.br/decisoes/2026/20260507_R1.html</link>
+      <description>&lt;p&gt;Tipo: Extraordinária&lt;/p&gt; &lt;p&gt;Participantes:&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;strong&gt;&amp;bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &amp;ndash; DIRETOR (PRESIDENTE INTERINO)&lt;br /&gt; &amp;bull; MARINA PALMA COPOLA DE CARVALHO&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;&amp;ndash; DIRETORA&lt;/strong&gt;&lt;br /&gt; &lt;strong&gt;&amp;bull; THIAGO PAIVA CHAVES ...</description>
+      <category>Regulatorio</category>
+      <guid>b3d50203de36cefe</guid>
+      <pubDate>Fri, 22 May 2026 19:51:52 +0000</pubDate>
+    </item>
     <item>
       <title>ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 08.01.2026</title>
       <link>http://www.cvm.gov.br/decisoes/2026/20260108_R1.html</link>
@@ -397,14 +405,6 @@
       <category>Resultado Financeiro</category>
       <guid>d45bd8d31f4e6af1</guid>
       <pubDate>Tue, 12 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Primeiro dia da 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola tem pesquisadores em campo na cidade de Uruçuí (PI)</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46662-primeiro-dia-da-2-prova-piloto-do-12-censo-agropecuario-florestal-e-aquicola-tem-pesquisadores-em-campo-na-cidade-de-urucui-pi.html</link>
-      <description>Uruçuí (PI) já recebeu as primeiras equipes. -Foto: SDI O Instituto Brasileiro de Geografia e Estatística (IBGE) iniciou hoje (11) a 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola, mais uma etapa preparatória e de testes para garantir a qualidade e a abrangência ...</description>
-      <category>Operacional</category>
-      <guid>509fe25c1b71e210</guid>
-      <pubDate>Mon, 11 May 2026 08:58:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
