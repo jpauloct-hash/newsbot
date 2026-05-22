@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-05-22T17:53:52.880035+00:00",
-  "total": 128,
+  "updated_at": "2026-05-22T19:49:40.283514+00:00",
+  "total": 129,
   "items": [
+    {
+      "id": "50d6ddc1b6e13ab5",
+      "title": "ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 08.01.2026",
+      "summary": "<p>Tipo: Extraordinária</p> <p>Participantes:</p> <p><p><strong>PARTICIPANTES<sup> (1)</sup></strong></p> <p><strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR (PRESIDENTE INTERINO)<br /> &bull; LUÍS FELIPE MARQUES LOBIANCO &ndash; DIRETOR SUBSTITUTO </strong><su...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260108_R1.html",
+      "published_at": "2026-05-21T15:39:20+00:00",
+      "collected_at": "2026-05-22T19:49:36.910556+00:00"
+    },
     {
       "id": "a71fd2fe3b93066c",
       "title": "IBGE publica nova edição dos Indicadores Econômicos do Brasil",
