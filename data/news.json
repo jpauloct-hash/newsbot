@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-05-22T12:21:18.594768+00:00",
-  "total": 127,
+  "updated_at": "2026-05-22T15:50:09.218277+00:00",
+  "total": 128,
   "items": [
+    {
+      "id": "a71fd2fe3b93066c",
+      "title": "IBGE publica nova edição dos Indicadores Econômicos do Brasil",
+      "summary": "Publicação reúne em um único produto indicadores econômicos do Brasil divulgados pelas pesquisas conjunturais do IBGE - Foto: arte sobre foto PxHere Nesta sexta-feira (22), o Instituto Brasileiro de Geografia e Estatística (IBGE) divulgou a nova edição do informativo “Indicadores...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46825-ibge-publica-nova-edicao-dos-indicadores-economicos-do-brasil.html",
+      "published_at": "2026-05-22T10:00:00+00:00",
+      "collected_at": "2026-05-22T15:50:04.564013+00:00"
+    },
     {
       "id": "610249667b315ca1",
       "title": "IBGE divulga Relatório Metodológico das Pesquisas Estruturais em Empresas",

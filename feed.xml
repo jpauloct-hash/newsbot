@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 22 May 2026 12:21:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 15:50:09 +0000</lastBuildDate>
+    <item>
+      <title>IBGE publica nova edição dos Indicadores Econômicos do Brasil</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46825-ibge-publica-nova-edicao-dos-indicadores-economicos-do-brasil.html</link>
+      <description>Publicação reúne em um único produto indicadores econômicos do Brasil divulgados pelas pesquisas conjunturais do IBGE - Foto: arte sobre foto PxHere Nesta sexta-feira (22), o Instituto Brasileiro de Geografia e Estatística (IBGE) divulgou a nova edição do informativo “Indicadores...</description>
+      <category>Resultado Financeiro</category>
+      <guid>a71fd2fe3b93066c</guid>
+      <pubDate>Fri, 22 May 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>IBGE divulga Relatório Metodológico das Pesquisas Estruturais em Empresas</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46822-ibge-divulga-relatorio-metodologico-das-pesquisas-estruturais-em-empresas.html</link>
@@ -397,14 +405,6 @@
       <category>Mercado de Capitais</category>
       <guid>478847e93ec68a93</guid>
       <pubDate>Mon, 11 May 2026 08:58:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Em Corumbá (MS), recenseadores se dividem em equipes para primeiro dia da 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46659-em-corumba-ms-recenseadores-se-dividem-em-equipes-para-primeiro-dia-da-2-prova-piloto-do-12-censo-agropecuario-florestal-e-aquicola.html</link>
-      <description>Coleta iniciou no período da tarde em Corumbá (MS). - Foto: Rafael Ruzene O Instituto Brasileiro de Geografia e Estatística (IBGE) iniciou hoje (11) a 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola, mais uma etapa preparatória e de testes para garantir a qualidad...</description>
-      <category>Operacional</category>
-      <guid>02c1fa684c1833e9</guid>
-      <pubDate>Mon, 11 May 2026 08:58:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
