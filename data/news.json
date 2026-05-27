@@ -1,7 +1,40 @@
 {
-  "updated_at": "2026-05-27T09:55:02.656567+00:00",
-  "total": 130,
+  "updated_at": "2026-05-27T12:54:05.540979+00:00",
+  "total": 132,
   "items": [
+    {
+      "id": "38b43098ca58dc09",
+      "title": "IPCA-15 é de 0,62% em maio",
+      "summary": "O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15) foi de 0,62% em maio, ficando 0,27 ponto percentual (p.p.) abaixo da taxa de abril (0,89%). No ano, o IPCA-15 acumula alta de 3,02% e, em 12 meses, de 4,64%, acima dos 4,37% observados nos 12 meses imediatamente anterio...",
+      "category": "Politica Monetaria",
+      "relevance": "alta",
+      "keywords": [
+        "ipca",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46869-ipca-15-e-de-0-62-em-maio.html",
+      "published_at": "2026-05-27T09:00:00+00:00",
+      "collected_at": "2026-05-27T12:54:02.061923+00:00"
+    },
+    {
+      "id": "76260068db7fc307",
+      "title": "Prévia da inflação foi de 0,62% em maio",
+      "summary": "Energia elétrica residencial foi o subitem de maior impacto no IPCA-15 de maio (0,09 p.p) - Foto: Helena Pontes/Agência IBGE Notícias A prévia da inflação de maio foi de 0,62%, 0,27 ponto percentual abaixo da taxa de abril (0,89%). Os grupos Alimentação e Bebidas (1,38% e 0,30 p....",
+      "category": "Politica Monetaria",
+      "relevance": "alta",
+      "keywords": [
+        "ipca",
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46870-previa-da-inflacao-foi-de-0-62-em-maio.html",
+      "published_at": "2026-05-27T09:00:00+00:00",
+      "collected_at": "2026-05-27T12:53:57.236965+00:00"
+    },
     {
       "id": "b3d50203de36cefe",
       "title": "ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 07.05.2026",

@@ -5,7 +5,23 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 27 May 2026 09:55:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 12:54:05 +0000</lastBuildDate>
+    <item>
+      <title>IPCA-15 é de 0,62% em maio</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46869-ipca-15-e-de-0-62-em-maio.html</link>
+      <description>O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15) foi de 0,62% em maio, ficando 0,27 ponto percentual (p.p.) abaixo da taxa de abril (0,89%). No ano, o IPCA-15 acumula alta de 3,02% e, em 12 meses, de 4,64%, acima dos 4,37% observados nos 12 meses imediatamente anterio...</description>
+      <category>Politica Monetaria</category>
+      <guid>38b43098ca58dc09</guid>
+      <pubDate>Wed, 27 May 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prévia da inflação foi de 0,62% em maio</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46870-previa-da-inflacao-foi-de-0-62-em-maio.html</link>
+      <description>Energia elétrica residencial foi o subitem de maior impacto no IPCA-15 de maio (0,09 p.p) - Foto: Helena Pontes/Agência IBGE Notícias A prévia da inflação de maio foi de 0,62%, 0,27 ponto percentual abaixo da taxa de abril (0,89%). Os grupos Alimentação e Bebidas (1,38% e 0,30 p....</description>
+      <category>Politica Monetaria</category>
+      <guid>76260068db7fc307</guid>
+      <pubDate>Wed, 27 May 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 07.05.2026</title>
       <link>http://www.cvm.gov.br/decisoes/2026/20260507_R1.html</link>
@@ -388,22 +404,6 @@
       <description>Custos da construção civil avançam 0,72% em abril. No ano, índice sobe 2,89% - Foto: Lúcio Bernardo Jr./Agência Brasília O Índice Nacional da Construção Civil (Sinapi) avançou 0,72% em abril, ficando 0,35 ponto percentual acima da taxa registrada em março (0,37%). O acumulado dos...</description>
       <category>Resultado Financeiro</category>
       <guid>42e89b50ea6a6f73</guid>
-      <pubDate>Tue, 12 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Influenciada pela alta dos alimentos e remédios, inflação fica em 0,67% em abril</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46656-influenciada-pela-alta-dos-alimentos-e-remedios-inflacao-fica-em-0-67-em-abril.html</link>
-      <description>Com alta de 13,66%, leite longa vida foi o alimento que mais impactou a inflação de abril - Foto: Foto: Helena Pontes/Agência IBGE Notícias A inflação de abril (0,67%) desacelerou em relação ao resultado de março (0,88%), mas acumula alta de 2,60%, no primeiro quadrimestre, chega...</description>
-      <category>Politica Monetaria</category>
-      <guid>cefe2303c841a693</guid>
-      <pubDate>Tue, 12 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Índice Nacional da Construção Civil varia 0,72% em abril</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46652-indice-nacional-da-construcao-civil-varia-0-72-em-abril.html</link>
-      <description>O Índice Nacional da Construção Civil (Sinapi) apresentou variação de 0,72% em abril, ficando 0,35 ponto percentual acima da taxa de março (0,37%). O resultado acumulado nos últimos 12 meses foi de 7,01%, resultado acima do registrado nos doze meses imediatamente anteriores (6,73...</description>
-      <category>Resultado Financeiro</category>
-      <guid>d45bd8d31f4e6af1</guid>
       <pubDate>Tue, 12 May 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
