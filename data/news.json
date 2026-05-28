@@ -1,7 +1,64 @@
 {
-  "updated_at": "2026-05-28T08:01:41.723449+00:00",
-  "total": 132,
+  "updated_at": "2026-05-28T12:29:03.850165+00:00",
+  "total": 136,
   "items": [
+    {
+      "id": "1e633816ea86faea",
+      "title": "Índice de Preços ao Produtor (IPP) é de 2,63% em abril",
+      "summary": "Em abril de 2026, os preços da indústria variaram 2,63% frente a março de 2026. Nessa comparação, 21 das 24 atividades industriais apresentaram aumento de preços. O acumulado no ano foi de 5,12%, o terceiro maior já registrado para um mês de abril desde o início da série históric...",
+      "category": "Fiscal",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46887-indice-de-precos-ao-produtor-ipp-e-de-2-63-em-abril.html",
+      "published_at": "2026-05-28T09:00:00+00:00",
+      "collected_at": "2026-05-28T12:29:00.432288+00:00"
+    },
+    {
+      "id": "07f006bd2fac19b7",
+      "title": "Preços da indústria sobem 2,63% em abril influenciados pela cadeia petrolífera",
+      "summary": "Cadeia petrolífera influencia resultados do IPP de abril - Foto: Agência Petrobras Influenciados principalmente pela cadeia petrolífera, os preços da indústria nacional subiram 2,63% em abril frente a março (2,28%), alcançando o maior resultado desde março de 2022 (3,12%). Nos úl...",
+      "category": "Fiscal",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46889-precos-da-industria-sobem-2-63-em-abril-influenciados-pela-cadeia-petrolifera.html",
+      "published_at": "2026-05-28T09:00:00+00:00",
+      "collected_at": "2026-05-28T12:28:55.573987+00:00"
+    },
+    {
+      "id": "63a2ddc0185fae30",
+      "title": "PNAD Contínua: taxa de desocupação é de 5,8% e taxa de subutilização é de 13,8% no trimestre encerrado em abril",
+      "summary": "Período Taxa Abril de 2026 2,63% Março de 2026 2,28% Abril de 2025 -0,12% Acumulado no ano 5,12% Acumulado em 12 meses 1,07% A taxa de desocupação (5,8%) no trimestre encerrado em abril de 2026 teve aumento de 0,4 ponto percentual (p.p.) frente ao trimestre de novembro de 2025 a ...",
+      "category": "Operacional",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46888-pnad-continua-taxa-de-desocupacao-e-de-5-8-e-taxa-de-subutilizacao-e-de-13-8-no-trimestre-encerrado-em-abril.html",
+      "published_at": "2026-05-28T09:00:00+00:00",
+      "collected_at": "2026-05-28T12:28:50.699936+00:00"
+    },
+    {
+      "id": "5f26b3483088fa60",
+      "title": "Com taxa de 5,8%, desemprego cresce no trimestre encerrado em abril",
+      "summary": "Apesar da alta no desemprego, nível da ocupação continua elevado - Foto: José Cruz/Agência Brasil A taxa de desocupação voltou a crescer, chegando a 5,8% no trimestre encerrado em abril. Isso significa que 6,3 milhões de pessoas buscaram trabalho sem sucesso no trimestre, 471 mil...",
+      "category": "Operacional",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46890-com-taxa-de-5-8-desemprego-cresce-no-trimestre-encerrado-em-abril.html",
+      "published_at": "2026-05-28T09:00:00+00:00",
+      "collected_at": "2026-05-28T12:28:45.077739+00:00"
+    },
     {
       "id": "38b43098ca58dc09",
       "title": "IPCA-15 é de 0,62% em maio",
