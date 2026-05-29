@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-05-29T18:36:02.874716+00:00",
-  "total": 140,
+  "updated_at": "2026-05-29T21:09:23.636045+00:00",
+  "total": 141,
   "items": [
+    {
+      "id": "aa305191ffe2323a",
+      "title": "EXTRATOS DA ATA DA REUNIÃO DO COLEGIADO Nº 44 DE 02.12.2025",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE INTERINO</strong></p> <p><strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR </strong><sup><strong>(1)</strong></sup></p> <p><strong>&bull...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2025/20251202_R1.html",
+      "published_at": "2026-05-29T19:27:37+00:00",
+      "collected_at": "2026-05-29T21:09:20.938449+00:00"
+    },
     {
       "id": "5c658f11ea591cc1",
       "title": "PIB cresce 1,1% no primeiro trimestre de 2026",
