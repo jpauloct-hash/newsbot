@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-05-28T23:21:37.788500+00:00",
-  "total": 136,
+  "updated_at": "2026-05-29T03:50:25.885049+00:00",
+  "total": 137,
   "items": [
+    {
+      "id": "81f3221c6c673e1e",
+      "title": "A construção de um Brasil contado em números",
+      "summary": "Quadro produzido pela Diretoria Geral de Estatística, representando as áreas dos estados, [s.d.]. - Foto: Acervo IBGE No Brasil, iniciativas voltadas à organização dos serviços estatísticos foram tomadas desde os tempos do Império: a primeira instituição estatística oficial foi c...",
+      "category": "Internacional",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46914-a-construcao-de-um-brasil-contado-em-numeros.html",
+      "published_at": "2026-05-28T10:00:00+00:00",
+      "collected_at": "2026-05-29T03:50:13.067919+00:00"
+    },
     {
       "id": "1e633816ea86faea",
       "title": "Índice de Preços ao Produtor (IPP) é de 2,63% em abril",

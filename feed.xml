@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 28 May 2026 23:21:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 03:50:25 +0000</lastBuildDate>
+    <item>
+      <title>A construção de um Brasil contado em números</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46914-a-construcao-de-um-brasil-contado-em-numeros.html</link>
+      <description>Quadro produzido pela Diretoria Geral de Estatística, representando as áreas dos estados, [s.d.]. - Foto: Acervo IBGE No Brasil, iniciativas voltadas à organização dos serviços estatísticos foram tomadas desde os tempos do Império: a primeira instituição estatística oficial foi c...</description>
+      <category>Internacional</category>
+      <guid>81f3221c6c673e1e</guid>
+      <pubDate>Thu, 28 May 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Índice de Preços ao Produtor (IPP) é de 2,63% em abril</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46887-indice-de-precos-ao-produtor-ipp-e-de-2-63-em-abril.html</link>
@@ -397,14 +405,6 @@
       <category>Operacional</category>
       <guid>cd6bf3ef0322c54b</guid>
       <pubDate>Tue, 12 May 2026 11:32:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rio Verde (GO) recebe segundo dia de prova piloto do Censo Agropecuário com foco em testes e entrevistas</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46688-rio-verde-go-recebe-segundo-dia-de-prova-piloto-do-censo-agropecuario-com-foco-em-testes-e-entrevistas.html</link>
-      <description>Rio Verde (GO) recebeu, nesta terça-feira (12), o segundo dia da 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola, conduzido pelo Instituto Brasileiro de Geografia e Estatística (IBGE). A iniciativa integra o conjunto de testes que antecede a realização do levantam...</description>
-      <category>Mercado de Capitais</category>
-      <guid>b7fb21672f8326ac</guid>
-      <pubDate>Tue, 12 May 2026 11:36:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
