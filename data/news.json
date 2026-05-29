@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-05-29T11:38:21.130412+00:00",
-  "total": 137,
+  "updated_at": "2026-05-29T15:38:42.427412+00:00",
+  "total": 140,
   "items": [
+    {
+      "id": "5c658f11ea591cc1",
+      "title": "PIB cresce 1,1% no primeiro trimestre de 2026",
+      "summary": "No primeiro trimestre de 2026, o PIB cresceu 1,1% frente ao quarto trimestre de 2025, na série com ajuste sazonal. Pela ótica da produção, destaca-se o crescimento da Agropecuária (2,0%). Também houve alta na Indústria (1,0%) e nos Serviços (0,5%). Em valores correntes, o PIB tot...",
+      "category": "Fiscal",
+      "relevance": "alta",
+      "keywords": [
+        "pib",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46917-pib-cresce-1-1-no-primeiro-trimestre-de-2026.html",
+      "published_at": "2026-05-29T09:00:00+00:00",
+      "collected_at": "2026-05-29T15:38:38.283665+00:00"
+    },
+    {
+      "id": "597b9edbc178dedc",
+      "title": "PIB avança 1,1% no primeiro trimestre e chega a R$ 3,3 trilhões",
+      "summary": "Agropecuária, Extrativa mineral e Outras atividades de serviços foram as atividades que mais contribuíram para o crescimento de 1,1% do PIB no 1º trimestre - Foto: Abiove O Produto Interno Bruto (PIB) do país cresceu (1,1%) no primeiro trimestre do ano, frente ao 4o trimestre de ...",
+      "category": "Fiscal",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "pib",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46918-pib-avanca-1-1-no-primeiro-trimestre-e-chega-a-r-3-3-trilhoes.html",
+      "published_at": "2026-05-29T09:00:00+00:00",
+      "collected_at": "2026-05-29T15:38:33.406134+00:00"
+    },
+    {
+      "id": "e2ee991833a29e85",
+      "title": "IBGE divulga o rendimento domiciliar per capita e o Coeficiente de Desequilíbrio Regional de 2025",
+      "summary": "O IBGE divulga hoje (29) os valores de rendimento nominal mensal domiciliar per capita (RDPC) e os Coeficientes de Desequilíbrio Regional (CDR) referentes a 2025 para o Brasil e três Grandes Regiões: Norte, Nordeste e Centro-Oeste, calculados com base na Pesquisa Nacional por Amo...",
+      "category": "Operacional",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46915-ibge-divulga-o-rendimento-domiciliar-per-capita-e-o-coeficiente-de-desequilibrio-regional-de-2025.html",
+      "published_at": "2026-05-29T10:00:00+00:00",
+      "collected_at": "2026-05-29T15:38:28.463503+00:00"
+    },
     {
       "id": "81f3221c6c673e1e",
       "title": "A construção de um Brasil contado em números",
