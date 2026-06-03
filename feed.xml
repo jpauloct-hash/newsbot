@@ -5,7 +5,23 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 03 Jun 2026 18:50:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 21:51:24 +0000</lastBuildDate>
+    <item>
+      <title>Indústria brasileira cresce 0,7% em abril, quarto mês seguido de avanço</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46989-industria-brasileira-cresce-0-7-em-abril-quarto-mes-seguido-de-avanco.html</link>
+      <description>Produção de derivados do petróleo deu impulso à indústria em abril - Foto: Agência Petrobras A produção industrial brasileira, com alta de 0,7% em abril de 2026 frente a março de 2026, na série com ajuste sazonal, cresceu pelo quarto mês seguido, acumulando 4,4% de avanço neste p...</description>
+      <category>Resultado Financeiro</category>
+      <guid>b5b43cf9c95c5de6</guid>
+      <pubDate>Wed, 03 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Produção industrial brasileira variou 0,7% em abril</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46988-producao-industrial-brasileira-variou-0-7-em-abril.html</link>
+      <description>Em abril de 2026, a produção industrial nacional avançou 0,7% frente a março, quarta taxa positiva consecutiva, acumulando neste período expansão de 4,4%. Em relação a abril do ano passado, a indústria ampliou a produção em 2,7%, após avançar 4,4% em março. O acumulado do ano fic...</description>
+      <category>Resultado Financeiro</category>
+      <guid>ae280abf2874fc09</guid>
+      <pubDate>Wed, 03 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ATA DA REUNIÃO DO COLEGIADO DE REGULAÇÃO Nº 27 DE 03.12.2025</title>
       <link>http://www.cvm.gov.br/decisoes/2025/20251203_R1.html</link>
@@ -389,22 +405,6 @@
       <category>Mercado de Capitais</category>
       <guid>e2e91a20aa0a1c3f</guid>
       <pubDate>Tue, 12 May 2026 05:30:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Presidente do IBGE debate soberania de dados e produção científica em palestra na Universidade Estadual do Ceará</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46649-ibge-debate-soberania-de-dados-e-producao-cientifica-em-palestra-na-universidade-estadual-do-ceara.html</link>
-      <description>Para o presidente do IBGE, a temática é central para o futuro do Brasil. - Foto: Cortesia/ IPECE O presidente do Instituto Brasileiro de Geografia e Estatística (IBGE), Marcio Pochmann, ministrou nesta segunda-feira, 11 de maio, a palestra “Produção Científica e Soberania de Dado...</description>
-      <category>Mercado de Capitais</category>
-      <guid>3c4f42ec6a26e4c8</guid>
-      <pubDate>Mon, 11 May 2026 02:29:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Visita à comunidade de faxinalenses marca segundo dia da prova piloto do 12º Censo Agropecuário, Florestal e Aquícola tem Irati (PR)</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46687-visita-a-comunidade-de-faxinalenses-marca-segundo-dia-da-prova-piloto-do-12-censo-agropecuario-florestal-e-aquicola-tem-irati-pr.html</link>
-      <description>Entre as novidades da edição está a inclusão inédita dos sistemas agroalimentares de povos e comunidades tradicionais. – Foto: Equipe CDDI/CCS O município de Irati (PR) recebe nesta terça-feira (12) o segundo dia da 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola,...</description>
-      <category>Operacional</category>
-      <guid>fca2c7678ee4ab71</guid>
-      <pubDate>Tue, 12 May 2026 11:32:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

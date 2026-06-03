@@ -1,7 +1,38 @@
 {
-  "updated_at": "2026-06-03T18:50:10.056365+00:00",
-  "total": 142,
+  "updated_at": "2026-06-03T21:51:24.504185+00:00",
+  "total": 144,
   "items": [
+    {
+      "id": "b5b43cf9c95c5de6",
+      "title": "Indústria brasileira cresce 0,7% em abril, quarto mês seguido de avanço",
+      "summary": "Produção de derivados do petróleo deu impulso à indústria em abril - Foto: Agência Petrobras A produção industrial brasileira, com alta de 0,7% em abril de 2026 frente a março de 2026, na série com ajuste sazonal, cresceu pelo quarto mês seguido, acumulando 4,4% de avanço neste p...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "produção industrial"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46989-industria-brasileira-cresce-0-7-em-abril-quarto-mes-seguido-de-avanco.html",
+      "published_at": "2026-06-03T09:00:00+00:00",
+      "collected_at": "2026-06-03T21:51:20.024456+00:00"
+    },
+    {
+      "id": "ae280abf2874fc09",
+      "title": "Produção industrial brasileira variou 0,7% em abril",
+      "summary": "Em abril de 2026, a produção industrial nacional avançou 0,7% frente a março, quarta taxa positiva consecutiva, acumulando neste período expansão de 4,4%. Em relação a abril do ano passado, a indústria ampliou a produção em 2,7%, após avançar 4,4% em março. O acumulado do ano fic...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "produção industrial"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46988-producao-industrial-brasileira-variou-0-7-em-abril.html",
+      "published_at": "2026-06-03T09:00:00+00:00",
+      "collected_at": "2026-06-03T21:51:15.073098+00:00"
+    },
     {
       "id": "5ac053b1cbd9c370",
       "title": "ATA DA REUNIÃO DO COLEGIADO DE REGULAÇÃO Nº 27 DE 03.12.2025",
