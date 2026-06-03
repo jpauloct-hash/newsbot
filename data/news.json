@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-06-02T23:51:58.222442+00:00",
-  "total": 141,
+  "updated_at": "2026-06-03T04:18:53.329605+00:00",
+  "total": 142,
   "items": [
+    {
+      "id": "5ac053b1cbd9c370",
+      "title": "ATA DA REUNIÃO DO COLEGIADO DE REGULAÇÃO Nº 27 DE 03.12.2025",
+      "summary": "<p>Tipo: Regulação</p> <p>Participantes:</p> <p><p><strong>&bull; MARINA PALMA COPOLA DE CARVALHO &ndash; DIRETORA</strong><br /> <strong>&bull; LUÍS FELIPE MARQUES LOBIANCO &ndash; DIRETOR SUBSTITUTO</strong><sup><strong> (*)</strong></sup><br /> <strong>&bull; THIAGO PAIVA CHAV...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2025/20251203_R1.html",
+      "published_at": "2026-06-02T21:01:00+00:00",
+      "collected_at": "2026-06-03T04:18:50.815528+00:00"
+    },
     {
       "id": "aa305191ffe2323a",
       "title": "EXTRATOS DA ATA DA REUNIÃO DO COLEGIADO Nº 44 DE 02.12.2025",
