@@ -1,7 +1,69 @@
 {
-  "updated_at": "2026-06-10T10:04:36.373025+00:00",
-  "total": 144,
+  "updated_at": "2026-06-10T14:24:54.336002+00:00",
+  "total": 148,
   "items": [
+    {
+      "id": "f8d47f51c0ffa782",
+      "title": "IBGE é homenageado pelos seus 90 anos em ato solene na Assembleia Legislativa de São Paulo",
+      "summary": "O Instituto Brasileiro de Geografia e Estatística (IBGE) foi homenageado na tarde desta segunda-feira (8), em um Ato Solene realizado na Assembleia Legislativa do Estado de São Paulo (Alesp), em comemoração aos 90 anos da Instituição. A cerimônia reuniu parlamentares, servidores,...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47050-ibge-e-homenageado-pelos-seus-90-anos-em-ato-solene-na-assembleia-legislativa-de-sao-paulo.html",
+      "published_at": "2026-06-09T03:57:13+00:00",
+      "collected_at": "2026-06-10T14:24:50.776376+00:00"
+    },
+    {
+      "id": "9b2e3cc04f0c5079",
+      "title": "Em abril, indústria cresce em 10 dos 15 locais pesquisados",
+      "summary": "Em abril de 2026, a alta de 0,7% da produção industrial nacional, frente ao mês imediatamente anterior e na série com ajuste sazonal, foi acompanhada por dez dos quinze locais pesquisados. Bahia (3,0%), Ceará (2,3%), Espírito Santo (2,1%) e Minas Gerais (2,1%) mostraram as maiore...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "produção industrial"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47025-em-abril-industria-cresce-em-10-dos-15-locais-pesquisados2.html",
+      "published_at": "2026-06-10T09:00:00+00:00",
+      "collected_at": "2026-06-10T14:24:45.826512+00:00"
+    },
+    {
+      "id": "eba5617510e8aabd",
+      "title": "Dez dos 15 locais pesquisados puxaram a alta da indústria em abril",
+      "summary": "Petróleo e derivados continuam em destaque nos principais estados com alta na produção industrial - Foto: André Ribeiro/Agência Petrobras A alta de 0,7% da produção industrial nacional referente a abril de 2026 foi puxada por dez dos 15 locais pesquisados pelo IBGE, na comparação...",
+      "category": "Politica Monetaria",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "produção industrial"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47027-dez-dos-15-locais-pesquisados-puxaram-a-alta-da-industria-em-abril.html",
+      "published_at": "2026-06-10T09:00:00+00:00",
+      "collected_at": "2026-06-10T14:24:40.940200+00:00"
+    },
+    {
+      "id": "5449e012c99607dc",
+      "title": "Em 2024, Indústria da Construção gera R$ 522,5 bilhões e emprega 2,5 milhões",
+      "summary": "Quanto ao valor das remunerações, o setor da Indústria da Construção pratica salários médios mensais que vão de apenas 1,8 a 2,6 salários mínimos - Foto: Tânia Rêgo/Agência Brasil O setor da Indústria da Construção gerou, em 2024, um valor total em incorporações, obras e/ou servi...",
+      "category": "Mercado de Capitais",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47043-em-2024-industria-da-construcao-gera-r-522-5-bilhoes-e-emprega-2-5-milhoes.html",
+      "published_at": "2026-06-10T10:00:00+00:00",
+      "collected_at": "2026-06-10T14:24:35.934001+00:00"
+    },
     {
       "id": "b5b43cf9c95c5de6",
       "title": "Indústria brasileira cresce 0,7% em abril, quarto mês seguido de avanço",
