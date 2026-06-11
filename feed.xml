@@ -5,7 +5,39 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 11 Jun 2026 10:39:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 14:39:46 +0000</lastBuildDate>
+    <item>
+      <title>Volume de serviços avança 1,2% em abril</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47064-volume-de-servicos-avanca-1-2-em-abril.html</link>
+      <description>Em abril de 2026, o volume de serviços no Brasil avançou 1,2% frente ao mês imediatamente anterior, na série com ajuste sazonal, após ter registrado queda (-1,1%) em março. Dessa forma, o setor de serviços se encontra 19,9% acima do nível de fevereiro de 2020 (pré-pandemia) e fic...</description>
+      <category>Resultado Financeiro</category>
+      <guid>729e05cb9d898b35</guid>
+      <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Estimativa da soja aponta novo recorde na série histórica</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47082-estimativa-da-soja-aponta-novo-recorde-na-serie-historica.html</link>
+      <description>Produção de soja alcançou 174,6 milhões de toneladas, novo recorde da série histórica, com aumento de 5,1% frente a 2025 - Foto: Gilson Abreu/AEN A estimativa de maio de 2026 para a safra nacional de grãos foi de 350,4 milhões de toneladas, um crescimento de 4,3 milhões de tonela...</description>
+      <category>Mercado de Capitais</category>
+      <guid>0c336e9a6d15c36e</guid>
+      <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Setor de serviços avança 1,2% em abril e recupera perdas de março</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47065-setor-de-servicos-avanca-1-2-em-abril-e-recupera-perdas-de-marco.html</link>
+      <description>Transporte aéreo de passageiros avança 7,0% em abril de 2026 - Foto: Marcelo Camargo/Agência Brasil Na comparação com o mês anterior, o volume de serviços do país avançou 1,2% em abril de 2026, recuperando, integralmente, a perda de 1,1% observada em março. O resultado foi acompa...</description>
+      <category>Resultado Financeiro</category>
+      <guid>aa82f013b74e15bc</guid>
+      <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Em maio, IBGE prevê safra de 350,4 milhões de toneladas para 2026</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47078-em-maio-ibge-preve-safra-de-350-4-milhoes-de-toneladas-para-2026.html</link>
+      <description>A estimativa de maio de 2026 para a produção de cereais, leguminosas e oleaginosas é de 350,4 milhões de toneladas, 1,2% maior (ou mais 4,3 milhões de toneladas) que a obtida em 2025 (346,1 milhões de toneladas), com crescimento de 0,5% (ou mais 1,7 milhão de toneladas) à estimat...</description>
+      <category>Operacional</category>
+      <guid>c0a30b419df5b424</guid>
+      <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>IBGE é homenageado pelos seus 90 anos em ato solene na Assembleia Legislativa de São Paulo</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47050-ibge-e-homenageado-pelos-seus-90-anos-em-ato-solene-na-assembleia-legislativa-de-sao-paulo.html</link>
@@ -373,38 +405,6 @@
       <category>Resultado Financeiro</category>
       <guid>271979210e3541b9</guid>
       <pubDate>Wed, 13 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Em março, vendas no varejo crescem 0,5%</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46693-em-marco-vendas-no-varejo-crescem-0-5.html</link>
-      <description>Em março de 2026, o volume de vendas do comércio varejista cresceu 0,5% frente a fevereiro deste ano, na série com ajuste sazonal. Com isso, a média móvel trimestral foi de 0,6%. Período Varejo Varejo Ampliado Volume de vendas Receita nominal Volume de vendas Receita nominal Març...</description>
-      <category>Operacional</category>
-      <guid>6d9548596546d4de</guid>
-      <pubDate>Wed, 13 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Em março, produção industrial cresce em 11 dos 15 locais pesquisados</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46677-em-marco-producao-industrial-cresce-em-11-dos-15-locais-pesquisados.html</link>
-      <description>A produção de petróleo e derivados se destacou nos principais estados com alta na atividade industrial - Foto: Agência Petrobras De fevereiro para março, a variação positiva de 0,1% na produção industrial do país, na série com ajuste sazonal, foi acompanhada por 11 dos 15 locais ...</description>
-      <category>Mercado de Capitais</category>
-      <guid>25a7ca8683920423</guid>
-      <pubDate>Wed, 13 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Em março, comércio cresce 0,5% e atinge novo recorde</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46694-em-marco-comercio-cresce-0-5-e-atinge-novo-recorde.html</link>
-      <description>Combustíveis e lubrificantes contribuíram para o crescimento das vendas no varejo - Foto: Helena Pontes/Agência IBGE Notícias O volume de vendas do comércio varejista do país cresceu 0,5% em março, frente a fevereiro, na série sem influências sazonais. Com esse desempenho, o seto...</description>
-      <category>Resultado Financeiro</category>
-      <guid>498f15bfe63676d7</guid>
-      <pubDate>Wed, 13 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pesquisadores são acolhidos em comunidade na 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola em Viamão (RS)</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46704-pesquisadores-sao-acolhidos-em-comunidade-na-2-prova-piloto-do-12-censo-agropecuario-florestal-e-aquicola-em-viamao-rs.html</link>
-      <description>O segundo dia de atividades da 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola, conduzido pelo Instituto Brasileiro de Geografia e Estatística (IBGE) contou com mais lugares visitados na cidade de Viamão (RS). Comunidade acolheu pesquisadores do IBGE. - Foto: Equi...</description>
-      <category>Operacional</category>
-      <guid>c3882a35877a2a51</guid>
-      <pubDate>Tue, 12 May 2026 04:58:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

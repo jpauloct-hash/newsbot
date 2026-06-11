@@ -1,7 +1,69 @@
 {
-  "updated_at": "2026-06-11T10:39:28.009844+00:00",
-  "total": 148,
+  "updated_at": "2026-06-11T14:39:46.683167+00:00",
+  "total": 152,
   "items": [
+    {
+      "id": "729e05cb9d898b35",
+      "title": "Volume de serviços avança 1,2% em abril",
+      "summary": "Em abril de 2026, o volume de serviços no Brasil avançou 1,2% frente ao mês imediatamente anterior, na série com ajuste sazonal, após ter registrado queda (-1,1%) em março. Dessa forma, o setor de serviços se encontra 19,9% acima do nível de fevereiro de 2020 (pré-pandemia) e fic...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47064-volume-de-servicos-avanca-1-2-em-abril.html",
+      "published_at": "2026-06-11T09:00:00+00:00",
+      "collected_at": "2026-06-11T14:39:42.099485+00:00"
+    },
+    {
+      "id": "0c336e9a6d15c36e",
+      "title": "Estimativa da soja aponta novo recorde na série histórica",
+      "summary": "Produção de soja alcançou 174,6 milhões de toneladas, novo recorde da série histórica, com aumento de 5,1% frente a 2025 - Foto: Gilson Abreu/AEN A estimativa de maio de 2026 para a safra nacional de grãos foi de 350,4 milhões de toneladas, um crescimento de 4,3 milhões de tonela...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47082-estimativa-da-soja-aponta-novo-recorde-na-serie-historica.html",
+      "published_at": "2026-06-11T09:00:00+00:00",
+      "collected_at": "2026-06-11T14:39:37.182845+00:00"
+    },
+    {
+      "id": "aa82f013b74e15bc",
+      "title": "Setor de serviços avança 1,2% em abril e recupera perdas de março",
+      "summary": "Transporte aéreo de passageiros avança 7,0% em abril de 2026 - Foto: Marcelo Camargo/Agência Brasil Na comparação com o mês anterior, o volume de serviços do país avançou 1,2% em abril de 2026, recuperando, integralmente, a perda de 1,1% observada em março. O resultado foi acompa...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47065-setor-de-servicos-avanca-1-2-em-abril-e-recupera-perdas-de-marco.html",
+      "published_at": "2026-06-11T09:00:00+00:00",
+      "collected_at": "2026-06-11T14:39:32.031176+00:00"
+    },
+    {
+      "id": "c0a30b419df5b424",
+      "title": "Em maio, IBGE prevê safra de 350,4 milhões de toneladas para 2026",
+      "summary": "A estimativa de maio de 2026 para a produção de cereais, leguminosas e oleaginosas é de 350,4 milhões de toneladas, 1,2% maior (ou mais 4,3 milhões de toneladas) que a obtida em 2025 (346,1 milhões de toneladas), com crescimento de 0,5% (ou mais 1,7 milhão de toneladas) à estimat...",
+      "category": "Operacional",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47078-em-maio-ibge-preve-safra-de-350-4-milhoes-de-toneladas-para-2026.html",
+      "published_at": "2026-06-11T09:00:00+00:00",
+      "collected_at": "2026-06-11T14:39:27.139563+00:00"
+    },
     {
       "id": "f8d47f51c0ffa782",
       "title": "IBGE é homenageado pelos seus 90 anos em ato solene na Assembleia Legislativa de São Paulo",
