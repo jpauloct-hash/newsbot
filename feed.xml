@@ -5,7 +5,23 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 12 Jun 2026 12:30:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 16:20:29 +0000</lastBuildDate>
+    <item>
+      <title>Em maio, IPCA fica em 0,58%</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47088-em-maio-ipca-fica-em-0-58.html</link>
+      <description>O Índice Nacional de Preços ao Consumidor Amplo (IPCA) de maio foi de 0,58%, 0,09 ponto percentual (p.p.) abaixo da taxa de 0,67% registrada em abril. No ano, o IPCA acumula alta de 3,20% e, nos últimos doze meses, o índice ficou em 4,72%, acima dos 4,39% dos 12 meses imediatamen...</description>
+      <category>Politica Monetaria</category>
+      <guid>0fdebeb5b0cfac1c</guid>
+      <pubDate>Fri, 12 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Influenciada pelo grupo de Alimentos e Bebidas, inflação fica em 0,58% em maio</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47089-influenciada-pelo-grupo-de-alimentos-e-bebidas-inflacao-fica-em-0-58-em-maio.html</link>
+      <description>Em maio, a alimentação no domicílio registrou variação de 1,65%, com influência das altas da batata-inglesa, do tomate e da cebola - Foto: Licia Rubinstein/Agência IBGE Notícias A inflação de maio (0,58%) desacelerou em relação ao resultado de abril (0,67%), mas acumula alta de 3...</description>
+      <category>Politica Monetaria</category>
+      <guid>b2a4670191348db4</guid>
+      <pubDate>Fri, 12 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Volume de serviços avança 1,2% em abril</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47064-volume-de-servicos-avanca-1-2-em-abril.html</link>
@@ -389,22 +405,6 @@
       <category>Mercado de Capitais</category>
       <guid>20e6fa619466e937</guid>
       <pubDate>Wed, 13 May 2026 03:03:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Recenseadores destacam preparação para a segunda prova piloto do 12º Censo Agropecuário, Florestal e Aquícola em Irati (PR)</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46703-recenseadores-destacam-preparacao-para-a-segunda-prova-piloto-do-12-censo-agropecuario-em-irati-pr.html</link>
-      <description>Equipes destacam a preparação para operação. - Foto: Equipe CDDI/CCS O segundo dia de atividades da 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola, conduzido pelo Instituto Brasileiro de Geografia e Estatística (IBGE) contou com mais lugares visitados na cidade d...</description>
-      <category>Operacional</category>
-      <guid>2d47865124c7d5d4</guid>
-      <pubDate>Tue, 12 May 2026 05:07:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Em março, indústria avança em 11 dos 15 locais pesquisados</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46675-em-marco-industria-avanca-em-11-dos-15-locais-pesquisados2.html</link>
-      <description>Em março de 2026, a variação positiva de 0,1% da produção industrial nacional, frente a fevereiro, na série com ajuste sazonal, foi acompanhada por resultados positivos em onze dos quinze locais pesquisados. Pará (4,5%), Mato Grosso (3,6%), Goiás (3,6%) e Espírito Santo (3,5%) as...</description>
-      <category>Resultado Financeiro</category>
-      <guid>271979210e3541b9</guid>
-      <pubDate>Wed, 13 May 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,38 @@
 {
-  "updated_at": "2026-06-12T12:30:51.053195+00:00",
-  "total": 152,
+  "updated_at": "2026-06-12T16:20:29.842714+00:00",
+  "total": 154,
   "items": [
+    {
+      "id": "0fdebeb5b0cfac1c",
+      "title": "Em maio, IPCA fica em 0,58%",
+      "summary": "O Índice Nacional de Preços ao Consumidor Amplo (IPCA) de maio foi de 0,58%, 0,09 ponto percentual (p.p.) abaixo da taxa de 0,67% registrada em abril. No ano, o IPCA acumula alta de 3,20% e, nos últimos doze meses, o índice ficou em 4,72%, acima dos 4,39% dos 12 meses imediatamen...",
+      "category": "Politica Monetaria",
+      "relevance": "alta",
+      "keywords": [
+        "ipca",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47088-em-maio-ipca-fica-em-0-58.html",
+      "published_at": "2026-06-12T09:00:00+00:00",
+      "collected_at": "2026-06-12T16:20:24.949722+00:00"
+    },
+    {
+      "id": "b2a4670191348db4",
+      "title": "Influenciada pelo grupo de Alimentos e Bebidas, inflação fica em 0,58% em maio",
+      "summary": "Em maio, a alimentação no domicílio registrou variação de 1,65%, com influência das altas da batata-inglesa, do tomate e da cebola - Foto: Licia Rubinstein/Agência IBGE Notícias A inflação de maio (0,58%) desacelerou em relação ao resultado de abril (0,67%), mas acumula alta de 3...",
+      "category": "Politica Monetaria",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47089-influenciada-pelo-grupo-de-alimentos-e-bebidas-inflacao-fica-em-0-58-em-maio.html",
+      "published_at": "2026-06-12T09:00:00+00:00",
+      "collected_at": "2026-06-12T16:20:20.090493+00:00"
+    },
     {
       "id": "729e05cb9d898b35",
       "title": "Volume de serviços avança 1,2% em abril",
