@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-06-15T21:48:47.587555+00:00",
-  "total": 154,
+  "updated_at": "2026-06-15T23:47:38.549995+00:00",
+  "total": 155,
   "items": [
+    {
+      "id": "e301c52fede763a2",
+      "title": "Questionário do 12º CAFA é tema de novo podcast. Assista!",
+      "summary": "Juliana falou sobre os novos temas do questionário. - Foto: Reprodução Um dos elementos mais importantes da pesquisa, o formulário de perguntas que será aplicado durante o 12º Censo Agropecuário, Florestal e Aquícola incluirá novos blocos temáticos que respondem a demandas contem...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47169-questionario-do-12-cafa-e-tema-de-novo-podcast-assista.html",
+      "published_at": "2026-06-15T03:44:21+00:00",
+      "collected_at": "2026-06-15T23:47:33.906947+00:00"
+    },
     {
       "id": "0fdebeb5b0cfac1c",
       "title": "Em maio, IPCA fica em 0,58%",
