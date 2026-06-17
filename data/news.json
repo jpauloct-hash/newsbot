@@ -1,7 +1,82 @@
 {
-  "updated_at": "2026-06-17T00:23:00.354899+00:00",
-  "total": 155,
+  "updated_at": "2026-06-17T06:14:46.471350+00:00",
+  "total": 160,
   "items": [
+    {
+      "id": "b4d351bac327f546",
+      "title": "Brasil registra alta no abate de bovinos, frangos e suínos no 1º trimestre em comparação com 2025",
+      "summary": "No 1º trimestre de 2026, foram abatidas 10,29 milhões de cabeças de bovinos, maior resultado de um 1º trimestre da série histórica, iniciada em 1997. O resultado foi 3,3% superior ao 1º trimestre de 2025 e 6,9 % abaixo do registrado no trimestre imediatamente anterior. Também no ...",
+      "category": "Resultado Financeiro",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47166-brasil-registra-alta-no-abate-de-bovinos-frangos-e-suinos-no-1-trimestre-em-comparacao-com-2025.html",
+      "published_at": "2026-06-16T09:00:00+00:00",
+      "collected_at": "2026-06-17T06:14:41.241863+00:00"
+    },
+    {
+      "id": "a5babb32686bef8a",
+      "title": "Abates de bovinos, suínos e frangos tem o melhor resultado para um 1º trimestre",
+      "summary": "Brasil produz 2,63 milhões de toneladas de carcaças bovinas no 1º trimestre - Foto: Acervo IBGE No 1° trimestre de 2026 foram abatidas 10,29 milhões de cabeças de bovinos, alta de 3,3% em comparação com o mesmo período de 2025. Já na relação com o 4º trimestre de 2025, houve redu...",
+      "category": "Resultado Financeiro",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47167-abates-de-bovinos-suinos-e-frangos-tem-o-melhor-resultado-para-um-1-trimestre.html",
+      "published_at": "2026-06-16T09:00:00+00:00",
+      "collected_at": "2026-06-17T06:14:36.406929+00:00"
+    },
+    {
+      "id": "b59791bb9c30cb65",
+      "title": "Vendas do varejo recuam 1,5% em abril",
+      "summary": "Atividade de Combustíveis e lubrificantes registrou queda de 6,2% em abril - Foto: Gilson Abreu/AEN O volume de vendas do comércio varejista do país recuou 1,5% em abril frente a março, na série livre de influências sazonais, pressionado pela atividade de Combustíveis e lubrifica...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "varejo"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47175-vendas-do-varejo-recuam-1-5-em-abril.html",
+      "published_at": "2026-06-16T09:00:00+00:00",
+      "collected_at": "2026-06-17T06:14:31.508661+00:00"
+    },
+    {
+      "id": "9359c1e1308cf22d",
+      "title": "Em abril, vendas no varejo recuam 1,5%",
+      "summary": "Em abril de 2026, o volume de vendas do comércio varejista recuou 1,5% frente a março, na série livre de influências sazonais. Com isso, a média trimestral ficou estável (0,0%) no trimestre encerrado em abril de 2026 após avanço de 0,7% no trimestre encerrado em março. Período Va...",
+      "category": "Operacional",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "varejo"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47174-em-abril-vendas-no-varejo-recuam-1-5.html",
+      "published_at": "2026-06-16T09:00:00+00:00",
+      "collected_at": "2026-06-17T06:14:26.544551+00:00"
+    },
+    {
+      "id": "3bdeffd5a3d32c22",
+      "title": "IBGE divulga atualização dos Recortes Metropolitanos e Aglomerações Urbanas",
+      "summary": "Entre as principais atualizações de 2025, destaca-se a Região Metropolitana de Palmas (TO) - Foto: Prefeitura de Palmas O Instituto Brasileiro de Geografia e Estatística (IBGE) divulgou, nesta terça-feira (16), a atualização de recortes geográficos do país com referência ao ano d...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47164-ibge-divulga-atualizacao-dos-recortes-metropolitanos-e-aglomeracoes-urbanas-2.html",
+      "published_at": "2026-06-16T10:00:00+00:00",
+      "collected_at": "2026-06-17T06:14:21.718916+00:00"
+    },
     {
       "id": "e301c52fede763a2",
       "title": "Questionário do 12º CAFA é tema de novo podcast. Assista!",
