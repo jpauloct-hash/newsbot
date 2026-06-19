@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-06-19T15:26:48.964050+00:00",
-  "total": 160,
+  "updated_at": "2026-06-19T18:01:21.669919+00:00",
+  "total": 162,
   "items": [
+    {
+      "id": "f03586da0914cd5f",
+      "title": "Assembleia Legislativa do Piauí homenageia IBGE pelos 90 anos e destaca contribuição para o país",
+      "summary": "Homenagem ocorreu com a presença de servidores e representantes públicos - Foto: SDI SES A Assembleia Legislativa do Estado do Piauí realizou, na manhã de 19 de junho, uma audiência pública em homenagem aos 90 anos do Instituto Brasileiro de Geografia e Estatística (IBGE). O even...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47253-assembleia-legislativa-do-piaui-homenageia-ibge-pelos-90-anos-e-destaca-contribuicao-para-o-pais.html",
+      "published_at": "2026-06-19T02:21:40+00:00",
+      "collected_at": "2026-06-19T18:01:17.308050+00:00"
+    },
+    {
+      "id": "46e36454cfcaab19",
+      "title": "Analfabetismo fica abaixo de 5% em 2025, mas 8,4 milhões ainda não sabem ler e escrever",
+      "summary": "População com 60 anos ou mais era mais da metade (58%) do total de analfabetos em 2025 - Foto: Silvio Turra/SEED Paraná O país tinha 8,4 milhões de pessoas analfabetas em 2025, o que corresponde a uma taxa de analfabetismo de 4,9%. É a primeira vez que a taxa de analfabetismo do ...",
+      "category": "Resultado Financeiro",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47221-analfabetismo-fica-abaixo-de-5-em-2025-mas-8-4-milhoes-ainda-nao-sabem-ler-e-escrever.html",
+      "published_at": "2026-06-19T10:00:00+00:00",
+      "collected_at": "2026-06-19T18:01:12.360165+00:00"
+    },
     {
       "id": "b4d351bac327f546",
       "title": "Brasil registra alta no abate de bovinos, frangos e suínos no 1º trimestre em comparação com 2025",
