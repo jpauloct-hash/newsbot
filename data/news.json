@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-06-23T12:34:56.331404+00:00",
-  "total": 162,
+  "updated_at": "2026-06-23T15:50:12.556109+00:00",
+  "total": 163,
   "items": [
+    {
+      "id": "c2b575f4059bcba3",
+      "title": "IBGE divulga trocas na COPAD e COPIS",
+      "summary": "O Instituto Brasileiro de Geografia e Estatística (IBGE) informa que o servidor Leonardo Santos de Oliveira assumirá o cargo de Coordenador de Pesquisas por Amostra de Domicílios (COPAD) e que, na Coordenação de População e Indicadores Sociais (COPIS), a coordenadora titular pass...",
+      "category": "Fiscal",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47272-ibge-divulga-trocas-na-copad-e-copis.html",
+      "published_at": "2026-06-23T09:31:19+00:00",
+      "collected_at": "2026-06-23T15:50:09.077077+00:00"
+    },
     {
       "id": "f03586da0914cd5f",
       "title": "Assembleia Legislativa do Piauí homenageia IBGE pelos 90 anos e destaca contribuição para o país",
