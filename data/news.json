@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-06-24T14:39:08.432140+00:00",
-  "total": 164,
+  "updated_at": "2026-06-24T17:06:47.424517+00:00",
+  "total": 166,
   "items": [
+    {
+      "id": "bf8d73b0eceb27c0",
+      "title": "Em 2024, óleos brutos de petróleo foram o principal produto industrial pelo terceiro ano seguido",
+      "summary": "Itens da indústria extrativa lideraram o ranking das receitas - Foto: Rafa Neddermeyer/Agência Brasil O valor da receita líquida de vendas da indústria brasileira alcançou R$ 5,3 trilhões em 2024, resultado associado à produção de aproximadamente 3,4 mil produtos e serviços indus...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47275-em-2024-oleos-brutos-de-petroleo-foram-o-principal-produto-industrial-pelo-terceiro-ano-seguido.html",
+      "published_at": "2026-06-24T10:00:00+00:00",
+      "collected_at": "2026-06-24T17:06:44.088088+00:00"
+    },
+    {
+      "id": "a8f9ac58ebb7705b",
+      "title": "Indústrias de Transformação lideram ocupação de pessoal em 2024",
+      "summary": "Fabricação de produtos alimentícios liderou ocupação de pessoal – Foto: Marcelo Camargo/Agência Brasil A Pesquisa Industrial Anual – Empresa (PIA-Empresa) mostrou que, em 2024, um total de 358,4 mil empresas industriais abrangeram 8,7 milhões de pessoas, que receberam R$ 481,1 bi...",
+      "category": "Fiscal",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47277-industrias-de-transformacao-lideram-ocupacao-de-pessoal-em-2024.html",
+      "published_at": "2026-06-24T10:00:00+00:00",
+      "collected_at": "2026-06-24T17:06:39.071941+00:00"
+    },
     {
       "id": "9d303cc29e362cf8",
       "title": "90 anos: Reserva do IBGE recebe evento de anúncios especiais",

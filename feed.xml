@@ -5,7 +5,23 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 24 Jun 2026 14:39:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 17:06:47 +0000</lastBuildDate>
+    <item>
+      <title>Em 2024, óleos brutos de petróleo foram o principal produto industrial pelo terceiro ano seguido</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47275-em-2024-oleos-brutos-de-petroleo-foram-o-principal-produto-industrial-pelo-terceiro-ano-seguido.html</link>
+      <description>Itens da indústria extrativa lideraram o ranking das receitas - Foto: Rafa Neddermeyer/Agência Brasil O valor da receita líquida de vendas da indústria brasileira alcançou R$ 5,3 trilhões em 2024, resultado associado à produção de aproximadamente 3,4 mil produtos e serviços indus...</description>
+      <category>Resultado Financeiro</category>
+      <guid>bf8d73b0eceb27c0</guid>
+      <pubDate>Wed, 24 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indústrias de Transformação lideram ocupação de pessoal em 2024</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47277-industrias-de-transformacao-lideram-ocupacao-de-pessoal-em-2024.html</link>
+      <description>Fabricação de produtos alimentícios liderou ocupação de pessoal – Foto: Marcelo Camargo/Agência Brasil A Pesquisa Industrial Anual – Empresa (PIA-Empresa) mostrou que, em 2024, um total de 358,4 mil empresas industriais abrangeram 8,7 milhões de pessoas, que receberam R$ 481,1 bi...</description>
+      <category>Fiscal</category>
+      <guid>a8f9ac58ebb7705b</guid>
+      <pubDate>Wed, 24 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>90 anos: Reserva do IBGE recebe evento de anúncios especiais</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47276-90-anos-reserva-do-ibge-recebe-evento-de-anuncios-especiais.html</link>
@@ -389,22 +405,6 @@
       <category>Mercado de Capitais</category>
       <guid>a4961a31bca9e722</guid>
       <pubDate>Thu, 14 May 2026 02:35:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>PNAD Contínua Trimestral: desocupação sobe em 15 das 27 UFs no 1° trimestre de 2026</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46676-pnad-continua-trimestral-desocupacao-sobe-em-15-das-27-ufs-no-1-trimestre-de-2026.html</link>
-      <description>A taxa de desocupação do país no primeiro trimestre de 2026 foi de 6,1%, alta de 1,0 ponto percentual (p.p.) em relação ao quarto trimestre de 2025 (5,1%) e recuo de 0,9 p.p. ante o primeiro trimestre de 2025 (7,0%). Frente ao trimestre imediatamente anterior, a taxa de desocupaç...</description>
-      <category>Internacional</category>
-      <guid>c8bf69f93a53d53c</guid>
-      <pubDate>Thu, 14 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Soja tem previsão de novo recorde na série histórica em 2026</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46727-soja-tem-previsao-de-novo-recorde-na-serie-historica-em-2026.html</link>
-      <description>Projeções indicam mais uma safra histórica da soja - Foto: Jaelson Lucas/AEN-PR A estimativa em abril da safra nacional de cereais, leguminosas e oleaginosas para 2026 atingiu 348,7 milhões de toneladas, com previsão de novo recorde da série histórica para a produção da soja no a...</description>
-      <category>Resultado Financeiro</category>
-      <guid>1bc58729b2d6ec30</guid>
-      <pubDate>Thu, 14 May 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
