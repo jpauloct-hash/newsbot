@@ -5,7 +5,31 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 25 Jun 2026 10:44:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 13:21:33 +0000</lastBuildDate>
+    <item>
+      <title>IPCA-15 é de 0,41% em junho</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47299-ipca-15-e-de-0-41-em-junho.html</link>
+      <description>O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15) foi de 0,41% em junho, ficando 0,21 ponto percentual (p.p.) abaixo da taxa de maio (0,62%). O IPCA-E, que se constitui no IPCA-15 acumulado trimestralmente, situou-se em 1,93%, acima da taxa de 1,05% registrada em igual...</description>
+      <category>Politica Monetaria</category>
+      <guid>b3002c631cd9f268</guid>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prévia da inflação foi de 0,41% em junho</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47304-previa-da-inflacao-foi-de-0-41-em-junho.html</link>
+      <description>Energia elétrica residencial foi o subitem de maior impacto no IPCA-15 de junho (0,08 p.p) - Foto: Adobe Stock A prévia da inflação de junho foi de 0,41%, 0,21 ponto percentual abaixo da taxa de maio (0,62%). Os grupos Alimentação e Bebidas (0,74% e 0,16 p.p.) e Habitação (0,72% ...</description>
+      <category>Politica Monetaria</category>
+      <guid>37cf3951e339e641</guid>
+      <pubDate>Thu, 25 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cresce o número de empresas no país em 2024, mas salário médio fica estável</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47285-cresce-o-numero-de-empresas-no-pais-em-2024-mas-salario-medio-fica-estavel.html</link>
+      <description>Atividades ligadas ao comércio apresentaram maior número de empresas, pessoal ocupado e pessoal assalariado em 2024 - Ari Dias/AEN Em 2024, o número de empresas e outras organizações no Brasil cresceu 5,8% em relação a 2023, passando de 10,0 milhões para 10,6 milhões. O quantitat...</description>
+      <category>Mercado de Capitais</category>
+      <guid>93c49db39b9b388d</guid>
+      <pubDate>Thu, 25 Jun 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Em 2024, óleos brutos de petróleo foram o principal produto industrial pelo terceiro ano seguido</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47275-em-2024-oleos-brutos-de-petroleo-foram-o-principal-produto-industrial-pelo-terceiro-ano-seguido.html</link>
@@ -381,30 +405,6 @@
       <category>Resultado Financeiro</category>
       <guid>6eaa5a951c8e0956</guid>
       <pubDate>Fri, 15 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Setor de serviços recua 1,2% com destaque para transportes</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46747-setor-de-servicos-recua-1-2-com-destaque-para-transportes.html</link>
-      <description>O segmento de transportes teve queda de 1,7% em março - Foto: Pixabay O volume de serviços do país recuou 1,2% em março de 2026, em relação ao mês anterior, após estabilidade em fevereiro. A queda foi acompanhada por todas as cinco atividades investigadas, com destaque para os tr...</description>
-      <category>Resultado Financeiro</category>
-      <guid>733a1f36569fd2d6</guid>
-      <pubDate>Fri, 15 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ministro Bruno Moretti (MPO) visita a sede do IBGE no Rio de Janeiro</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46753-ministro-bruno-moretti-mpo-visita-a-sede-do-ibge-no-rio-de-janeiro.html</link>
-      <description>Novo ministro do Planejamento e Orçamento (MPO) foi servidor do IBGE, da Diretoria de Pesquisa do concurso de 2002. O presidente do IBGE, Marcio Pochmann recebeu hoje na sede do Instituto, no Rio de Janeiro, das 15h às 17h, o ministro Bruno Moretti, do Ministério do Planejamento ...</description>
-      <category>Fiscal</category>
-      <guid>d11c07f690e857a8</guid>
-      <pubDate>Thu, 14 May 2026 06:34:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alerta de uso indevido de nome e logotipo do IBGE em sítio eletrônico</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46750-alerta-de-uso-indevido-de-nome-e-logotipo-do-ibge-em-sitio-eletronico.html</link>
-      <description>Esta Fundação IBGE tomou ciência de que o nome fantasia e o logotipo do Instituto estão sendo utilizados de forma irregular por terceiros, coletando dados sensíveis de pessoas desavisadas, para fins desconhecidos, no endereço eletrônico https://concurso-ibge-2026.netlify.app. Esc...</description>
-      <category>Mercado de Capitais</category>
-      <guid>a4961a31bca9e722</guid>
-      <pubDate>Thu, 14 May 2026 02:35:56 +0000</pubDate>
     </item>
   </channel>
 </rss>

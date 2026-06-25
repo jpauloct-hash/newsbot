@@ -1,7 +1,55 @@
 {
-  "updated_at": "2026-06-25T10:44:28.777192+00:00",
-  "total": 166,
+  "updated_at": "2026-06-25T13:21:33.990831+00:00",
+  "total": 169,
   "items": [
+    {
+      "id": "b3002c631cd9f268",
+      "title": "IPCA-15 é de 0,41% em junho",
+      "summary": "O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15) foi de 0,41% em junho, ficando 0,21 ponto percentual (p.p.) abaixo da taxa de maio (0,62%). O IPCA-E, que se constitui no IPCA-15 acumulado trimestralmente, situou-se em 1,93%, acima da taxa de 1,05% registrada em igual...",
+      "category": "Politica Monetaria",
+      "relevance": "alta",
+      "keywords": [
+        "ipca",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47299-ipca-15-e-de-0-41-em-junho.html",
+      "published_at": "2026-06-25T09:00:00+00:00",
+      "collected_at": "2026-06-25T13:21:29.294391+00:00"
+    },
+    {
+      "id": "37cf3951e339e641",
+      "title": "Prévia da inflação foi de 0,41% em junho",
+      "summary": "Energia elétrica residencial foi o subitem de maior impacto no IPCA-15 de junho (0,08 p.p) - Foto: Adobe Stock A prévia da inflação de junho foi de 0,41%, 0,21 ponto percentual abaixo da taxa de maio (0,62%). Os grupos Alimentação e Bebidas (0,74% e 0,16 p.p.) e Habitação (0,72% ...",
+      "category": "Politica Monetaria",
+      "relevance": "alta",
+      "keywords": [
+        "ipca",
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47304-previa-da-inflacao-foi-de-0-41-em-junho.html",
+      "published_at": "2026-06-25T09:00:00+00:00",
+      "collected_at": "2026-06-25T13:21:24.416510+00:00"
+    },
+    {
+      "id": "93c49db39b9b388d",
+      "title": "Cresce o número de empresas no país em 2024, mas salário médio fica estável",
+      "summary": "Atividades ligadas ao comércio apresentaram maior número de empresas, pessoal ocupado e pessoal assalariado em 2024 - Ari Dias/AEN Em 2024, o número de empresas e outras organizações no Brasil cresceu 5,8% em relação a 2023, passando de 10,0 milhões para 10,6 milhões. O quantitat...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47285-cresce-o-numero-de-empresas-no-pais-em-2024-mas-salario-medio-fica-estavel.html",
+      "published_at": "2026-06-25T10:00:00+00:00",
+      "collected_at": "2026-06-25T13:21:19.422274+00:00"
+    },
     {
       "id": "bf8d73b0eceb27c0",
       "title": "Em 2024, óleos brutos de petróleo foram o principal produto industrial pelo terceiro ano seguido",
