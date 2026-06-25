@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 25 Jun 2026 16:26:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 19:06:30 +0000</lastBuildDate>
+    <item>
+      <title>Genebra atualiza modelo de gestão estatística e reforça agenda de modernização seguida pelo IBGE</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47318-genebra-atualiza-modelo-global-de-gestao-estatistica-e-reforca-agenda-de-modernizacao-seguida-pelo-ibge.html</link>
+      <description>Participantes da conferência estatística reunidos em Genebra, na Suíça. Foto: IBGE A 74ª Sessão Plenária da Conferência de Estatísticos Europeus (Conference of European Statisticians – CES), realizada entre os dias 24 e 26 de junho, em Genebra, aprovou a atualização do Modelo Gen...</description>
+      <category>Mercado de Capitais</category>
+      <guid>1f56076c3946e9a8</guid>
+      <pubDate>Thu, 25 Jun 2026 03:04:43 +0000</pubDate>
+    </item>
     <item>
       <title>IPCA-15 é de 0,41% em junho</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47299-ipca-15-e-de-0-41-em-junho.html</link>
@@ -397,14 +405,6 @@
       <category>Operacional</category>
       <guid>11c04d90e672978d</guid>
       <pubDate>Fri, 15 May 2026 02:54:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Volume de serviços recua 1,2% em março</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46746-volume-de-servicos-recua-1-2-em-marco.html</link>
-      <description>Em março de 2026, o volume de serviços no Brasil mostrou queda de 1,2% frente ao mês imediatamente anterior, na série livre de influências sazonais, após ter apresentado estabilidade (0,0%) em fevereiro de 2026. Dessa forma, o setor de serviços está 18,2% acima do nível de fevere...</description>
-      <category>Resultado Financeiro</category>
-      <guid>6eaa5a951c8e0956</guid>
-      <pubDate>Fri, 15 May 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

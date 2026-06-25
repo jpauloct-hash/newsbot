@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-06-25T16:26:38.672283+00:00",
-  "total": 169,
+  "updated_at": "2026-06-25T19:06:30.170528+00:00",
+  "total": 170,
   "items": [
+    {
+      "id": "1f56076c3946e9a8",
+      "title": "Genebra atualiza modelo de gestão estatística e reforça agenda de modernização seguida pelo IBGE",
+      "summary": "Participantes da conferência estatística reunidos em Genebra, na Suíça. Foto: IBGE A 74ª Sessão Plenária da Conferência de Estatísticos Europeus (Conference of European Statisticians – CES), realizada entre os dias 24 e 26 de junho, em Genebra, aprovou a atualização do Modelo Gen...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47318-genebra-atualiza-modelo-global-de-gestao-estatistica-e-reforca-agenda-de-modernizacao-seguida-pelo-ibge.html",
+      "published_at": "2026-06-25T03:04:43+00:00",
+      "collected_at": "2026-06-25T19:06:25.294311+00:00"
+    },
     {
       "id": "b3002c631cd9f268",
       "title": "IPCA-15 é de 0,41% em junho",
