@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 26 Jun 2026 10:54:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 13:13:50 +0000</lastBuildDate>
+    <item>
+      <title>Taxa de desocupação de maio fica em 5,6%, melhor resultado para o mês desde 2012</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47317-taxa-de-desocupacao-de-maio-fica-em-5-6-melhor-resultado-para-o-mes-desde-2012.html</link>
+      <description>Em cenário de baixa desocupação, o grupo de trabalhadores domésticos busca oportunidades de trabalho melhor remuneradas - Foto: Licia Rubinstein / Agência IBGE A taxa de desocupação no Brasil chegou a 5,6% no trimestre de março a maio de 2026, mostrando estabilidade em relação ao...</description>
+      <category>Resultado Financeiro</category>
+      <guid>a69289d0bde240f6</guid>
+      <pubDate>Fri, 26 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Genebra atualiza modelo de gestão estatística e reforça agenda de modernização seguida pelo IBGE</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47318-genebra-atualiza-modelo-global-de-gestao-estatistica-e-reforca-agenda-de-modernizacao-seguida-pelo-ibge.html</link>
@@ -397,14 +405,6 @@
       <category>Mercado de Capitais</category>
       <guid>0a6136503d66fd93</guid>
       <pubDate>Fri, 15 May 2026 06:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Primeira semana da 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola testa operação e indica ajustes para a coleta nacional</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46766-primeira-semana-da-2-prova-piloto-do-12-censo-agropecuario-florestal-e-aquicola-testa-operacao-e-indica-ajustes-para-a-coleta-nacional.html</link>
-      <description>A primeira semana da 2ª prova piloto do 12º Censo Agropecuário, Florestal e Aquícola foi marcada por intensa mobilização de equipes em diferentes regiões do país e por uma agenda estratégica de testes voltados ao aperfeiçoamento da operação censitária. Realizada pelo Instituto Br...</description>
-      <category>Operacional</category>
-      <guid>11c04d90e672978d</guid>
-      <pubDate>Fri, 15 May 2026 02:54:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
