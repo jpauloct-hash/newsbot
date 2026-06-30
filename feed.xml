@@ -5,7 +5,23 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 30 Jun 2026 09:39:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 12:11:38 +0000</lastBuildDate>
+    <item>
+      <title>Índice de Preços ao Produtor (IPP) é de -0,30% em maio</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47362-indice-de-precos-ao-produtor-ipp-e-de-0-30-em-maio.html</link>
+      <description>Em maio de 2026, os preços da indústria variaram -0,30% frente a abril de 2026, revertendo o sinal da variação de abril frente a março (2,62%). Nessa comparação, sete das 24 atividades industriais apresentaram queda de preços. O acumulado no ano foi de 4,80%. O acumulado em 12 me...</description>
+      <category>Fiscal</category>
+      <guid>b5227f42cf661474</guid>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Preços da indústria caem 0,30% em maio, sob impacto do setor de alimentos</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47361-precos-da-industria-caem-0-30-em-maio-sob-impacto-do-setor-de-alimentos.html</link>
+      <description>Alimentos foi a atividade industrial de maior destaque na composição do resultado agregado - Foto: David Monniaux/Wikimedia commons O preço da industria nacional variou no mês de maio, em média, -0,30% quando comparados aos de abril de 2026, revertendo o sinal da variação de abri...</description>
+      <category>Fiscal</category>
+      <guid>05cc87a745d11cdc</guid>
+      <pubDate>Tue, 30 Jun 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Taxa de desocupação de maio fica em 5,6%, melhor resultado para o mês desde 2012</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47317-taxa-de-desocupacao-de-maio-fica-em-5-6-melhor-resultado-para-o-mes-desde-2012.html</link>
@@ -389,22 +405,6 @@
       <category>Regulatorio</category>
       <guid>e9eb8b1fded85232</guid>
       <pubDate>Mon, 18 May 2026 13:44:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ofício Circular CVM/SEP 02/26, de 18 de Maio de 2026</title>
-      <link>http://www.cvm.gov.br/legislacao/oficios-circulares/sep/oc-sep-0226.html</link>
-      <description>&lt;p&gt;Orientações às entidades administradoras de mercados organizados para obtenção de registro inicial de emissor de valores mobiliários de companhias de menor porte (CMP).&lt;/p&gt;</description>
-      <category>Regulatorio</category>
-      <guid>e77408368657f5f3</guid>
-      <pubDate>Mon, 18 May 2026 13:50:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>IBGE, Sudene e MinC abrem inscrições para capacitação em dados aplicados a políticas culturais</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46769-ibge-sudene-e-minc-abrem-inscricoes-para-capacitacao-em-dados-aplicados-a-politicas-culturais.html</link>
-      <description>Encontro em Recife é voltado à aplicação prática de dados oficiais do IBGE. Foto: MTUR/Bruno Lima O Instituto Brasileiro de Geografia e Estatística (IBGE) promove, no próximo dia 19 de maio de 2026, em Recife (PE), o encontro “Dados para Políticas Públicas: Cultura”, iniciativa q...</description>
-      <category>Mercado de Capitais</category>
-      <guid>0a6136503d66fd93</guid>
-      <pubDate>Fri, 15 May 2026 06:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

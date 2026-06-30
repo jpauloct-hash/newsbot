@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-06-30T09:39:38.790569+00:00",
-  "total": 171,
+  "updated_at": "2026-06-30T12:11:38.877897+00:00",
+  "total": 173,
   "items": [
+    {
+      "id": "b5227f42cf661474",
+      "title": "Índice de Preços ao Produtor (IPP) é de -0,30% em maio",
+      "summary": "Em maio de 2026, os preços da indústria variaram -0,30% frente a abril de 2026, revertendo o sinal da variação de abril frente a março (2,62%). Nessa comparação, sete das 24 atividades industriais apresentaram queda de preços. O acumulado no ano foi de 4,80%. O acumulado em 12 me...",
+      "category": "Fiscal",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47362-indice-de-precos-ao-produtor-ipp-e-de-0-30-em-maio.html",
+      "published_at": "2026-06-30T09:00:00+00:00",
+      "collected_at": "2026-06-30T12:10:37.538274+00:00"
+    },
+    {
+      "id": "05cc87a745d11cdc",
+      "title": "Preços da indústria caem 0,30% em maio, sob impacto do setor de alimentos",
+      "summary": "Alimentos foi a atividade industrial de maior destaque na composição do resultado agregado - Foto: David Monniaux/Wikimedia commons O preço da industria nacional variou no mês de maio, em média, -0,30% quando comparados aos de abril de 2026, revertendo o sinal da variação de abri...",
+      "category": "Fiscal",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47361-precos-da-industria-caem-0-30-em-maio-sob-impacto-do-setor-de-alimentos.html",
+      "published_at": "2026-06-30T09:00:00+00:00",
+      "collected_at": "2026-06-30T12:10:32.658508+00:00"
+    },
     {
       "id": "a69289d0bde240f6",
       "title": "Taxa de desocupação de maio fica em 5,6%, melhor resultado para o mês desde 2012",
