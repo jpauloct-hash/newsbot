@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 02 Jul 2026 20:20:37 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 22:08:46 +0000</lastBuildDate>
+    <item>
+      <title>Câmara dos Deputados faz homenagem ao IBGE</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47465-camara-dos-deputados-faz-homenagem-ao-ibge.html</link>
+      <description>A Câmara dos Deputados realizou, nesta quinta-feira (2), uma Sessão Solene em homenagem aos 90 anos do Instituto Brasileiro de Geografia e Estatística (IBGE), celebrando a trajetória da instituição e sua contribuição para a produção de informações que orientam políticas públicas,...</description>
+      <category>Mercado de Capitais</category>
+      <guid>d2be6ab0965ce6bf</guid>
+      <pubDate>Thu, 02 Jul 2026 05:31:46 +0000</pubDate>
+    </item>
     <item>
       <title>Proporção de usuários da internet no país ultrapassou 90% da população de 10 anos ou mais, em 2025</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47408-proporcao-de-usuarios-da-internet-no-pais-ultrapassou-90-da-populacao-de-10-anos-ou-mais-em-2025.html</link>
@@ -397,14 +405,6 @@
       <category>Mercado de Capitais</category>
       <guid>610249667b315ca1</guid>
       <pubDate>Thu, 21 May 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Abate de bovinos, suínos e frangos crescem no 1° trimestre de 2026</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46788-abate-de-bovinos-suinos-e-frangos-crescem-no-1-trimestre-de-2026.html</link>
-      <description>Os primeiros resultados da produção animal no 1º trimestre de 2026 apontam que o abate de bovinos teve alta de 3,3% em comparação com o 1º trimestre de 2025 e redução de 6,8% quando comparado ao 4º trimestre de 2025. O abate de suínos teve alta de 5,5% e o de frangos cresceu 3,7%...</description>
-      <category>Resultado Financeiro</category>
-      <guid>6a902a8505a40440</guid>
-      <pubDate>Tue, 19 May 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

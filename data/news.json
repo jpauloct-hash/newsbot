@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-07-02T20:20:37.716807+00:00",
-  "total": 175,
+  "updated_at": "2026-07-02T22:08:46.878156+00:00",
+  "total": 176,
   "items": [
+    {
+      "id": "d2be6ab0965ce6bf",
+      "title": "Câmara dos Deputados faz homenagem ao IBGE",
+      "summary": "A Câmara dos Deputados realizou, nesta quinta-feira (2), uma Sessão Solene em homenagem aos 90 anos do Instituto Brasileiro de Geografia e Estatística (IBGE), celebrando a trajetória da instituição e sua contribuição para a produção de informações que orientam políticas públicas,...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47465-camara-dos-deputados-faz-homenagem-ao-ibge.html",
+      "published_at": "2026-07-02T05:31:46+00:00",
+      "collected_at": "2026-07-02T22:08:42.888487+00:00"
+    },
     {
       "id": "5123b6b559765439",
       "title": "Proporção de usuários da internet no país ultrapassou 90% da população de 10 anos ou mais, em 2025",
