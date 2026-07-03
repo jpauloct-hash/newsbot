@@ -5,7 +5,23 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 03 Jul 2026 14:13:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 16:26:41 +0000</lastBuildDate>
+    <item>
+      <title>Produção industrial varia -0,2% em maio</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47446-producao-industrial-varia-0-2-em-maio2.html</link>
+      <description>Em maio de 2026, a produção industrial variou –0,2% frente a abril, primeiro resultado negativo do ano. Em relação a maio de 2025, a indústria variou 0,2%, após avançar 2,7% em abril. O acumulado no ano avançou 1,4%, enquanto nos últimos 12 meses, variou 0,4%. Período Taxa Maio d...</description>
+      <category>Resultado Financeiro</category>
+      <guid>ffa26120dcd23b36</guid>
+      <pubDate>Fri, 03 Jul 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Indústria varia -0,2% em maio e interrompe quatro altas seguidas</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47448-industria-varia-0-2-em-maio-e-interrompe-quatro-altas-seguidas.html</link>
+      <description>Influências negativas mais intensas vieram de coque, produtos derivados do petróleo e biocombustíveis - Foto: Marco Charneski/Agência Petrobras A produção industrial variou –0,2% em maio, na comparação com abril, o primeiro resultado negativo após quatro meses seguidos de alta. C...</description>
+      <category>Resultado Financeiro</category>
+      <guid>ecd1341c74cd1666</guid>
+      <pubDate>Fri, 03 Jul 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Câmara dos Deputados faz homenagem ao IBGE</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47465-camara-dos-deputados-faz-homenagem-ao-ibge.html</link>
@@ -389,22 +405,6 @@
       <category>Regulatorio</category>
       <guid>50d6ddc1b6e13ab5</guid>
       <pubDate>Thu, 21 May 2026 15:39:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>IBGE publica nova edição dos Indicadores Econômicos do Brasil</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46825-ibge-publica-nova-edicao-dos-indicadores-economicos-do-brasil.html</link>
-      <description>Publicação reúne em um único produto indicadores econômicos do Brasil divulgados pelas pesquisas conjunturais do IBGE - Foto: arte sobre foto PxHere Nesta sexta-feira (22), o Instituto Brasileiro de Geografia e Estatística (IBGE) divulgou a nova edição do informativo “Indicadores...</description>
-      <category>Resultado Financeiro</category>
-      <guid>a71fd2fe3b93066c</guid>
-      <pubDate>Fri, 22 May 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IBGE divulga Relatório Metodológico das Pesquisas Estruturais em Empresas</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46822-ibge-divulga-relatorio-metodologico-das-pesquisas-estruturais-em-empresas.html</link>
-      <description>Pesquisa Anual da Indústria da Construção (PAIC) está dentro do relatório metodológico. – Foto: Marcello Casal Jr/ Agência Brasil O Instituto Brasileiro de Geografia e Estatística (IBGE) divulga, nesta quinta-feira (21), o primeiro relatório metodológico unificado das pesquisas e...</description>
-      <category>Mercado de Capitais</category>
-      <guid>610249667b315ca1</guid>
-      <pubDate>Thu, 21 May 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

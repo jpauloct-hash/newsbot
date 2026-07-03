@@ -1,7 +1,38 @@
 {
-  "updated_at": "2026-07-03T14:13:00.391386+00:00",
-  "total": 176,
+  "updated_at": "2026-07-03T16:26:41.059538+00:00",
+  "total": 178,
   "items": [
+    {
+      "id": "ffa26120dcd23b36",
+      "title": "Produção industrial varia -0,2% em maio",
+      "summary": "Em maio de 2026, a produção industrial variou –0,2% frente a abril, primeiro resultado negativo do ano. Em relação a maio de 2025, a indústria variou 0,2%, após avançar 2,7% em abril. O acumulado no ano avançou 1,4%, enquanto nos últimos 12 meses, variou 0,4%. Período Taxa Maio d...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "produção industrial"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47446-producao-industrial-varia-0-2-em-maio2.html",
+      "published_at": "2026-07-03T09:00:00+00:00",
+      "collected_at": "2026-07-03T16:26:17.610112+00:00"
+    },
+    {
+      "id": "ecd1341c74cd1666",
+      "title": "Indústria varia -0,2% em maio e interrompe quatro altas seguidas",
+      "summary": "Influências negativas mais intensas vieram de coque, produtos derivados do petróleo e biocombustíveis - Foto: Marco Charneski/Agência Petrobras A produção industrial variou –0,2% em maio, na comparação com abril, o primeiro resultado negativo após quatro meses seguidos de alta. C...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "produção industrial"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47448-industria-varia-0-2-em-maio-e-interrompe-quatro-altas-seguidas.html",
+      "published_at": "2026-07-03T09:00:00+00:00",
+      "collected_at": "2026-07-03T16:26:12.721621+00:00"
+    },
     {
       "id": "d2be6ab0965ce6bf",
       "title": "Câmara dos Deputados faz homenagem ao IBGE",
