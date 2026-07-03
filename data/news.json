@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-07-03T18:18:22.636661+00:00",
-  "total": 178,
+  "updated_at": "2026-07-03T20:15:48.850937+00:00",
+  "total": 179,
   "items": [
+    {
+      "id": "137d24f42284eb64",
+      "title": "IBGE recebe Medalha do Mérito Farroupilha e apresenta resultados da PEERS na Assembleia Legislativa do RS",
+      "summary": "IBGE apresenta resultados da PEERS - Foto: SDI / CDDI O presidente Marcio Pochmann recebeu, nesta sexta-feira (3), em Porto Alegre, em nome do Instituto Brasileiro de Geografia e Estatística (IBGE), a Medalha do Mérito Farroupilha, concedida pela Assembleia Legislativa do Rio Gra...",
+      "category": "Resultado Financeiro",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47500-ibge-recebe-medalha-do-merito-farroupilha-e-apresenta-resultados-da-peers-na-assembleia-legislativa-do-rs.html",
+      "published_at": "2026-07-03T04:56:00+00:00",
+      "collected_at": "2026-07-03T20:15:45.253882+00:00"
+    },
     {
       "id": "ffa26120dcd23b36",
       "title": "Produção industrial varia -0,2% em maio",
