@@ -5,7 +5,23 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 10 Jul 2026 18:28:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 20:25:00 +0000</lastBuildDate>
+    <item>
+      <title>Em maio, indústria recua em 9 dos 15 locais pesquisados</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47522-em-maio-industria-recua-em-9-dos-15-locais-pesquisados.html</link>
+      <description>Em maio de 2026, a variação negativa de 0,2% da produção industrial nacional, frente ao mês imediatamente anterior e na série com ajuste sazonal, foi acompanhada por nove dos quinze locais pesquisados. Bahia (-8,9%), Mato Grosso (-3,2%) e Região Nordeste (-3,2%) assinalaram as qu...</description>
+      <category>Operacional</category>
+      <guid>c571b3f115f7c382</guid>
+      <pubDate>Fri, 10 Jul 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IPCA fica em 0,16% em junho</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47534-ipca-fica-em-0-16-em-junho.html</link>
+      <description>O Índice Nacional de Preços ao Consumidor Amplo (IPCA) de junho foi de 0,16%. O índice foi 0,42 ponto percentual (p.p.) abaixo da taxa de 0,58% registrada em maio. No ano, o IPCA acumula alta de 3,36% e, nos últimos doze meses, o índice ficou em 4,64%, abaixo dos 4,72% dos 12 mes...</description>
+      <category>Politica Monetaria</category>
+      <guid>2b13caea1f6cf93d</guid>
+      <pubDate>Fri, 10 Jul 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>IBGE recebe Medalha do Mérito Farroupilha e apresenta resultados da PEERS na Assembleia Legislativa do RS</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47500-ibge-recebe-medalha-do-merito-farroupilha-e-apresenta-resultados-da-peers-na-assembleia-legislativa-do-rs.html</link>
@@ -389,22 +405,6 @@
       <category>Politica Monetaria</category>
       <guid>38b43098ca58dc09</guid>
       <pubDate>Wed, 27 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prévia da inflação foi de 0,62% em maio</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46870-previa-da-inflacao-foi-de-0-62-em-maio.html</link>
-      <description>Energia elétrica residencial foi o subitem de maior impacto no IPCA-15 de maio (0,09 p.p) - Foto: Helena Pontes/Agência IBGE Notícias A prévia da inflação de maio foi de 0,62%, 0,27 ponto percentual abaixo da taxa de abril (0,89%). Os grupos Alimentação e Bebidas (1,38% e 0,30 p....</description>
-      <category>Politica Monetaria</category>
-      <guid>76260068db7fc307</guid>
-      <pubDate>Wed, 27 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 07.05.2026</title>
-      <link>http://www.cvm.gov.br/decisoes/2026/20260507_R1.html</link>
-      <description>&lt;p&gt;Tipo: Extraordinária&lt;/p&gt; &lt;p&gt;Participantes:&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;strong&gt;&amp;bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &amp;ndash; DIRETOR (PRESIDENTE INTERINO)&lt;br /&gt; &amp;bull; MARINA PALMA COPOLA DE CARVALHO&amp;nbsp;&lt;/strong&gt;&lt;strong&gt;&amp;ndash; DIRETORA&lt;/strong&gt;&lt;br /&gt; &lt;strong&gt;&amp;bull; THIAGO PAIVA CHAVES ...</description>
-      <category>Regulatorio</category>
-      <guid>b3d50203de36cefe</guid>
-      <pubDate>Fri, 22 May 2026 19:51:52 +0000</pubDate>
     </item>
   </channel>
 </rss>

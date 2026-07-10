@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-07-10T18:28:57.905664+00:00",
-  "total": 179,
+  "updated_at": "2026-07-10T20:25:00.059476+00:00",
+  "total": 181,
   "items": [
+    {
+      "id": "c571b3f115f7c382",
+      "title": "Em maio, indústria recua em 9 dos 15 locais pesquisados",
+      "summary": "Em maio de 2026, a variação negativa de 0,2% da produção industrial nacional, frente ao mês imediatamente anterior e na série com ajuste sazonal, foi acompanhada por nove dos quinze locais pesquisados. Bahia (-8,9%), Mato Grosso (-3,2%) e Região Nordeste (-3,2%) assinalaram as qu...",
+      "category": "Operacional",
+      "relevance": "alta",
+      "keywords": [
+        "produção industrial"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47522-em-maio-industria-recua-em-9-dos-15-locais-pesquisados.html",
+      "published_at": "2026-07-10T09:00:00+00:00",
+      "collected_at": "2026-07-10T20:24:55.106795+00:00"
+    },
+    {
+      "id": "2b13caea1f6cf93d",
+      "title": "IPCA fica em 0,16% em junho",
+      "summary": "O Índice Nacional de Preços ao Consumidor Amplo (IPCA) de junho foi de 0,16%. O índice foi 0,42 ponto percentual (p.p.) abaixo da taxa de 0,58% registrada em maio. No ano, o IPCA acumula alta de 3,36% e, nos últimos doze meses, o índice ficou em 4,64%, abaixo dos 4,72% dos 12 mes...",
+      "category": "Politica Monetaria",
+      "relevance": "alta",
+      "keywords": [
+        "ipca"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47534-ipca-fica-em-0-16-em-junho.html",
+      "published_at": "2026-07-10T09:00:00+00:00",
+      "collected_at": "2026-07-10T20:24:50.157749+00:00"
+    },
     {
       "id": "137d24f42284eb64",
       "title": "IBGE recebe Medalha do Mérito Farroupilha e apresenta resultados da PEERS na Assembleia Legislativa do RS",
