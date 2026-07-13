@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 13 Jul 2026 20:16:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 21:58:29 +0000</lastBuildDate>
+    <item>
+      <title>EXTRATOS DA ATA DA REUNIÃO DO COLEGIADO Nº 45 DE 09.12.2025</title>
+      <link>http://www.cvm.gov.br/decisoes/2025/20251209_R1.html</link>
+      <description>&lt;p&gt;Tipo: Ordinária&lt;/p&gt; &lt;p&gt;Participantes:&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;strong&gt;&amp;bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &amp;ndash; PRESIDENTE INTERINO&lt;/strong&gt;&lt;br /&gt; &lt;strong&gt;&amp;bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &amp;ndash; DIRETOR &lt;/strong&gt;&lt;sup&gt;&lt;strong&gt;(1)&lt;/strong&gt;&lt;/sup&gt;&lt;br /&gt; &lt;strong&gt;&amp;bull; ...</description>
+      <category>Mercado de Capitais</category>
+      <guid>686e2a3f5c5ae691</guid>
+      <pubDate>Mon, 13 Jul 2026 17:15:48 +0000</pubDate>
+    </item>
     <item>
       <title>Em maio, indústria recua em 9 dos 15 locais pesquisados</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47522-em-maio-industria-recua-em-9-dos-15-locais-pesquisados.html</link>
@@ -397,14 +405,6 @@
       <category>Operacional</category>
       <guid>5f26b3483088fa60</guid>
       <pubDate>Thu, 28 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IPCA-15 é de 0,62% em maio</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46869-ipca-15-e-de-0-62-em-maio.html</link>
-      <description>O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15) foi de 0,62% em maio, ficando 0,27 ponto percentual (p.p.) abaixo da taxa de abril (0,89%). No ano, o IPCA-15 acumula alta de 3,02% e, em 12 meses, de 4,64%, acima dos 4,37% observados nos 12 meses imediatamente anterio...</description>
-      <category>Politica Monetaria</category>
-      <guid>38b43098ca58dc09</guid>
-      <pubDate>Wed, 27 May 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

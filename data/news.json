@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-07-13T20:16:53.185402+00:00",
-  "total": 181,
+  "updated_at": "2026-07-13T21:58:29.762080+00:00",
+  "total": 182,
   "items": [
+    {
+      "id": "686e2a3f5c5ae691",
+      "title": "EXTRATOS DA ATA DA REUNIÃO DO COLEGIADO Nº 45 DE 09.12.2025",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE INTERINO</strong><br /> <strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR </strong><sup><strong>(1)</strong></sup><br /> <strong>&bull; ...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2025/20251209_R1.html",
+      "published_at": "2026-07-13T17:15:48+00:00",
+      "collected_at": "2026-07-13T21:58:26.156009+00:00"
+    },
     {
       "id": "c571b3f115f7c382",
       "title": "Em maio, indústria recua em 9 dos 15 locais pesquisados",
