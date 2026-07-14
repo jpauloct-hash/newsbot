@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 14 Jul 2026 12:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 14:53:18 +0000</lastBuildDate>
+    <item>
+      <title>Em junho, IBGE prevê safra de 347,4 milhões de toneladas para 2026</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47564-em-junho-ibge-preve-safra-de-347-4-milhoes-de-toneladas-para-2026.html</link>
+      <description>A estimativa de junho de 2026 para a produção de cereais, leguminosas e oleaginosas foi de 347,4 milhões de toneladas, 0,4% maior (ou mais 1,3 milhão de toneladas) que a obtida em 2025 (346,1 milhões de toneladas), com queda de 0,8% (ou menos 3,0 milhões de toneladas) em relação ...</description>
+      <category>Operacional</category>
+      <guid>3860f3fd7e5d542a</guid>
+      <pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>EXTRATOS DA ATA DA REUNIÃO DO COLEGIADO Nº 45 DE 09.12.2025</title>
       <link>http://www.cvm.gov.br/decisoes/2025/20251209_R1.html</link>
@@ -396,14 +404,6 @@
       <description>Período Taxa Abril de 2026 2,63% Março de 2026 2,28% Abril de 2025 -0,12% Acumulado no ano 5,12% Acumulado em 12 meses 1,07% A taxa de desocupação (5,8%) no trimestre encerrado em abril de 2026 teve aumento de 0,4 ponto percentual (p.p.) frente ao trimestre de novembro de 2025 a ...</description>
       <category>Operacional</category>
       <guid>63a2ddc0185fae30</guid>
-      <pubDate>Thu, 28 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Com taxa de 5,8%, desemprego cresce no trimestre encerrado em abril</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46890-com-taxa-de-5-8-desemprego-cresce-no-trimestre-encerrado-em-abril.html</link>
-      <description>Apesar da alta no desemprego, nível da ocupação continua elevado - Foto: José Cruz/Agência Brasil A taxa de desocupação voltou a crescer, chegando a 5,8% no trimestre encerrado em abril. Isso significa que 6,3 milhões de pessoas buscaram trabalho sem sucesso no trimestre, 471 mil...</description>
-      <category>Operacional</category>
-      <guid>5f26b3483088fa60</guid>
       <pubDate>Thu, 28 May 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>

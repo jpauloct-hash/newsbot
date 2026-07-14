@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-07-14T12:18:51.512377+00:00",
-  "total": 182,
+  "updated_at": "2026-07-14T14:53:18.204025+00:00",
+  "total": 183,
   "items": [
+    {
+      "id": "3860f3fd7e5d542a",
+      "title": "Em junho, IBGE prevê safra de 347,4 milhões de toneladas para 2026",
+      "summary": "A estimativa de junho de 2026 para a produção de cereais, leguminosas e oleaginosas foi de 347,4 milhões de toneladas, 0,4% maior (ou mais 1,3 milhão de toneladas) que a obtida em 2025 (346,1 milhões de toneladas), com queda de 0,8% (ou menos 3,0 milhões de toneladas) em relação ...",
+      "category": "Operacional",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47564-em-junho-ibge-preve-safra-de-347-4-milhoes-de-toneladas-para-2026.html",
+      "published_at": "2026-07-14T09:00:00+00:00",
+      "collected_at": "2026-07-14T14:53:14.447653+00:00"
+    },
     {
       "id": "686e2a3f5c5ae691",
       "title": "EXTRATOS DA ATA DA REUNIÃO DO COLEGIADO Nº 45 DE 09.12.2025",
