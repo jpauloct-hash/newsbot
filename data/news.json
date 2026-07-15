@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-07-15T10:52:04.330964+00:00",
-  "total": 183,
+  "updated_at": "2026-07-15T12:16:55.876373+00:00",
+  "total": 184,
   "items": [
+    {
+      "id": "51ee67fd52992485",
+      "title": "Volume de serviços recua 0,4% em maio",
+      "summary": "Em maio de 2026, o volume de serviços no Brasil recuou 0,4% frente ao mês imediatamente anterior, após ter registrado alta (1,1%) em abril. Dessa forma, o setor de serviços se encontra 19,6% acima do nível de fevereiro de 2020 (pré-pandemia) e fica, em maio de 2026, 0,5% abaixo d...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47570-volume-de-servicos-recua-0-4-em-maio.html",
+      "published_at": "2026-07-15T09:00:00+00:00",
+      "collected_at": "2026-07-15T12:16:51.760742+00:00"
+    },
     {
       "id": "3860f3fd7e5d542a",
       "title": "Em junho, IBGE prevê safra de 347,4 milhões de toneladas para 2026",

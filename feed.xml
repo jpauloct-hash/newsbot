@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 15 Jul 2026 10:52:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 12:16:55 +0000</lastBuildDate>
+    <item>
+      <title>Volume de serviços recua 0,4% em maio</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47570-volume-de-servicos-recua-0-4-em-maio.html</link>
+      <description>Em maio de 2026, o volume de serviços no Brasil recuou 0,4% frente ao mês imediatamente anterior, após ter registrado alta (1,1%) em abril. Dessa forma, o setor de serviços se encontra 19,6% acima do nível de fevereiro de 2020 (pré-pandemia) e fica, em maio de 2026, 0,5% abaixo d...</description>
+      <category>Resultado Financeiro</category>
+      <guid>51ee67fd52992485</guid>
+      <pubDate>Wed, 15 Jul 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Em junho, IBGE prevê safra de 347,4 milhões de toneladas para 2026</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47564-em-junho-ibge-preve-safra-de-347-4-milhoes-de-toneladas-para-2026.html</link>
@@ -396,14 +404,6 @@
       <description>Cadeia petrolífera influencia resultados do IPP de abril - Foto: Agência Petrobras Influenciados principalmente pela cadeia petrolífera, os preços da indústria nacional subiram 2,63% em abril frente a março (2,28%), alcançando o maior resultado desde março de 2022 (3,12%). Nos úl...</description>
       <category>Fiscal</category>
       <guid>07f006bd2fac19b7</guid>
-      <pubDate>Thu, 28 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PNAD Contínua: taxa de desocupação é de 5,8% e taxa de subutilização é de 13,8% no trimestre encerrado em abril</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46888-pnad-continua-taxa-de-desocupacao-e-de-5-8-e-taxa-de-subutilizacao-e-de-13-8-no-trimestre-encerrado-em-abril.html</link>
-      <description>Período Taxa Abril de 2026 2,63% Março de 2026 2,28% Abril de 2025 -0,12% Acumulado no ano 5,12% Acumulado em 12 meses 1,07% A taxa de desocupação (5,8%) no trimestre encerrado em abril de 2026 teve aumento de 0,4 ponto percentual (p.p.) frente ao trimestre de novembro de 2025 a ...</description>
-      <category>Operacional</category>
-      <guid>63a2ddc0185fae30</guid>
       <pubDate>Thu, 28 May 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
