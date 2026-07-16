@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 16 Jul 2026 19:13:48 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 21:01:13 +0000</lastBuildDate>
+    <item>
+      <title>ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 24.06.2026</title>
+      <link>http://www.cvm.gov.br/decisoes/2026/20260624_R1.html</link>
+      <description>&lt;p&gt;Tipo: Extraordinária&lt;/p&gt; &lt;p&gt;Participantes:&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;strong&gt;&amp;bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &amp;ndash; PRESIDENTE&lt;/strong&gt;&lt;br /&gt; &lt;strong&gt;&amp;bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &amp;ndash; DIRETOR&lt;/strong&gt;&lt;br /&gt; &lt;strong&gt;&amp;bull; MARINA PALMA COPOLA DE CARVALHO &amp;nda...</description>
+      <category>Mercado de Capitais</category>
+      <guid>e4b154c036f08ca2</guid>
+      <pubDate>Thu, 16 Jul 2026 15:09:03 +0000</pubDate>
+    </item>
     <item>
       <title>Em maio, vendas no varejo variam 0,1%</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47585-em-maio-vendas-no-varejo-variam-0-1-1.html</link>
@@ -397,14 +405,6 @@
       <category>Internacional</category>
       <guid>81f3221c6c673e1e</guid>
       <pubDate>Thu, 28 May 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Índice de Preços ao Produtor (IPP) é de 2,63% em abril</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46887-indice-de-precos-ao-produtor-ipp-e-de-2-63-em-abril.html</link>
-      <description>Em abril de 2026, os preços da indústria variaram 2,63% frente a março de 2026. Nessa comparação, 21 das 24 atividades industriais apresentaram aumento de preços. O acumulado no ano foi de 5,12%, o terceiro maior já registrado para um mês de abril desde o início da série históric...</description>
-      <category>Fiscal</category>
-      <guid>1e633816ea86faea</guid>
-      <pubDate>Thu, 28 May 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

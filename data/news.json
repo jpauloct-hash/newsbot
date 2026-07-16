@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-07-16T19:13:48.729756+00:00",
-  "total": 185,
+  "updated_at": "2026-07-16T21:01:13.373355+00:00",
+  "total": 186,
   "items": [
+    {
+      "id": "e4b154c036f08ca2",
+      "title": "ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 24.06.2026",
+      "summary": "<p>Tipo: Extraordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE</strong><br /> <strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR</strong><br /> <strong>&bull; MARINA PALMA COPOLA DE CARVALHO &nda...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260624_R1.html",
+      "published_at": "2026-07-16T15:09:03+00:00",
+      "collected_at": "2026-07-16T21:01:09.807374+00:00"
+    },
     {
       "id": "ab3710575c548e6f",
       "title": "Em maio, vendas no varejo variam 0,1%",
