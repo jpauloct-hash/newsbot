@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-07-16T11:41:27.034791+00:00",
-  "total": 184,
+  "updated_at": "2026-07-16T13:55:18.339652+00:00",
+  "total": 185,
   "items": [
+    {
+      "id": "ab3710575c548e6f",
+      "title": "Em maio, vendas no varejo variam 0,1%",
+      "summary": "Em maio de 2026, o volume de vendas no comércio varejista variou 0,1% frente a abril, na série livre de influências sazonais, após queda de 1,6% em abril de 2026. Com isso, a média móvel trimestral variou -0,2% no trimestre encerrado em maio de 2026 após apresentar estabilidade (...",
+      "category": "Operacional",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "varejo"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47585-em-maio-vendas-no-varejo-variam-0-1-1.html",
+      "published_at": "2026-07-16T09:00:00+00:00",
+      "collected_at": "2026-07-16T13:55:13.935345+00:00"
+    },
     {
       "id": "51ee67fd52992485",
       "title": "Volume de serviços recua 0,4% em maio",
