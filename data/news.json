@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-07-20T22:01:28.512001+00:00",
-  "total": 186,
+  "updated_at": "2026-07-20T23:57:30.893137+00:00",
+  "total": 187,
   "items": [
+    {
+      "id": "6b153c3bfbe08fe5",
+      "title": "EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 18 DE 14.07.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE</strong><strong><br /> &bull; MARINA PALMA COPOLA DE CARVALHO &ndash; DIRETORA<sup> (1)</sup><br /> &bull; IGOR MUNIZ &ndash; DIRETOR<br /> <br /> </stron...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260714_R1.html",
+      "published_at": "2026-07-20T18:23:12+00:00",
+      "collected_at": "2026-07-20T23:57:27.398516+00:00"
+    },
     {
       "id": "e4b154c036f08ca2",
       "title": "ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 24.06.2026",
