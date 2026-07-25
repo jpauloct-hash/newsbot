@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 25 Jul 2026 20:16:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 21:58:03 +0000</lastBuildDate>
+    <item>
+      <title>ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 24.07.2026</title>
+      <link>http://www.cvm.gov.br/decisoes/2026/20260724_R1.html</link>
+      <description>&lt;p&gt;Tipo: Extraordinária&lt;/p&gt; &lt;p&gt;Participantes:&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;strong&gt;&amp;bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &amp;ndash; PRESIDENTE&lt;/strong&gt;&lt;br /&gt; &lt;strong&gt;&amp;bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &amp;ndash; DIRETOR&lt;/strong&gt;&lt;br /&gt; &lt;strong&gt;&amp;bull; MARINA PALMA COPOLA DE CARVALHO &amp;nda...</description>
+      <category>Mercado de Capitais</category>
+      <guid>5d172390e735af4b</guid>
+      <pubDate>Sat, 25 Jul 2026 19:12:28 +0000</pubDate>
+    </item>
     <item>
       <title>EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 18 DE 14.07.2026</title>
       <link>http://www.cvm.gov.br/decisoes/2026/20260714_R1.html</link>
@@ -397,14 +405,6 @@
       <category>Fiscal</category>
       <guid>597b9edbc178dedc</guid>
       <pubDate>Fri, 29 May 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IBGE divulga o rendimento domiciliar per capita e o Coeficiente de Desequilíbrio Regional de 2025</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46915-ibge-divulga-o-rendimento-domiciliar-per-capita-e-o-coeficiente-de-desequilibrio-regional-de-2025.html</link>
-      <description>O IBGE divulga hoje (29) os valores de rendimento nominal mensal domiciliar per capita (RDPC) e os Coeficientes de Desequilíbrio Regional (CDR) referentes a 2025 para o Brasil e três Grandes Regiões: Norte, Nordeste e Centro-Oeste, calculados com base na Pesquisa Nacional por Amo...</description>
-      <category>Operacional</category>
-      <guid>e2ee991833a29e85</guid>
-      <pubDate>Fri, 29 May 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
