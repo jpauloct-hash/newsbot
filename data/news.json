@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-07-28T10:37:22.655808+00:00",
-  "total": 188,
+  "updated_at": "2026-07-28T12:56:17.929651+00:00",
+  "total": 189,
   "items": [
+    {
+      "id": "0817d4546e3e1446",
+      "title": "IPCA-15 é de 0,06% em julho",
+      "summary": "O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15) foi de 0,06% em julho, ficando 0,35 ponto percentual (p.p.) abaixo da taxa de junho (0,41%). No ano, o IPCA-15 acumula alta de 3,51% e, em 12 meses, de 4,52%, abaixo dos 4,80% observados nos 12 meses imediatamente anter...",
+      "category": "Politica Monetaria",
+      "relevance": "alta",
+      "keywords": [
+        "ipca",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47628-ipca-15-e-de-0-06-em-julho.html",
+      "published_at": "2026-07-28T09:00:00+00:00",
+      "collected_at": "2026-07-28T12:56:12.790851+00:00"
+    },
     {
       "id": "5d172390e735af4b",
       "title": "ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 24.07.2026",
