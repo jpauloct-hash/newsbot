@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-07-29T11:27:55.486495+00:00",
-  "total": 189,
+  "updated_at": "2026-07-29T14:12:32.714321+00:00",
+  "total": 190,
   "items": [
+    {
+      "id": "5e28ef9bd3b8ef13",
+      "title": "Comércio emprega 10,6 milhões de pessoas e gera R$ 7,7 trilhões em 2024",
+      "summary": "Varejo respondeu pela maior parte dos empregos do comércio em 2024. – Foto: Valter Campanato/Agência Brasil/Arquivo Em 2024, 10,6 milhões de pessoas estavam ocupadas em 1,6 milhão de empresas comerciais. No ano, os trabalhadores do setor receberam R$ 369,2 bilhões em salários, re...",
+      "category": "Mercado de Capitais",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "varejo"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47641-comercio-emprega-10-6-milhoes-de-pessoas-e-gera-r-7-7-trilhoes-em-2024.html",
+      "published_at": "2026-07-29T10:00:00+00:00",
+      "collected_at": "2026-07-29T14:12:28.521042+00:00"
+    },
     {
       "id": "0817d4546e3e1446",
       "title": "IPCA-15 é de 0,06% em julho",

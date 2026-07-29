@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 29 Jul 2026 11:27:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 14:12:32 +0000</lastBuildDate>
+    <item>
+      <title>Comércio emprega 10,6 milhões de pessoas e gera R$ 7,7 trilhões em 2024</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47641-comercio-emprega-10-6-milhoes-de-pessoas-e-gera-r-7-7-trilhoes-em-2024.html</link>
+      <description>Varejo respondeu pela maior parte dos empregos do comércio em 2024. – Foto: Valter Campanato/Agência Brasil/Arquivo Em 2024, 10,6 milhões de pessoas estavam ocupadas em 1,6 milhão de empresas comerciais. No ano, os trabalhadores do setor receberam R$ 369,2 bilhões em salários, re...</description>
+      <category>Mercado de Capitais</category>
+      <guid>5e28ef9bd3b8ef13</guid>
+      <pubDate>Wed, 29 Jul 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>IPCA-15 é de 0,06% em julho</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47628-ipca-15-e-de-0-06-em-julho.html</link>
@@ -397,14 +405,6 @@
       <category>Regulatorio</category>
       <guid>aa305191ffe2323a</guid>
       <pubDate>Fri, 29 May 2026 19:27:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>PIB cresce 1,1% no primeiro trimestre de 2026</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/46917-pib-cresce-1-1-no-primeiro-trimestre-de-2026.html</link>
-      <description>No primeiro trimestre de 2026, o PIB cresceu 1,1% frente ao quarto trimestre de 2025, na série com ajuste sazonal. Pela ótica da produção, destaca-se o crescimento da Agropecuária (2,0%). Também houve alta na Indústria (1,0%) e nos Serviços (0,5%). Em valores correntes, o PIB tot...</description>
-      <category>Fiscal</category>
-      <guid>5c658f11ea591cc1</guid>
-      <pubDate>Fri, 29 May 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
