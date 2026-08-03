@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-08-02T23:02:34.840027+00:00",
-  "total": 191,
+  "updated_at": "2026-08-03T02:55:02.104000+00:00",
+  "total": 192,
   "items": [
+    {
+      "id": "095981794b821b63",
+      "title": "EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 20 DE 28.07.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE<br /> </strong><strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR</strong><sup><strong> (1)</strong></sup><br /> <strong> &bull; MARINA P...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260728_R1.html",
+      "published_at": "2026-08-03T00:16:58+00:00",
+      "collected_at": "2026-08-03T02:54:56.459406+00:00"
+    },
     {
       "id": "572fc261d91efbb2",
       "title": "Índice de Preços ao Produtor (IPP) é de -0,77% em junho",
