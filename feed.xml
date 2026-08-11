@@ -5,7 +5,23 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 11 Aug 2026 11:44:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 13:08:29 +0000</lastBuildDate>
+    <item>
+      <title>Em junho, indústria recua em 12 dos 15 locais pesquisados</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47741-em-junho-industria-recua-em-12-dos-15-locais-pesquisados.html</link>
+      <description>Em junho de 2026, a produção industrial nacional mostrou queda de 1,8% frente ao mês imediatamente anterior, na série livre de influências sazonais, com doze dos quinze locais pesquisados registrando resultados negativos. O Amazonas (-11,3%) registrou o recuo mais acentuado do mê...</description>
+      <category>Resultado Financeiro</category>
+      <guid>4b31737f838a504e</guid>
+      <pubDate>Tue, 11 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IPCA fica em 0,07% em julho</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47739-ipca-fica-em-0-07-em-julho.html</link>
+      <description>O Índice Nacional de Preços ao Consumidor Amplo (IPCA) de julho foi de 0,07%, 0,09 ponto percentual (p.p.) abaixo do 0,16% registrado em junho. No ano, o IPCA acumula alta de 3,44% e, nos últimos 12 meses, o índice ficou em 4,44%, abaixo dos 4,64% dos 12 meses imediatamente anter...</description>
+      <category>Politica Monetaria</category>
+      <guid>f2777f0a81cf482d</guid>
+      <pubDate>Tue, 11 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Produção industrial recua -1,8% em junho</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47693-producao-industrial-recua-1-8-em-junho.html</link>
@@ -389,22 +405,6 @@
       <category>Politica Monetaria</category>
       <guid>eba5617510e8aabd</guid>
       <pubDate>Wed, 10 Jun 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Em 2024, Indústria da Construção gera R$ 522,5 bilhões e emprega 2,5 milhões</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47043-em-2024-industria-da-construcao-gera-r-522-5-bilhoes-e-emprega-2-5-milhoes.html</link>
-      <description>Quanto ao valor das remunerações, o setor da Indústria da Construção pratica salários médios mensais que vão de apenas 1,8 a 2,6 salários mínimos - Foto: Tânia Rêgo/Agência Brasil O setor da Indústria da Construção gerou, em 2024, um valor total em incorporações, obras e/ou servi...</description>
-      <category>Mercado de Capitais</category>
-      <guid>5449e012c99607dc</guid>
-      <pubDate>Wed, 10 Jun 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Indústria brasileira cresce 0,7% em abril, quarto mês seguido de avanço</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/46989-industria-brasileira-cresce-0-7-em-abril-quarto-mes-seguido-de-avanco.html</link>
-      <description>Produção de derivados do petróleo deu impulso à indústria em abril - Foto: Agência Petrobras A produção industrial brasileira, com alta de 0,7% em abril de 2026 frente a março de 2026, na série com ajuste sazonal, cresceu pelo quarto mês seguido, acumulando 4,4% de avanço neste p...</description>
-      <category>Resultado Financeiro</category>
-      <guid>b5b43cf9c95c5de6</guid>
-      <pubDate>Wed, 03 Jun 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-08-11T11:44:40.540737+00:00",
-  "total": 193,
+  "updated_at": "2026-08-11T13:08:29.597766+00:00",
+  "total": 195,
   "items": [
+    {
+      "id": "4b31737f838a504e",
+      "title": "Em junho, indústria recua em 12 dos 15 locais pesquisados",
+      "summary": "Em junho de 2026, a produção industrial nacional mostrou queda de 1,8% frente ao mês imediatamente anterior, na série livre de influências sazonais, com doze dos quinze locais pesquisados registrando resultados negativos. O Amazonas (-11,3%) registrou o recuo mais acentuado do mê...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "produção industrial"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47741-em-junho-industria-recua-em-12-dos-15-locais-pesquisados.html",
+      "published_at": "2026-08-11T09:00:00+00:00",
+      "collected_at": "2026-08-11T13:08:25.301357+00:00"
+    },
+    {
+      "id": "f2777f0a81cf482d",
+      "title": "IPCA fica em 0,07% em julho",
+      "summary": "O Índice Nacional de Preços ao Consumidor Amplo (IPCA) de julho foi de 0,07%, 0,09 ponto percentual (p.p.) abaixo do 0,16% registrado em junho. No ano, o IPCA acumula alta de 3,44% e, nos últimos 12 meses, o índice ficou em 4,44%, abaixo dos 4,64% dos 12 meses imediatamente anter...",
+      "category": "Politica Monetaria",
+      "relevance": "alta",
+      "keywords": [
+        "ipca",
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47739-ipca-fica-em-0-07-em-julho.html",
+      "published_at": "2026-08-11T09:00:00+00:00",
+      "collected_at": "2026-08-11T13:08:20.448020+00:00"
+    },
     {
       "id": "5740d563400ede35",
       "title": "Produção industrial recua -1,8% em junho",
