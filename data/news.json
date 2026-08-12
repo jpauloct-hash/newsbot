@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-08-12T11:47:45.747641+00:00",
-  "total": 195,
+  "updated_at": "2026-08-12T13:12:05.280861+00:00",
+  "total": 196,
   "items": [
+    {
+      "id": "1ce05d9f35dde849",
+      "title": "Volume de serviços fica estável (0,0%) em junho",
+      "summary": "Em junho de 2026, o volume de serviços no Brasil ficou estável (0,0%) frente ao mês imediatamente anterior, após ter registrado variação negativa (-0,2%) em maio. Dessa forma, o setor de serviços se encontra 19,9% acima do nível de fevereiro de 2020 (pré-pandemia) e fica, em junh...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47748-volume-de-servicos-fica-estavel-0-0-em-junho.html",
+      "published_at": "2026-08-12T09:00:00+00:00",
+      "collected_at": "2026-08-12T13:12:01.675542+00:00"
+    },
     {
       "id": "4b31737f838a504e",
       "title": "Em junho, indústria recua em 12 dos 15 locais pesquisados",

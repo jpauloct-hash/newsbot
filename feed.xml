@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 12 Aug 2026 11:47:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 13:12:05 +0000</lastBuildDate>
+    <item>
+      <title>Volume de serviços fica estável (0,0%) em junho</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47748-volume-de-servicos-fica-estavel-0-0-em-junho.html</link>
+      <description>Em junho de 2026, o volume de serviços no Brasil ficou estável (0,0%) frente ao mês imediatamente anterior, após ter registrado variação negativa (-0,2%) em maio. Dessa forma, o setor de serviços se encontra 19,9% acima do nível de fevereiro de 2020 (pré-pandemia) e fica, em junh...</description>
+      <category>Resultado Financeiro</category>
+      <guid>1ce05d9f35dde849</guid>
+      <pubDate>Wed, 12 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Em junho, indústria recua em 12 dos 15 locais pesquisados</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47741-em-junho-industria-recua-em-12-dos-15-locais-pesquisados.html</link>
@@ -396,14 +404,6 @@
       <description>Em abril de 2026, a alta de 0,7% da produção industrial nacional, frente ao mês imediatamente anterior e na série com ajuste sazonal, foi acompanhada por dez dos quinze locais pesquisados. Bahia (3,0%), Ceará (2,3%), Espírito Santo (2,1%) e Minas Gerais (2,1%) mostraram as maiore...</description>
       <category>Resultado Financeiro</category>
       <guid>9b2e3cc04f0c5079</guid>
-      <pubDate>Wed, 10 Jun 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dez dos 15 locais pesquisados puxaram a alta da indústria em abril</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47027-dez-dos-15-locais-pesquisados-puxaram-a-alta-da-industria-em-abril.html</link>
-      <description>Petróleo e derivados continuam em destaque nos principais estados com alta na produção industrial - Foto: André Ribeiro/Agência Petrobras A alta de 0,7% da produção industrial nacional referente a abril de 2026 foi puxada por dez dos 15 locais pesquisados pelo IBGE, na comparação...</description>
-      <category>Politica Monetaria</category>
-      <guid>eba5617510e8aabd</guid>
       <pubDate>Wed, 10 Jun 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
