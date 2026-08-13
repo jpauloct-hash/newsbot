@@ -1,7 +1,38 @@
 {
-  "updated_at": "2026-08-13T11:48:32.300661+00:00",
-  "total": 196,
+  "updated_at": "2026-08-13T13:14:08.321312+00:00",
+  "total": 198,
   "items": [
+    {
+      "id": "b97b137e8d42be39",
+      "title": "Em julho, IBGE prevê safra de 353,0 milhões de toneladas para 2026",
+      "summary": "A estimativa de julho de 2026 para a produção de cereais, leguminosas e oleaginosas foi de 353,0 milhões de toneladas, 2,0% maior (ou mais 6,9 milhões de toneladas) que a obtida em 2025 (346,1 milhões de toneladas), com aumento de 1,6% (ou mais 5,6 milhões de toneladas) em relaçã...",
+      "category": "Operacional",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47765-em-julho-ibge-preve-safra-de-353-0-milhoes-de-toneladas-para-2026.html",
+      "published_at": "2026-08-13T09:00:00+00:00",
+      "collected_at": "2026-08-13T13:14:03.413833+00:00"
+    },
+    {
+      "id": "6199b0e27ef54281",
+      "title": "Em junho, vendas no varejo crescem 0,5%",
+      "summary": "Em junho de 2026, o volume de vendas no comércio varejista cresceu 0,5% frente a maio, na série livre de influências sazonais, após variação de[LG1.1] 0,3% em maio de 2026. Com isso, a média móvel trimestral variou -0,3% no trimestre encerrado em junho de 2026 após apresentar var...",
+      "category": "Operacional",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "varejo"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47766-em-junho-vendas-no-varejo-crescem-0-5.html",
+      "published_at": "2026-08-13T09:00:00+00:00",
+      "collected_at": "2026-08-13T13:13:58.330128+00:00"
+    },
     {
       "id": "1ce05d9f35dde849",
       "title": "Volume de serviços fica estável (0,0%) em junho",

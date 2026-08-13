@@ -5,7 +5,23 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 13 Aug 2026 11:48:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 13:14:08 +0000</lastBuildDate>
+    <item>
+      <title>Em julho, IBGE prevê safra de 353,0 milhões de toneladas para 2026</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47765-em-julho-ibge-preve-safra-de-353-0-milhoes-de-toneladas-para-2026.html</link>
+      <description>A estimativa de julho de 2026 para a produção de cereais, leguminosas e oleaginosas foi de 353,0 milhões de toneladas, 2,0% maior (ou mais 6,9 milhões de toneladas) que a obtida em 2025 (346,1 milhões de toneladas), com aumento de 1,6% (ou mais 5,6 milhões de toneladas) em relaçã...</description>
+      <category>Operacional</category>
+      <guid>b97b137e8d42be39</guid>
+      <pubDate>Thu, 13 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Em junho, vendas no varejo crescem 0,5%</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47766-em-junho-vendas-no-varejo-crescem-0-5.html</link>
+      <description>Em junho de 2026, o volume de vendas no comércio varejista cresceu 0,5% frente a maio, na série livre de influências sazonais, após variação de[LG1.1] 0,3% em maio de 2026. Com isso, a média móvel trimestral variou -0,3% no trimestre encerrado em junho de 2026 após apresentar var...</description>
+      <category>Operacional</category>
+      <guid>6199b0e27ef54281</guid>
+      <pubDate>Thu, 13 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Volume de serviços fica estável (0,0%) em junho</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47748-volume-de-servicos-fica-estavel-0-0-em-junho.html</link>
@@ -389,22 +405,6 @@
       <category>Operacional</category>
       <guid>c0a30b419df5b424</guid>
       <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IBGE é homenageado pelos seus 90 anos em ato solene na Assembleia Legislativa de São Paulo</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47050-ibge-e-homenageado-pelos-seus-90-anos-em-ato-solene-na-assembleia-legislativa-de-sao-paulo.html</link>
-      <description>O Instituto Brasileiro de Geografia e Estatística (IBGE) foi homenageado na tarde desta segunda-feira (8), em um Ato Solene realizado na Assembleia Legislativa do Estado de São Paulo (Alesp), em comemoração aos 90 anos da Instituição. A cerimônia reuniu parlamentares, servidores,...</description>
-      <category>Mercado de Capitais</category>
-      <guid>f8d47f51c0ffa782</guid>
-      <pubDate>Tue, 09 Jun 2026 03:57:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Em abril, indústria cresce em 10 dos 15 locais pesquisados</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47025-em-abril-industria-cresce-em-10-dos-15-locais-pesquisados2.html</link>
-      <description>Em abril de 2026, a alta de 0,7% da produção industrial nacional, frente ao mês imediatamente anterior e na série com ajuste sazonal, foi acompanhada por dez dos quinze locais pesquisados. Bahia (3,0%), Ceará (2,3%), Espírito Santo (2,1%) e Minas Gerais (2,1%) mostraram as maiore...</description>
-      <category>Resultado Financeiro</category>
-      <guid>9b2e3cc04f0c5079</guid>
-      <pubDate>Wed, 10 Jun 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
