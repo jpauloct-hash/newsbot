@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 14 Aug 2026 11:44:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 13:08:43 +0000</lastBuildDate>
+    <item>
+      <title>PNAD Contínua Trimestral: desocupação cai em 13 das 27 UFs no 2° trimestre de 2026</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47774-pnad-continua-trimestral-desocupacao-cai-em-13-das-27-ufs-no-2-trimestre-de-2026.html</link>
+      <description>A taxa de desocupação do país no segundo trimestre de 2026 foi de 5,4%, redução de 0,7 ponto percentual em comparação com o 1º trimestre de 2026 (6,1%) e recuo de 0,4 ponto percentual frente ao 2º trimestre de 2025 (5,8%). Frente ao trimestre imediatamente anterior, a taxa de des...</description>
+      <category>Internacional</category>
+      <guid>6b179e18738e45cd</guid>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Em julho, IBGE prevê safra de 353,0 milhões de toneladas para 2026</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47765-em-julho-ibge-preve-safra-de-353-0-milhoes-de-toneladas-para-2026.html</link>
@@ -396,14 +404,6 @@
       <description>Transporte aéreo de passageiros avança 7,0% em abril de 2026 - Foto: Marcelo Camargo/Agência Brasil Na comparação com o mês anterior, o volume de serviços do país avançou 1,2% em abril de 2026, recuperando, integralmente, a perda de 1,1% observada em março. O resultado foi acompa...</description>
       <category>Resultado Financeiro</category>
       <guid>aa82f013b74e15bc</guid>
-      <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Em maio, IBGE prevê safra de 350,4 milhões de toneladas para 2026</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47078-em-maio-ibge-preve-safra-de-350-4-milhoes-de-toneladas-para-2026.html</link>
-      <description>A estimativa de maio de 2026 para a produção de cereais, leguminosas e oleaginosas é de 350,4 milhões de toneladas, 1,2% maior (ou mais 4,3 milhões de toneladas) que a obtida em 2025 (346,1 milhões de toneladas), com crescimento de 0,5% (ou mais 1,7 milhão de toneladas) à estimat...</description>
-      <category>Operacional</category>
-      <guid>c0a30b419df5b424</guid>
       <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>

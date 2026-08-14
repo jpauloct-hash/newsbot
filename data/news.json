@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-08-14T11:44:11.092110+00:00",
-  "total": 198,
+  "updated_at": "2026-08-14T13:08:43.723660+00:00",
+  "total": 199,
   "items": [
+    {
+      "id": "6b179e18738e45cd",
+      "title": "PNAD Contínua Trimestral: desocupação cai em 13 das 27 UFs no 2° trimestre de 2026",
+      "summary": "A taxa de desocupação do país no segundo trimestre de 2026 foi de 5,4%, redução de 0,7 ponto percentual em comparação com o 1º trimestre de 2026 (6,1%) e recuo de 0,4 ponto percentual frente ao 2º trimestre de 2025 (5,8%). Frente ao trimestre imediatamente anterior, a taxa de des...",
+      "category": "Internacional",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47774-pnad-continua-trimestral-desocupacao-cai-em-13-das-27-ufs-no-2-trimestre-de-2026.html",
+      "published_at": "2026-08-14T09:00:00+00:00",
+      "collected_at": "2026-08-14T13:08:39.472295+00:00"
+    },
     {
       "id": "b97b137e8d42be39",
       "title": "Em julho, IBGE prevê safra de 353,0 milhões de toneladas para 2026",
