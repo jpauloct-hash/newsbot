@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-08-14T18:55:59.032046+00:00",
-  "total": 199,
+  "updated_at": "2026-08-14T19:50:18.931364+00:00",
+  "total": 200,
   "items": [
+    {
+      "id": "af794ec0ff934bce",
+      "title": "EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 1 DE 03.02.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR (PRESIDENTE INTERINO)</strong><sup><strong> (1)</strong></sup><br /> <strong> &bull; MARINA PALMA COPOLA DE CARVALHO &ndash; DIRETORA<sup> (2)</sup><br /> &bull;...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260203_R1.html",
+      "published_at": "2026-08-14T19:07:01+00:00",
+      "collected_at": "2026-08-14T19:50:15.589556+00:00"
+    },
     {
       "id": "6b179e18738e45cd",
       "title": "PNAD Contínua Trimestral: desocupação cai em 13 das 27 UFs no 2° trimestre de 2026",
