@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-08-18T13:43:00.532681+00:00",
-  "total": 200,
+  "updated_at": "2026-08-18T14:35:16.086834+00:00",
+  "total": 201,
   "items": [
+    {
+      "id": "a69dc84d012a6188",
+      "title": "IBGE participa de debate técnico internacional sobre inteligência demográfica, clima e saúde",
+      "summary": "Representantes de governos latino-americanos, da CAF, Cepal, UNFPA, IBGE e outras instituições produtoras de dados se reuniram na sede do Banco de Desenvolvimento da América Latina (CAF) para debater o uso estratégico da inteligência demográfica diante das mudanças climáticas e d...",
+      "category": "Fiscal",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47791-ibge-participa-de-debate-tecnico-internacional-sobre-inteligencia-demografica-clima-e-saude.html",
+      "published_at": "2026-08-18T11:30:42+00:00",
+      "collected_at": "2026-08-18T14:35:11.623486+00:00"
+    },
     {
       "id": "af794ec0ff934bce",
       "title": "EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 1 DE 03.02.2026",
