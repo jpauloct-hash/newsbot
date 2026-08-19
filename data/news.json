@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-08-19T21:26:18.091608+00:00",
-  "total": 202,
+  "updated_at": "2026-08-19T22:26:21.858056+00:00",
+  "total": 203,
   "items": [
+    {
+      "id": "d917d8fad4a37ee2",
+      "title": "ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 07.08.2026",
+      "summary": "<p>Tipo: Extraordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE</strong><br /> <strong>&bull; MARINA PALMA COPOLA &ndash; DIRETORA</strong><br /> <strong>&bull; IGOR MUNIZ &ndash; DIRETOR</strong></p> <p><em>Reuni...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260807_R1.html",
+      "published_at": "2026-08-19T21:47:09+00:00",
+      "collected_at": "2026-08-19T22:26:18.761673+00:00"
+    },
     {
       "id": "fb23dd141abeca06",
       "title": "Abate de bovinos e suínos crescem, mas abate de frangos recua no 2° tri de 2026",
