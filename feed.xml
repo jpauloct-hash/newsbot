@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 19 Aug 2026 11:26:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 12:49:43 +0000</lastBuildDate>
+    <item>
+      <title>Abate de bovinos e suínos crescem, mas abate de frangos recua no 2° tri de 2026</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47805-abate-de-bovinos-e-suinos-crescem-mas-abate-de-frangos-recua-no-2-tri-de-2026.html</link>
+      <description>Nos primeiros resultados da produção animal no 2º trimestre de 2026, o abate de bovinos cresceu 1,3% frente ao 2º trimestre de 2025 e 4,2% em relação ao 1º trimestre de 2026. O abate de suínos teve alta de 3,2% e o de frangos cresceu 2,8% ante o mesmo período de 2025. Frente ao 1...</description>
+      <category>Resultado Financeiro</category>
+      <guid>fb23dd141abeca06</guid>
+      <pubDate>Wed, 19 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>IBGE participa de debate técnico internacional sobre inteligência demográfica, clima e saúde</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47791-ibge-participa-de-debate-tecnico-internacional-sobre-inteligencia-demografica-clima-e-saude.html</link>
@@ -397,14 +405,6 @@
       <category>Politica Monetaria</category>
       <guid>b2a4670191348db4</guid>
       <pubDate>Fri, 12 Jun 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Volume de serviços avança 1,2% em abril</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47064-volume-de-servicos-avanca-1-2-em-abril.html</link>
-      <description>Em abril de 2026, o volume de serviços no Brasil avançou 1,2% frente ao mês imediatamente anterior, na série com ajuste sazonal, após ter registrado queda (-1,1%) em março. Dessa forma, o setor de serviços se encontra 19,9% acima do nível de fevereiro de 2020 (pré-pandemia) e fic...</description>
-      <category>Resultado Financeiro</category>
-      <guid>729e05cb9d898b35</guid>
-      <pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-08-19T11:26:40.024981+00:00",
-  "total": 201,
+  "updated_at": "2026-08-19T12:49:43.555537+00:00",
+  "total": 202,
   "items": [
+    {
+      "id": "fb23dd141abeca06",
+      "title": "Abate de bovinos e suínos crescem, mas abate de frangos recua no 2° tri de 2026",
+      "summary": "Nos primeiros resultados da produção animal no 2º trimestre de 2026, o abate de bovinos cresceu 1,3% frente ao 2º trimestre de 2025 e 4,2% em relação ao 1º trimestre de 2026. O abate de suínos teve alta de 3,2% e o de frangos cresceu 2,8% ante o mesmo período de 2025. Frente ao 1...",
+      "category": "Resultado Financeiro",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47805-abate-de-bovinos-e-suinos-crescem-mas-abate-de-frangos-recua-no-2-tri-de-2026.html",
+      "published_at": "2026-08-19T09:00:00+00:00",
+      "collected_at": "2026-08-19T12:49:38.839483+00:00"
+    },
     {
       "id": "a69dc84d012a6188",
       "title": "IBGE participa de debate técnico internacional sobre inteligência demográfica, clima e saúde",
