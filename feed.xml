@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 20 Aug 2026 22:29:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 23:26:58 +0000</lastBuildDate>
+    <item>
+      <title>ATA DA REUNIÃO DO COLEGIADO Nº 16 DE 23.06.2026</title>
+      <link>http://www.cvm.gov.br/decisoes/2026/20260623_R1.html</link>
+      <description>&lt;p&gt;Tipo: Ordinária&lt;/p&gt; &lt;p&gt;Participantes:&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;strong&gt;&amp;bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &amp;ndash; PRESIDENTE&lt;br /&gt; &lt;/strong&gt;&lt;strong&gt;&amp;bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &amp;ndash; DIRETOR&lt;/strong&gt;&lt;sup&gt;&lt;strong&gt; (1)&lt;/strong&gt;&lt;/sup&gt;&lt;br /&gt; &lt;strong&gt; &amp;bull; MARINA P...</description>
+      <category>Regulatorio</category>
+      <guid>a37d2c726e137d8e</guid>
+      <pubDate>Thu, 20 Aug 2026 17:24:32 +0000</pubDate>
+    </item>
     <item>
       <title>ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 07.08.2026</title>
       <link>http://www.cvm.gov.br/decisoes/2026/20260807_R1.html</link>
@@ -397,14 +405,6 @@
       <category>Mercado de Capitais</category>
       <guid>e301c52fede763a2</guid>
       <pubDate>Mon, 15 Jun 2026 03:44:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Em maio, IPCA fica em 0,58%</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47088-em-maio-ipca-fica-em-0-58.html</link>
-      <description>O Índice Nacional de Preços ao Consumidor Amplo (IPCA) de maio foi de 0,58%, 0,09 ponto percentual (p.p.) abaixo da taxa de 0,67% registrada em abril. No ano, o IPCA acumula alta de 3,20% e, nos últimos doze meses, o índice ficou em 4,72%, acima dos 4,39% dos 12 meses imediatamen...</description>
-      <category>Politica Monetaria</category>
-      <guid>0fdebeb5b0cfac1c</guid>
-      <pubDate>Fri, 12 Jun 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

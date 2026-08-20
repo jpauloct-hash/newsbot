@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-08-20T22:29:50.797427+00:00",
-  "total": 203,
+  "updated_at": "2026-08-20T23:26:58.488803+00:00",
+  "total": 204,
   "items": [
+    {
+      "id": "a37d2c726e137d8e",
+      "title": "ATA DA REUNIÃO DO COLEGIADO Nº 16 DE 23.06.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE<br /> </strong><strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR</strong><sup><strong> (1)</strong></sup><br /> <strong> &bull; MARINA P...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260623_R1.html",
+      "published_at": "2026-08-20T17:24:32+00:00",
+      "collected_at": "2026-08-20T23:26:55.609585+00:00"
+    },
     {
       "id": "d917d8fad4a37ee2",
       "title": "ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 07.08.2026",
