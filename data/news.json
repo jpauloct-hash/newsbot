@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-08-21T11:27:27.756752+00:00",
-  "total": 204,
+  "updated_at": "2026-08-21T12:50:29.265398+00:00",
+  "total": 206,
   "items": [
+    {
+      "id": "109717f64275e7c3",
+      "title": "EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 12 DE 12.05.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><div style=\"margin: 0px;\"><span>&bull; <b>JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR (PRESIDENTE INTERINO)<sup> (1)</sup></b></span></div> <div style=\"margin: 0px;\"><span>&bull; <b>MARINA PALMA COPOLA DE CARVALHO &ndash; D...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260512_R1.html",
+      "published_at": "2026-08-21T01:22:44+00:00",
+      "collected_at": "2026-08-21T12:50:26.063758+00:00"
+    },
+    {
+      "id": "df89857520c9adc3",
+      "title": "EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 14 DE 26.05.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><div>&bull; <b>JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR (PRESIDENTE INTERINO)</b></div> <div><span>&bull; <b>MARINA PALMA COPOLA DE CARVALHO &ndash; DIRETORA<sup> (1)</sup></b></span></div> <div style=\"margin: 0px;\"><spa...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260526_R1.html",
+      "published_at": "2026-08-21T01:33:50+00:00",
+      "collected_at": "2026-08-21T12:50:21.122545+00:00"
+    },
     {
       "id": "a37d2c726e137d8e",
       "title": "ATA DA REUNIÃO DO COLEGIADO Nº 16 DE 23.06.2026",
