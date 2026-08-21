@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-08-21T17:30:06.609871+00:00",
-  "total": 206,
+  "updated_at": "2026-08-21T18:37:58.807644+00:00",
+  "total": 207,
   "items": [
+    {
+      "id": "43a995824d33bd5d",
+      "title": "Diretoria de Pesquisas defende 90 anos de credibilidade e serviços do IBGE dentro e fora do Brasil",
+      "summary": "A Diretoria de Pesquisas do IBGE divulgou hoje (21/08) nota em defesa da credibilidade do órgão. Leia a nota na íntegra:Rio de Janeiro, 21 de agosto de 2026 A Diretoria de Pesquisas do Instituto Brasileiro de Geografia e Estatística (IBGE) lamenta profundamente que representantes...",
+      "category": "Operacional",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47831-diretoria-de-pesquisas-defende-90-anos-de-credibilidade-e-servicos-do-ibge-dentro-e-fora-do-brasil.html",
+      "published_at": "2026-08-21T03:27:42+00:00",
+      "collected_at": "2026-08-21T18:37:53.560936+00:00"
+    },
     {
       "id": "109717f64275e7c3",
       "title": "EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 12 DE 12.05.2026",
