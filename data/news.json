@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-08-24T16:38:25.922026+00:00",
-  "total": 207,
+  "updated_at": "2026-08-24T17:32:33.137707+00:00",
+  "total": 208,
   "items": [
+    {
+      "id": "9fb6434339c78dc3",
+      "title": "Diretoria de Tecnologia da Informação do IBGE contesta acusações divulgadas pelo sindicato",
+      "summary": "IBGE não tem contrato de valor fixo de R$ 80 milhões com o Serpro. Quando, na verdade, trata-se de um contrato de prestação de serviços sob demanda, como o Serpro possui com a Receita Federal, por exemplo. A Diretoria de Tecnologia da Informação (DTI) do IBGE divulgou hoje (24/08...",
+      "category": "Mercado de Capitais",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47836-diretoria-de-tecnologia-da-informacao-do-ibge-contesta-acusacoes-divulgadas-pelo-sindicato.html",
+      "published_at": "2026-08-24T02:23:41+00:00",
+      "collected_at": "2026-08-24T17:32:28.782131+00:00"
+    },
     {
       "id": "43a995824d33bd5d",
       "title": "Diretoria de Pesquisas defende 90 anos de credibilidade e serviços do IBGE dentro e fora do Brasil",
