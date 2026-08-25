@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-08-24T23:24:30.135799+00:00",
-  "total": 208,
+  "updated_at": "2026-08-25T01:19:12.385288+00:00",
+  "total": 209,
   "items": [
+    {
+      "id": "08823f756290f759",
+      "title": "EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 7 DE 31.03.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR (PRESIDENTE INTERINO) <sup>(1)</sup></strong></p> <p><strong>&bull; MARINA PALMA COPOLA DE CARVALHO &ndash; DIRETORA <sup>(2)</sup></strong></p> <p><strong>&bull...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260331_R1.html",
+      "published_at": "2026-08-24T23:37:58+00:00",
+      "collected_at": "2026-08-25T01:19:09.151673+00:00"
+    },
     {
       "id": "9fb6434339c78dc3",
       "title": "Diretoria de Tecnologia da Informação do IBGE contesta acusações divulgadas pelo sindicato",
