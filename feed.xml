@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 26 Aug 2026 11:35:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 12:54:00 +0000</lastBuildDate>
+    <item>
+      <title>IPCA-15 é de -0,40% em agosto</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47847-ipca-15-e-de-0-40-em-agosto.html</link>
+      <description>O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15) foi de -0,40%, ficando 0,46 ponto percentual (p.p.) abaixo da taxa registrada em julho (0,06%). No ano, o IPCA-15 acumula alta de 3,09% e, em 12 meses, de 4,24%, abaixo dos 4,52% registrados nos 12 meses imediatamente a...</description>
+      <category>Politica Monetaria</category>
+      <guid>dbc058f06b2ae083</guid>
+      <pubDate>Wed, 26 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 7 DE 31.03.2026</title>
       <link>http://www.cvm.gov.br/decisoes/2026/20260331_R1.html</link>
@@ -397,14 +405,6 @@
       <category>Resultado Financeiro</category>
       <guid>46e36454cfcaab19</guid>
       <pubDate>Fri, 19 Jun 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Brasil registra alta no abate de bovinos, frangos e suínos no 1º trimestre em comparação com 2025</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47166-brasil-registra-alta-no-abate-de-bovinos-frangos-e-suinos-no-1-trimestre-em-comparacao-com-2025.html</link>
-      <description>No 1º trimestre de 2026, foram abatidas 10,29 milhões de cabeças de bovinos, maior resultado de um 1º trimestre da série histórica, iniciada em 1997. O resultado foi 3,3% superior ao 1º trimestre de 2025 e 6,9 % abaixo do registrado no trimestre imediatamente anterior. Também no ...</description>
-      <category>Resultado Financeiro</category>
-      <guid>b4d351bac327f546</guid>
-      <pubDate>Tue, 16 Jun 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-08-26T11:35:16.658323+00:00",
-  "total": 209,
+  "updated_at": "2026-08-26T12:54:00.381084+00:00",
+  "total": 210,
   "items": [
+    {
+      "id": "dbc058f06b2ae083",
+      "title": "IPCA-15 é de -0,40% em agosto",
+      "summary": "O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15) foi de -0,40%, ficando 0,46 ponto percentual (p.p.) abaixo da taxa registrada em julho (0,06%). No ano, o IPCA-15 acumula alta de 3,09% e, em 12 meses, de 4,24%, abaixo dos 4,52% registrados nos 12 meses imediatamente a...",
+      "category": "Politica Monetaria",
+      "relevance": "alta",
+      "keywords": [
+        "ipca"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47847-ipca-15-e-de-0-40-em-agosto.html",
+      "published_at": "2026-08-26T09:00:00+00:00",
+      "collected_at": "2026-08-26T12:53:56.916844+00:00"
+    },
     {
       "id": "08823f756290f759",
       "title": "EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 7 DE 31.03.2026",
