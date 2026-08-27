@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-08-26T22:50:02.699151+00:00",
-  "total": 210,
+  "updated_at": "2026-08-27T04:21:41.858187+00:00",
+  "total": 211,
   "items": [
+    {
+      "id": "2e9bcee83f319dc3",
+      "title": "EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 23 DE 25.08.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE</strong></p> <p><strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR </strong><sup><strong>(1)</strong></sup></p> <p><strong>&bull; IGOR MU...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260825_R1.html",
+      "published_at": "2026-08-26T22:05:35+00:00",
+      "collected_at": "2026-08-27T04:21:38.764919+00:00"
+    },
     {
       "id": "dbc058f06b2ae083",
       "title": "IPCA-15 é de -0,40% em agosto",
