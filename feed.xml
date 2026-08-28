@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 28 Aug 2026 01:19:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 13:55:20 +0000</lastBuildDate>
+    <item>
+      <title>Índice de Preços ao Produtor (IPP) é de -0,83% em julho</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47877-indice-de-precos-ao-produtor-ipp-e-de-0-83-em-julho.html</link>
+      <description>Em julho de 2026, os preços da indústria variaram -0,83% frente ao mês anterior, mantendo a variação negativa de junho frente a maio (-0,81%). Nessa comparação, 11 das 24 atividades industriais apresentaram queda de preços. O acumulado no ano foi de 3,09%. O acumulado em 12 meses...</description>
+      <category>Fiscal</category>
+      <guid>3c75371a3381bd4d</guid>
+      <pubDate>Fri, 28 Aug 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ATA DA REUNIÃO DO COLEGIADO Nº 13 DE 19.05.2026</title>
       <link>http://www.cvm.gov.br/decisoes/2026/20260519_R1.html</link>
@@ -397,14 +405,6 @@
       <category>Mercado de Capitais</category>
       <guid>93c49db39b9b388d</guid>
       <pubDate>Thu, 25 Jun 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Em 2024, óleos brutos de petróleo foram o principal produto industrial pelo terceiro ano seguido</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47275-em-2024-oleos-brutos-de-petroleo-foram-o-principal-produto-industrial-pelo-terceiro-ano-seguido.html</link>
-      <description>Itens da indústria extrativa lideraram o ranking das receitas - Foto: Rafa Neddermeyer/Agência Brasil O valor da receita líquida de vendas da indústria brasileira alcançou R$ 5,3 trilhões em 2024, resultado associado à produção de aproximadamente 3,4 mil produtos e serviços indus...</description>
-      <category>Resultado Financeiro</category>
-      <guid>bf8d73b0eceb27c0</guid>
-      <pubDate>Wed, 24 Jun 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

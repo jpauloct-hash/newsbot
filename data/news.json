@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-08-28T01:19:39.822640+00:00",
-  "total": 215,
+  "updated_at": "2026-08-28T13:55:20.690637+00:00",
+  "total": 216,
   "items": [
+    {
+      "id": "3c75371a3381bd4d",
+      "title": "Índice de Preços ao Produtor (IPP) é de -0,83% em julho",
+      "summary": "Em julho de 2026, os preços da indústria variaram -0,83% frente ao mês anterior, mantendo a variação negativa de junho frente a maio (-0,81%). Nessa comparação, 11 das 24 atividades industriais apresentaram queda de preços. O acumulado no ano foi de 3,09%. O acumulado em 12 meses...",
+      "category": "Fiscal",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47877-indice-de-precos-ao-produtor-ipp-e-de-0-83-em-julho.html",
+      "published_at": "2026-08-28T09:00:00+00:00",
+      "collected_at": "2026-08-28T13:55:17.092925+00:00"
+    },
     {
       "id": "5f68051cda5dcb33",
       "title": "ATA DA REUNIÃO DO COLEGIADO Nº 13 DE 19.05.2026",
