@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-08-27T16:15:15.653566+00:00",
-  "total": 211,
+  "updated_at": "2026-08-28T01:19:39.822640+00:00",
+  "total": 215,
   "items": [
+    {
+      "id": "5f68051cda5dcb33",
+      "title": "ATA DA REUNIÃO DO COLEGIADO Nº 13 DE 19.05.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR (PRESIDENTE INTERINO) </strong><sup><strong>(1)</strong></sup></p> <p><strong>&bull; MARINA PALMA COPOLA DE CARVALHO &ndash; DIRETORA </strong><sup><strong>(1)</...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260519_R1.html",
+      "published_at": "2026-08-27T12:22:47+00:00",
+      "collected_at": "2026-08-28T01:19:37.156368+00:00"
+    },
+    {
+      "id": "69f548f0a0961107",
+      "title": "IBGE avança na recuperação de prédios próprios",
+      "summary": "Reforma do Complexo Canabarro, no Rio de Janeiro A modernização da infraestrutura do IBGE avança com medidas concretas para enfrentar um quadro de deterioração predial encontrado em diversas unidades no início da atual gestão. Elevadores, instalações elétricas e outros componente...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47879-ibge-avanca-na-recuperacao-de-predios-proprios.html",
+      "published_at": "2026-08-27T04:04:10+00:00",
+      "collected_at": "2026-08-28T01:19:31.317197+00:00"
+    },
+    {
+      "id": "130bb4deff4754b5",
+      "title": "PNAD Contínua: desocupação é de 5,3% e subutilização é de 13,0% no trimestre encerrado em julho",
+      "summary": "A taxa de desocupação (5,3%) no trimestre encerrado em julho caiu 0,5 p.p. (ponto percentual) frente ao trimestre terminado em abril (5,8%) e recuou 0,3 p.p. ante o trimestre de maio a julho de 2025 (5,6%). Indicador/Período Mai-Jun-Jul 2026 Fev-Mar-Abr 2026 Mai-Jun-Jul 2025 Taxa...",
+      "category": "Operacional",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47849-pnad-continua-desocupacao-e-de-5-3-e-subutilizacao-e-de-13-0-no-trimestre-encerrado-em-julho.html",
+      "published_at": "2026-08-27T09:00:00+00:00",
+      "collected_at": "2026-08-28T01:19:26.430100+00:00"
+    },
+    {
+      "id": "76eea1754c35d252",
+      "title": "Setor de serviços emprega 15,9 milhões de pessoas e gera R$ 3,5 trilhões em receita em 2024",
+      "summary": "Atividade de Alimentação foi a principal empregadora no setor de serviços, com 11,7% do pessoal ocupado - Foto: Tânia Rêgo/Agência Brasil Em 2024, o setor de prestação de serviços não financeiros foi responsável pela ocupação de 15,9 milhões de pessoas, em 1,9 milhão de empresas ...",
+      "category": "Mercado de Capitais",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "pib",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47861-setor-de-servicos-emprega-15-9-milhoes-de-pessoas-e-gera-r-3-5-trilhoes-em-receita-em-2024.html",
+      "published_at": "2026-08-27T10:00:00+00:00",
+      "collected_at": "2026-08-28T01:19:21.554906+00:00"
+    },
     {
       "id": "2e9bcee83f319dc3",
       "title": "EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 23 DE 25.08.2026",
