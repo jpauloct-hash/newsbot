@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-08-31T08:14:47.578833+00:00",
-  "total": 216,
+  "updated_at": "2026-08-31T16:47:40.260205+00:00",
+  "total": 218,
   "items": [
+    {
+      "id": "96ce6058af515d47",
+      "title": "IBGE disponibiliza microdados da amostra do Censo 2022 com novo modelo e reforço à confidencialidade",
+      "summary": "Os microdados são compostos por registros individuais de domicílios, famílias, mortalidade e pessoas, preservando o anonimato dos informantes - Foto: Ilustração O Instituto Brasileiro de Geografia e Estatística (IBGE) disponibilizou, nesta segunda-feira (31), os microdados da amo...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47888-ibge-disponibiliza-microdados-da-amostra-do-censo-demografico-2022-com-novo-modelo-de-acesso-e-reforco-a-confidencialidade.html",
+      "published_at": "2026-08-31T10:00:00+00:00",
+      "collected_at": "2026-08-31T16:47:36.607675+00:00"
+    },
+    {
+      "id": "de3cd552400d1750",
+      "title": "IBGE divulga Áreas de Ponderação do Censo 2022",
+      "summary": "Cidade de Salvador (BA) - Foto: Google Earth As Áreas de Ponderação (APONDs), menor recorte geográfico utilizado para a divulgação dos resultados do Questionário da Amostra do Censo Demográfico 2022, já estão disponíveis para consulta e acesso no portal do IBGE. As APONDs são agr...",
+      "category": "Resultado Financeiro",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47893-ibge-divulga-areas-de-ponderacao-do-censo-2022.html",
+      "published_at": "2026-08-31T10:14:19+00:00",
+      "collected_at": "2026-08-31T16:47:31.719075+00:00"
+    },
     {
       "id": "3c75371a3381bd4d",
       "title": "Índice de Preços ao Produtor (IPP) é de -0,83% em julho",

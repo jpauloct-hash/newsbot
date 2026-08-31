@@ -5,7 +5,23 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Mon, 31 Aug 2026 08:14:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 16:47:40 +0000</lastBuildDate>
+    <item>
+      <title>IBGE disponibiliza microdados da amostra do Censo 2022 com novo modelo e reforço à confidencialidade</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47888-ibge-disponibiliza-microdados-da-amostra-do-censo-demografico-2022-com-novo-modelo-de-acesso-e-reforco-a-confidencialidade.html</link>
+      <description>Os microdados são compostos por registros individuais de domicílios, famílias, mortalidade e pessoas, preservando o anonimato dos informantes - Foto: Ilustração O Instituto Brasileiro de Geografia e Estatística (IBGE) disponibilizou, nesta segunda-feira (31), os microdados da amo...</description>
+      <category>Mercado de Capitais</category>
+      <guid>96ce6058af515d47</guid>
+      <pubDate>Mon, 31 Aug 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IBGE divulga Áreas de Ponderação do Censo 2022</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47893-ibge-divulga-areas-de-ponderacao-do-censo-2022.html</link>
+      <description>Cidade de Salvador (BA) - Foto: Google Earth As Áreas de Ponderação (APONDs), menor recorte geográfico utilizado para a divulgação dos resultados do Questionário da Amostra do Censo Demográfico 2022, já estão disponíveis para consulta e acesso no portal do IBGE. As APONDs são agr...</description>
+      <category>Resultado Financeiro</category>
+      <guid>de3cd552400d1750</guid>
+      <pubDate>Mon, 31 Aug 2026 10:14:19 +0000</pubDate>
+    </item>
     <item>
       <title>Índice de Preços ao Produtor (IPP) é de -0,83% em julho</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47877-indice-de-precos-ao-produtor-ipp-e-de-0-83-em-julho.html</link>
@@ -389,22 +405,6 @@
       <category>Politica Monetaria</category>
       <guid>b3002c631cd9f268</guid>
       <pubDate>Thu, 25 Jun 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prévia da inflação foi de 0,41% em junho</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47304-previa-da-inflacao-foi-de-0-41-em-junho.html</link>
-      <description>Energia elétrica residencial foi o subitem de maior impacto no IPCA-15 de junho (0,08 p.p) - Foto: Adobe Stock A prévia da inflação de junho foi de 0,41%, 0,21 ponto percentual abaixo da taxa de maio (0,62%). Os grupos Alimentação e Bebidas (0,74% e 0,16 p.p.) e Habitação (0,72% ...</description>
-      <category>Politica Monetaria</category>
-      <guid>37cf3951e339e641</guid>
-      <pubDate>Thu, 25 Jun 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cresce o número de empresas no país em 2024, mas salário médio fica estável</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47285-cresce-o-numero-de-empresas-no-pais-em-2024-mas-salario-medio-fica-estavel.html</link>
-      <description>Atividades ligadas ao comércio apresentaram maior número de empresas, pessoal ocupado e pessoal assalariado em 2024 - Ari Dias/AEN Em 2024, o número de empresas e outras organizações no Brasil cresceu 5,8% em relação a 2023, passando de 10,0 milhões para 10,6 milhões. O quantitat...</description>
-      <category>Mercado de Capitais</category>
-      <guid>93c49db39b9b388d</guid>
-      <pubDate>Thu, 25 Jun 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
