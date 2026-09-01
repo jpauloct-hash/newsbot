@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-09-01T13:16:05.519305+00:00",
-  "total": 218,
+  "updated_at": "2026-09-01T17:40:52.851922+00:00",
+  "total": 219,
   "items": [
+    {
+      "id": "20230a7c46628710",
+      "title": "PIB cresce 0,5% no segundo trimestre de 2026",
+      "summary": "No segundo trimestre de 2026, o PIB cresceu 0,5% frente ao primeiro trimestre de 2026, na série com ajuste sazonal. Pela ótica da produção, destaca-se o crescimento da Agropecuária (2,8%), com Serviços (0,2%) e Indústria (0,1%) também mostrando variação positiva. Período de compa...",
+      "category": "Fiscal",
+      "relevance": "alta",
+      "keywords": [
+        "pib",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47902-pib-cresce-0-5-no-segundo-trimestre-de-2026.html",
+      "published_at": "2026-09-01T09:00:00+00:00",
+      "collected_at": "2026-09-01T17:40:19.539701+00:00"
+    },
     {
       "id": "96ce6058af515d47",
       "title": "IBGE disponibiliza microdados da amostra do Censo 2022 com novo modelo e reforço à confidencialidade",
