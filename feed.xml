@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 02 Sep 2026 08:30:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 13:20:41 +0000</lastBuildDate>
+    <item>
+      <title>Produção industrial varia 0,2% em julho</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47934-producao-industrial-varia-0-2-em-julho3.html</link>
+      <description>Em julho de 2026, a produção industrial variou 0,2% frente a junho, interrompendo dois meses consecutivos de taxas negativas. Em relação a julho de 2025, a indústria recuou -0,5% e interrompeu uma sequência de quatro meses de resultados positivos. O acumulado no ano mostrou expan...</description>
+      <category>Resultado Financeiro</category>
+      <guid>4a720e54c58c1dfe</guid>
+      <pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>PIB cresce 0,5% no segundo trimestre de 2026</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47902-pib-cresce-0-5-no-segundo-trimestre-de-2026.html</link>
@@ -397,14 +405,6 @@
       <category>Resultado Financeiro</category>
       <guid>a69289d0bde240f6</guid>
       <pubDate>Fri, 26 Jun 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Genebra atualiza modelo de gestão estatística e reforça agenda de modernização seguida pelo IBGE</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47318-genebra-atualiza-modelo-global-de-gestao-estatistica-e-reforca-agenda-de-modernizacao-seguida-pelo-ibge.html</link>
-      <description>Participantes da conferência estatística reunidos em Genebra, na Suíça. Foto: IBGE A 74ª Sessão Plenária da Conferência de Estatísticos Europeus (Conference of European Statisticians – CES), realizada entre os dias 24 e 26 de junho, em Genebra, aprovou a atualização do Modelo Gen...</description>
-      <category>Mercado de Capitais</category>
-      <guid>1f56076c3946e9a8</guid>
-      <pubDate>Thu, 25 Jun 2026 03:04:43 +0000</pubDate>
     </item>
   </channel>
 </rss>

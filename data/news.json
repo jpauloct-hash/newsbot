@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-09-02T08:30:54.094152+00:00",
-  "total": 219,
+  "updated_at": "2026-09-02T13:20:41.200916+00:00",
+  "total": 220,
   "items": [
+    {
+      "id": "4a720e54c58c1dfe",
+      "title": "Produção industrial varia 0,2% em julho",
+      "summary": "Em julho de 2026, a produção industrial variou 0,2% frente a junho, interrompendo dois meses consecutivos de taxas negativas. Em relação a julho de 2025, a indústria recuou -0,5% e interrompeu uma sequência de quatro meses de resultados positivos. O acumulado no ano mostrou expan...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "produção industrial"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47934-producao-industrial-varia-0-2-em-julho3.html",
+      "published_at": "2026-09-02T09:00:00+00:00",
+      "collected_at": "2026-09-02T13:20:37.507757+00:00"
+    },
     {
       "id": "20230a7c46628710",
       "title": "PIB cresce 0,5% no segundo trimestre de 2026",
