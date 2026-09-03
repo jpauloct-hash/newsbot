@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-09-03T20:39:10.887787+00:00",
-  "total": 220,
+  "updated_at": "2026-09-03T23:03:39.036700+00:00",
+  "total": 221,
   "items": [
+    {
+      "id": "6e3469a29e7ded78",
+      "title": "ATA DA REUNIÃO DO COLEGIADO Nº 44 DE 02.12.2025",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE INTERINO</strong></p> <p><strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR </strong><sup><strong>(1)</strong></sup></p> <p><strong>&bull...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2025/20251202_R1.html",
+      "published_at": "2026-09-03T17:20:38+00:00",
+      "collected_at": "2026-09-03T23:03:35.472020+00:00"
+    },
     {
       "id": "4a720e54c58c1dfe",
       "title": "Produção industrial varia 0,2% em julho",
