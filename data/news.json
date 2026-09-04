@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-09-04T08:33:58.926999+00:00",
-  "total": 221,
+  "updated_at": "2026-09-04T13:13:51.401953+00:00",
+  "total": 222,
   "items": [
+    {
+      "id": "1301276225ed939a",
+      "title": "Trabalhadores de transporte de passageiros por aplicativo chegam a 1,2 milhão de pessoas no país",
+      "summary": "Entregadores por aplicativo no trabalho principal aumentaram 18,6% - Foto: Rovena Rosa/Agência Brasil Em 2025, houve uma ampliação do questionário sobre o tema, incorporando o trabalho secundário, assim como as plataformas de comércio eletrônico, além de aspectos relacionados a e...",
+      "category": "Mercado de Capitais",
+      "relevance": "alta",
+      "keywords": [
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47966-trabalhadores-de-transporte-de-passageiros-por-aplicativo-chegam-a-1-2-milhao-de-pessoas-no-pais.html",
+      "published_at": "2026-09-04T10:00:00+00:00",
+      "collected_at": "2026-09-04T13:13:47.849268+00:00"
+    },
     {
       "id": "6e3469a29e7ded78",
       "title": "ATA DA REUNIÃO DO COLEGIADO Nº 44 DE 02.12.2025",
