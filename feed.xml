@@ -5,7 +5,23 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:50:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 14:55:11 +0000</lastBuildDate>
+    <item>
+      <title>Em julho, indústria cresce em oito dos 15 locais pesquisados</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48004-em-julho-industria-cresce-em-oito-dos-15-locais-pesquisados.html</link>
+      <description>Em julho de 2026, a produção industrial nacional variou 0,2% frente ao mês anterior, na série com ajuste sazonal, com oito dos quinze locais pesquisados apresentando resultados positivos. Os avanços mais acentuados ocorreram no Amazonas (14,6%), Espírito Santo (2,0%), Rio Grande ...</description>
+      <category>Resultado Financeiro</category>
+      <guid>5829b7584945ac42</guid>
+      <pubDate>Thu, 10 Sep 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Volume de serviços fica estável (0,0%) em julho</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48003-volume-de-servicos-fica-estavel-0-0-em-julho.html</link>
+      <description>Em julho de 2026, o volume de serviços no Brasil ficou estável (0,0%) frente ao mês imediatamente anterior, após ter registrado ligeira variação positiva (0,1%) em junho. Dessa forma, o setor de serviços se encontra 20,0% acima do nível de fevereiro de 2020 (pré-pandemia) e fica,...</description>
+      <category>Resultado Financeiro</category>
+      <guid>90916283d3075cf3</guid>
+      <pubDate>Thu, 10 Sep 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Trabalhadores de transporte de passageiros por aplicativo chegam a 1,2 milhão de pessoas no país</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47966-trabalhadores-de-transporte-de-passageiros-por-aplicativo-chegam-a-1-2-milhao-de-pessoas-no-pais.html</link>
@@ -389,22 +405,6 @@
       <category>Operacional</category>
       <guid>5123b6b559765439</guid>
       <pubDate>Thu, 02 Jul 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Internet chega a 95% de domicílios do país em 2025</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47410-internet-chega-a-95-de-domicilios-do-pais-em-2025.html</link>
-      <description>"Conversar por chamadas de voz ou vídeo" é a principal finalidade do acesso à Internet. - Foto: Bruno Peres/Agência Brasil A Internet era utilizada em 95,0% dos domicílios particulares permanentes (76,0 milhões) do país em 2025, um aumento de 1,3 p.p. ou 2,7 milhões de domicílios...</description>
-      <category>Operacional</category>
-      <guid>483dd360fe4e7ce6</guid>
-      <pubDate>Thu, 02 Jul 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Índice de Preços ao Produtor (IPP) é de -0,30% em maio</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47362-indice-de-precos-ao-produtor-ipp-e-de-0-30-em-maio.html</link>
-      <description>Em maio de 2026, os preços da indústria variaram -0,30% frente a abril de 2026, revertendo o sinal da variação de abril frente a março (2,62%). Nessa comparação, sete das 24 atividades industriais apresentaram queda de preços. O acumulado no ano foi de 4,80%. O acumulado em 12 me...</description>
-      <category>Fiscal</category>
-      <guid>b5227f42cf661474</guid>
-      <pubDate>Tue, 30 Jun 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

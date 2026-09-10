@@ -1,7 +1,38 @@
 {
-  "updated_at": "2026-09-10T10:50:56.623415+00:00",
-  "total": 222,
+  "updated_at": "2026-09-10T14:55:11.586606+00:00",
+  "total": 224,
   "items": [
+    {
+      "id": "5829b7584945ac42",
+      "title": "Em julho, indústria cresce em oito dos 15 locais pesquisados",
+      "summary": "Em julho de 2026, a produção industrial nacional variou 0,2% frente ao mês anterior, na série com ajuste sazonal, com oito dos quinze locais pesquisados apresentando resultados positivos. Os avanços mais acentuados ocorreram no Amazonas (14,6%), Espírito Santo (2,0%), Rio Grande ...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "produção industrial"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48004-em-julho-industria-cresce-em-oito-dos-15-locais-pesquisados.html",
+      "published_at": "2026-09-10T09:00:00+00:00",
+      "collected_at": "2026-09-10T14:55:06.442851+00:00"
+    },
+    {
+      "id": "90916283d3075cf3",
+      "title": "Volume de serviços fica estável (0,0%) em julho",
+      "summary": "Em julho de 2026, o volume de serviços no Brasil ficou estável (0,0%) frente ao mês imediatamente anterior, após ter registrado ligeira variação positiva (0,1%) em junho. Dessa forma, o setor de serviços se encontra 20,0% acima do nível de fevereiro de 2020 (pré-pandemia) e fica,...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48003-volume-de-servicos-fica-estavel-0-0-em-julho.html",
+      "published_at": "2026-09-10T09:00:00+00:00",
+      "collected_at": "2026-09-10T14:55:01.318165+00:00"
+    },
     {
       "id": "1301276225ed939a",
       "title": "Trabalhadores de transporte de passageiros por aplicativo chegam a 1,2 milhão de pessoas no país",
