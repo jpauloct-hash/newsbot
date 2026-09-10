@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-09-10T21:28:47.754953+00:00",
-  "total": 224,
+  "updated_at": "2026-09-10T23:48:58.850499+00:00",
+  "total": 225,
   "items": [
+    {
+      "id": "7ec2039105e7f813",
+      "title": "ATA DA REUNIÃO DO COLEGIADO Nº 3 DE 03.03.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; PRESIDENTE INTERINO</strong><sup><strong>&nbsp;(1)</strong></sup><br /> <strong> &bull; MARINA PALMA COPOLA DE CARVALHO &ndash; DIRETORA<sup> (2)</sup><br /> &bull; THIA...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260303_R1.html",
+      "published_at": "2026-09-10T22:04:03+00:00",
+      "collected_at": "2026-09-10T23:48:56.132923+00:00"
+    },
     {
       "id": "5829b7584945ac42",
       "title": "Em julho, indústria cresce em oito dos 15 locais pesquisados",
