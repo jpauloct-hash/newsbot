@@ -1,7 +1,50 @@
 {
-  "updated_at": "2026-09-11T20:37:43.322254+00:00",
-  "total": 226,
+  "updated_at": "2026-09-11T23:03:53.426482+00:00",
+  "total": 229,
   "items": [
+    {
+      "id": "0436d80e111496a6",
+      "title": "EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 19 DE 21.07.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE</strong><br /> <strong> &bull; MARINA PALMA COPOLA &ndash; DIRETORA<sup> (1)</sup><br /> &bull; IGOR MUNIZ &ndash; DIRETOR</strong></p> <p><strong> <br />...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260721_R1.html",
+      "published_at": "2026-09-11T14:41:02+00:00",
+      "collected_at": "2026-09-11T23:03:49.899293+00:00"
+    },
+    {
+      "id": "001dd4fdbc9059db",
+      "title": "ATA DA REUNIÃO DO COLEGIADO Nº 8 DE 07.04.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR (PRESIDENTE INTERINO)</strong><br /> <strong> &bull; MARINA PALMA COPOLA DE CARVALHO &ndash; DIRETORA<sup> (1)</sup><br /> &bull; THIAGO PAIVA CHAVES &ndash; DIR...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260407_R1.html",
+      "published_at": "2026-09-11T17:08:03+00:00",
+      "collected_at": "2026-09-11T23:03:44.842196+00:00"
+    },
+    {
+      "id": "66f836973d143918",
+      "title": "ATA DA REUNIÃO DO COLEGIADO Nº 46 DE 16.12.2025",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE INTERINO </strong><sup><strong>(1)</strong></sup><br /> <strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR&nbsp;</strong><sup><strong>(2)...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2025/20251216_R1.html",
+      "published_at": "2026-09-11T19:18:43+00:00",
+      "collected_at": "2026-09-11T23:03:39.840706+00:00"
+    },
     {
       "id": "00d4d3db7dabd0b9",
       "title": "IPCA fica em -0,32% em agosto",
