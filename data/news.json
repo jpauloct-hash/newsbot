@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-09-11T08:42:04.070297+00:00",
-  "total": 225,
+  "updated_at": "2026-09-11T13:20:58.826596+00:00",
+  "total": 226,
   "items": [
+    {
+      "id": "00d4d3db7dabd0b9",
+      "title": "IPCA fica em -0,32% em agosto",
+      "summary": "O Índice Nacional de Preços ao Consumidor Amplo (IPCA) de agosto foi de -0,32%, 0,39 ponto percentual (p.p.) abaixo do 0,07% registrado em julho. No ano, o IPCA acumula alta de 3,11% e, nos últimos 12 meses, o índice ficou em 4,22%, abaixo dos 4,44% dos 12 meses imediatamente ant...",
+      "category": "Politica Monetaria",
+      "relevance": "alta",
+      "keywords": [
+        "ipca",
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48015-ipca-fica-em-0-32-em-agosto.html",
+      "published_at": "2026-09-11T09:00:00+00:00",
+      "collected_at": "2026-09-11T13:20:55.357154+00:00"
+    },
     {
       "id": "7ec2039105e7f813",
       "title": "ATA DA REUNIÃO DO COLEGIADO Nº 3 DE 03.03.2026",

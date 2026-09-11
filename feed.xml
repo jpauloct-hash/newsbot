@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 11 Sep 2026 08:42:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:20:58 +0000</lastBuildDate>
+    <item>
+      <title>IPCA fica em -0,32% em agosto</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48015-ipca-fica-em-0-32-em-agosto.html</link>
+      <description>O Índice Nacional de Preços ao Consumidor Amplo (IPCA) de agosto foi de -0,32%, 0,39 ponto percentual (p.p.) abaixo do 0,07% registrado em julho. No ano, o IPCA acumula alta de 3,11% e, nos últimos 12 meses, o índice ficou em 4,22%, abaixo dos 4,44% dos 12 meses imediatamente ant...</description>
+      <category>Politica Monetaria</category>
+      <guid>00d4d3db7dabd0b9</guid>
+      <pubDate>Fri, 11 Sep 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ATA DA REUNIÃO DO COLEGIADO Nº 3 DE 03.03.2026</title>
       <link>http://www.cvm.gov.br/decisoes/2026/20260303_R1.html</link>
@@ -397,14 +405,6 @@
       <category>Resultado Financeiro</category>
       <guid>ecd1341c74cd1666</guid>
       <pubDate>Fri, 03 Jul 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Câmara dos Deputados faz homenagem ao IBGE</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47465-camara-dos-deputados-faz-homenagem-ao-ibge.html</link>
-      <description>A Câmara dos Deputados realizou, nesta quinta-feira (2), uma Sessão Solene em homenagem aos 90 anos do Instituto Brasileiro de Geografia e Estatística (IBGE), celebrando a trajetória da instituição e sua contribuição para a produção de informações que orientam políticas públicas,...</description>
-      <category>Mercado de Capitais</category>
-      <guid>d2be6ab0965ce6bf</guid>
-      <pubDate>Thu, 02 Jul 2026 05:31:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
