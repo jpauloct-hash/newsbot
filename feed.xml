@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Sat, 12 Sep 2026 19:00:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 21:23:34 +0000</lastBuildDate>
+    <item>
+      <title>ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 11.09.2026</title>
+      <link>http://www.cvm.gov.br/decisoes/2026/20260911_R1.html</link>
+      <description>&lt;p&gt;Tipo: Extraordinária&lt;/p&gt; &lt;p&gt;Participantes:&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;strong&gt;&amp;bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &amp;ndash; PRESIDENTE&lt;/strong&gt;&lt;br /&gt; &lt;strong&gt;&amp;bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &amp;ndash; DIRETOR&lt;/strong&gt;&lt;br /&gt; &lt;strong&gt;&amp;bull; IGOR MUNIZ &amp;ndash; DIRETOR&lt;/strong&gt;&lt;...</description>
+      <category>Mercado de Capitais</category>
+      <guid>c6da1cf6164fc847</guid>
+      <pubDate>Sat, 12 Sep 2026 20:24:44 +0000</pubDate>
+    </item>
     <item>
       <title>EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 19 DE 21.07.2026</title>
       <link>http://www.cvm.gov.br/decisoes/2026/20260721_R1.html</link>
@@ -396,14 +404,6 @@
       <description>Em maio de 2026, a variação negativa de 0,2% da produção industrial nacional, frente ao mês imediatamente anterior e na série com ajuste sazonal, foi acompanhada por nove dos quinze locais pesquisados. Bahia (-8,9%), Mato Grosso (-3,2%) e Região Nordeste (-3,2%) assinalaram as qu...</description>
       <category>Operacional</category>
       <guid>c571b3f115f7c382</guid>
-      <pubDate>Fri, 10 Jul 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IPCA fica em 0,16% em junho</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47534-ipca-fica-em-0-16-em-junho.html</link>
-      <description>O Índice Nacional de Preços ao Consumidor Amplo (IPCA) de junho foi de 0,16%. O índice foi 0,42 ponto percentual (p.p.) abaixo da taxa de 0,58% registrada em maio. No ano, o IPCA acumula alta de 3,36% e, nos últimos doze meses, o índice ficou em 4,64%, abaixo dos 4,72% dos 12 mes...</description>
-      <category>Politica Monetaria</category>
-      <guid>2b13caea1f6cf93d</guid>
       <pubDate>Fri, 10 Jul 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
