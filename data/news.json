@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-09-15T07:20:40.195344+00:00",
-  "total": 230,
+  "updated_at": "2026-09-15T13:14:14.489668+00:00",
+  "total": 233,
   "items": [
+    {
+      "id": "013df2de417fabb0",
+      "title": "Em agosto, IBGE prevê safra de 352,9 milhões de toneladas para 2026",
+      "summary": "A estimativa de agosto de 2026 para a produção de cereais, leguminosas e oleaginosas foi de 352,9 milhões de toneladas, 2,0% (6,8 milhões de toneladas) maior que a obtida em 2025 (346,1 milhões de toneladas), com declínio de 81.416 toneladas (0,0%) em relação à julho de 2026. Est...",
+      "category": "Operacional",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48048-em-agosto-ibge-preve-safra-de-352-9-milhoes-de-toneladas-para-2026.html",
+      "published_at": "2026-09-15T09:00:00+00:00",
+      "collected_at": "2026-09-15T13:14:10.454179+00:00"
+    },
+    {
+      "id": "ed66552736e478cd",
+      "title": "Trimestrais da pecuária: abate de bovinos e suínos cresce no 2° trimestre",
+      "summary": "Os resultados da produção animal no 2º trimestre de 2026 apontam que o abate de bovinos subiu 1,3% frente ao mesmo período de 2025 e 4,0% em comparação ao trimestre anterior. O abate de suínos aumentou 4,0% em relação ao mesmo período de 2025 e 2,6% na comparação com o 1° trimest...",
+      "category": "Resultado Financeiro",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48056-trimestrais-da-pecuaria-abate-de-bovinos-e-suinos-cresce-no-2-trimestre.html",
+      "published_at": "2026-09-15T09:00:00+00:00",
+      "collected_at": "2026-09-15T13:14:05.459588+00:00"
+    },
+    {
+      "id": "cf6e5cf8db1ebba7",
+      "title": "Em julho, vendas no varejo caem 0,8%",
+      "summary": "Em julho de 2026, o volume de vendas no comércio varejista caiu 0,8% frente a junho, na série com ajuste sazonal, após variação de 0,3% em junho de 2026. Com isso, a média móvel trimestral para o varejo variou -0,1% no trimestre encerrado em julho de 2026, após registrar -0,2% no...",
+      "category": "Operacional",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "varejo"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48049-em-julho-vendas-no-varejo-caem-0-8.html",
+      "published_at": "2026-09-15T09:00:00+00:00",
+      "collected_at": "2026-09-15T13:14:00.491673+00:00"
+    },
     {
       "id": "c6da1cf6164fc847",
       "title": "ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 11.09.2026",
