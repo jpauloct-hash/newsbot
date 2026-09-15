@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-09-15T18:00:45.211829+00:00",
-  "total": 233,
+  "updated_at": "2026-09-15T21:13:30.782840+00:00",
+  "total": 234,
   "items": [
+    {
+      "id": "5b25fa65109bb1e3",
+      "title": "ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 20.05.2026",
+      "summary": "<p>Tipo: Extraordinária</p> <p>Participantes:</p> <p><p><strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR (PRESIDENTE INTERINO)<br /> </strong><strong>&bull; MARINA PALMA COPOLA DE CARVALHO &ndash; DIRETORA</strong><br /> <strong>&bull; THIAGO PAIVA CHAVES &ndas...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260520_R1.html",
+      "published_at": "2026-09-15T21:10:05+00:00",
+      "collected_at": "2026-09-15T21:13:27.503062+00:00"
+    },
     {
       "id": "013df2de417fabb0",
       "title": "Em agosto, IBGE prevê safra de 352,9 milhões de toneladas para 2026",

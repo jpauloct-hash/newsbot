@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Tue, 15 Sep 2026 18:00:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 21:13:30 +0000</lastBuildDate>
+    <item>
+      <title>ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 20.05.2026</title>
+      <link>http://www.cvm.gov.br/decisoes/2026/20260520_R1.html</link>
+      <description>&lt;p&gt;Tipo: Extraordinária&lt;/p&gt; &lt;p&gt;Participantes:&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;strong&gt;&amp;bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &amp;ndash; DIRETOR (PRESIDENTE INTERINO)&lt;br /&gt; &lt;/strong&gt;&lt;strong&gt;&amp;bull; MARINA PALMA COPOLA DE CARVALHO &amp;ndash; DIRETORA&lt;/strong&gt;&lt;br /&gt; &lt;strong&gt;&amp;bull; THIAGO PAIVA CHAVES &amp;ndas...</description>
+      <category>Regulatorio</category>
+      <guid>5b25fa65109bb1e3</guid>
+      <pubDate>Tue, 15 Sep 2026 21:10:05 +0000</pubDate>
+    </item>
     <item>
       <title>Em agosto, IBGE prevê safra de 352,9 milhões de toneladas para 2026</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48048-em-agosto-ibge-preve-safra-de-352-9-milhoes-de-toneladas-para-2026.html</link>
@@ -397,14 +405,6 @@
       <category>Operacional</category>
       <guid>ab3710575c548e6f</guid>
       <pubDate>Thu, 16 Jul 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Volume de serviços recua 0,4% em maio</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47570-volume-de-servicos-recua-0-4-em-maio.html</link>
-      <description>Em maio de 2026, o volume de serviços no Brasil recuou 0,4% frente ao mês imediatamente anterior, após ter registrado alta (1,1%) em abril. Dessa forma, o setor de serviços se encontra 19,6% acima do nível de fevereiro de 2020 (pré-pandemia) e fica, em maio de 2026, 0,5% abaixo d...</description>
-      <category>Resultado Financeiro</category>
-      <guid>51ee67fd52992485</guid>
-      <pubDate>Wed, 15 Jul 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
