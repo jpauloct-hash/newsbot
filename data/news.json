@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-09-16T19:25:08.079161+00:00",
-  "total": 235,
+  "updated_at": "2026-09-16T22:42:10.122328+00:00",
+  "total": 236,
   "items": [
+    {
+      "id": "750d557c380a67eb",
+      "title": "EXTRATOS DE ATA DA REUNIÃO DO COLEGIADO Nº 12 DE 12.05.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><div style=\"margin: 0px;\"><span>&bull; <b>JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR (PRESIDENTE INTERINO)<sup> (1)</sup></b></span></div> <div style=\"margin: 0px;\"><span>&bull; <b>MARINA PALMA COPOLA DE CARVALHO &ndash; D...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260512_R1.html",
+      "published_at": "2026-09-16T20:32:02+00:00",
+      "collected_at": "2026-09-16T22:42:06.446503+00:00"
+    },
     {
       "id": "c5c1374f3e2e12fa",
       "title": "ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 03.07.2026",
