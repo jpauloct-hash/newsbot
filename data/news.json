@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-09-15T21:13:30.782840+00:00",
-  "total": 234,
+  "updated_at": "2026-09-16T00:01:33.859884+00:00",
+  "total": 235,
   "items": [
+    {
+      "id": "c5c1374f3e2e12fa",
+      "title": "ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 03.07.2026",
+      "summary": "<p>Tipo: Extraordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE</strong><br /> <strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR</strong><br /> <strong>&bull;&nbsp;</strong><strong>IGOR MUNIZ &nd...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260703_R1.html",
+      "published_at": "2026-09-15T21:33:04+00:00",
+      "collected_at": "2026-09-16T00:01:30.535287+00:00"
+    },
     {
       "id": "5b25fa65109bb1e3",
       "title": "ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 20.05.2026",
