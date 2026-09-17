@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 16 Sep 2026 22:42:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 01:08:42 +0000</lastBuildDate>
+    <item>
+      <title>IBGE Esclarece: Sistema de Contas Nacionais</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48080-ibge-esclarece-sistema-de-contas-nacionais.html</link>
+      <description>O Instituto Brasileiro de Geografia e Estatística (IBGE) informa que está em andamento o projeto de implantação da nova série do Sistema de Contas Nacionais com ano de referência em 2021 (SCN-2021), prevista para ser divulgada em 2028. Como ocorreu em revisões anteriores, o proce...</description>
+      <category>Mercado de Capitais</category>
+      <guid>526de237669ca20f</guid>
+      <pubDate>Wed, 16 Sep 2026 07:32:53 +0000</pubDate>
+    </item>
     <item>
       <title>EXTRATOS DE ATA DA REUNIÃO DO COLEGIADO Nº 12 DE 12.05.2026</title>
       <link>http://www.cvm.gov.br/decisoes/2026/20260512_R1.html</link>
@@ -397,14 +405,6 @@
       <category>Mercado de Capitais</category>
       <guid>5d172390e735af4b</guid>
       <pubDate>Sat, 25 Jul 2026 19:12:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 18 DE 14.07.2026</title>
-      <link>http://www.cvm.gov.br/decisoes/2026/20260714_R1.html</link>
-      <description>&lt;p&gt;Tipo: Ordinária&lt;/p&gt; &lt;p&gt;Participantes:&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;strong&gt;&amp;bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &amp;ndash; PRESIDENTE&lt;/strong&gt;&lt;strong&gt;&lt;br /&gt; &amp;bull; MARINA PALMA COPOLA DE CARVALHO &amp;ndash; DIRETORA&lt;sup&gt; (1)&lt;/sup&gt;&lt;br /&gt; &amp;bull; IGOR MUNIZ &amp;ndash; DIRETOR&lt;br /&gt; &lt;br /&gt; &lt;/stron...</description>
-      <category>Mercado de Capitais</category>
-      <guid>6b153c3bfbe08fe5</guid>
-      <pubDate>Mon, 20 Jul 2026 18:23:12 +0000</pubDate>
     </item>
   </channel>
 </rss>

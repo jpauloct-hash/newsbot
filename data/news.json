@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-09-16T22:42:10.122328+00:00",
-  "total": 236,
+  "updated_at": "2026-09-17T01:08:42.507107+00:00",
+  "total": 237,
   "items": [
+    {
+      "id": "526de237669ca20f",
+      "title": "IBGE Esclarece: Sistema de Contas Nacionais",
+      "summary": "O Instituto Brasileiro de Geografia e Estatística (IBGE) informa que está em andamento o projeto de implantação da nova série do Sistema de Contas Nacionais com ano de referência em 2021 (SCN-2021), prevista para ser divulgada em 2028. Como ocorreu em revisões anteriores, o proce...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48080-ibge-esclarece-sistema-de-contas-nacionais.html",
+      "published_at": "2026-09-16T07:32:53+00:00",
+      "collected_at": "2026-09-17T01:07:38.636360+00:00"
+    },
     {
       "id": "750d557c380a67eb",
       "title": "EXTRATOS DE ATA DA REUNIÃO DO COLEGIADO Nº 12 DE 12.05.2026",
