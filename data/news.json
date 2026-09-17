@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-09-17T17:58:28.023074+00:00",
-  "total": 238,
+  "updated_at": "2026-09-17T21:15:22.648679+00:00",
+  "total": 240,
   "items": [
+    {
+      "id": "92a0a83c8cbd7ff7",
+      "title": "ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 13.05.2026",
+      "summary": "<p>Tipo: Extraordinária</p> <p>Participantes:</p> <p><p><strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR (PRESIDENTE INTERINO)<br /> &bull; MARINA PALMA COPOLA DE CARVALHO&nbsp;</strong><strong>&ndash; DIRETORA</strong><br /> <strong>&bull; THIAGO PAIVA CHAVES ...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260513_R1.html",
+      "published_at": "2026-09-17T14:16:33+00:00",
+      "collected_at": "2026-09-17T21:15:20.011856+00:00"
+    },
+    {
+      "id": "301286be15c4bf31",
+      "title": "ATA DA REUNIÃO DO COLEGIADO Nº 12 DE 12.05.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><span style=\"color: rgb(23, 41, 56); font-family: arial; font-size: 14px; font-weight: 700;\">&bull;</span>&nbsp;<b>JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR (PRESIDENTE INTERINO)<sup> (1)</sup></b><br /> <span style=\"c...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260512_R1.html",
+      "published_at": "2026-09-17T19:16:03+00:00",
+      "collected_at": "2026-09-17T21:15:14.983857+00:00"
+    },
     {
       "id": "dd7576c4076a531a",
       "title": "Valor de produção agrícola atinge recorde de R$ 927,2 bilhões, impulsionado por safra de grãos",
