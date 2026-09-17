@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-09-17T07:17:29.184196+00:00",
-  "total": 237,
+  "updated_at": "2026-09-17T13:07:58.346170+00:00",
+  "total": 238,
   "items": [
+    {
+      "id": "dd7576c4076a531a",
+      "title": "Valor de produção agrícola atinge recorde de R$ 927,2 bilhões, impulsionado por safra de grãos",
+      "summary": "A safra de soja em 2025 foi de 165,3 milhões de toneladas, avanço de 14,4% frente ao ano anterior. Oleaginosa tem maior valor de produção entre os produtos agrícolas - Foto: Gilson Abreu/AEN Em 2025, o valor de produção das principais culturas agrícolas do país atingiu o recorde ...",
+      "category": "Operacional",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48075-valor-de-producao-agricola-atinge-recorde-de-r-927-2-bilhoes-impulsionado-por-safra-de-graos.html",
+      "published_at": "2026-09-17T10:00:00+00:00",
+      "collected_at": "2026-09-17T13:07:52.234453+00:00"
+    },
     {
       "id": "526de237669ca20f",
       "title": "IBGE Esclarece: Sistema de Contas Nacionais",

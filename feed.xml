@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 17 Sep 2026 07:17:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 13:07:58 +0000</lastBuildDate>
+    <item>
+      <title>Valor de produção agrícola atinge recorde de R$ 927,2 bilhões, impulsionado por safra de grãos</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48075-valor-de-producao-agricola-atinge-recorde-de-r-927-2-bilhoes-impulsionado-por-safra-de-graos.html</link>
+      <description>A safra de soja em 2025 foi de 165,3 milhões de toneladas, avanço de 14,4% frente ao ano anterior. Oleaginosa tem maior valor de produção entre os produtos agrícolas - Foto: Gilson Abreu/AEN Em 2025, o valor de produção das principais culturas agrícolas do país atingiu o recorde ...</description>
+      <category>Operacional</category>
+      <guid>dd7576c4076a531a</guid>
+      <pubDate>Thu, 17 Sep 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>IBGE Esclarece: Sistema de Contas Nacionais</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48080-ibge-esclarece-sistema-de-contas-nacionais.html</link>
@@ -397,14 +405,6 @@
       <category>Politica Monetaria</category>
       <guid>0817d4546e3e1446</guid>
       <pubDate>Tue, 28 Jul 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 24.07.2026</title>
-      <link>http://www.cvm.gov.br/decisoes/2026/20260724_R1.html</link>
-      <description>&lt;p&gt;Tipo: Extraordinária&lt;/p&gt; &lt;p&gt;Participantes:&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;strong&gt;&amp;bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &amp;ndash; PRESIDENTE&lt;/strong&gt;&lt;br /&gt; &lt;strong&gt;&amp;bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &amp;ndash; DIRETOR&lt;/strong&gt;&lt;br /&gt; &lt;strong&gt;&amp;bull; MARINA PALMA COPOLA DE CARVALHO &amp;nda...</description>
-      <category>Mercado de Capitais</category>
-      <guid>5d172390e735af4b</guid>
-      <pubDate>Sat, 25 Jul 2026 19:12:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
