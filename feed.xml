@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 18 Sep 2026 14:10:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 18:07:22 +0000</lastBuildDate>
+    <item>
+      <title>IBGE Esclarece: nova série do Sistema de Contas Nacionais</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48092-ibge-esclarece-nova-serie-do-sistema-de-contas-nacionais.html</link>
+      <description>Os manuais de Contas Nacionais definem que toda atividade econômica deve ser medida para estimar a geração de renda (PIB) e os demais componentes da economia de um país. Independentemente de serem informais ou ilegais, as atividades devem (na medida em que for possível) ser cober...</description>
+      <category>Regulatorio</category>
+      <guid>5025aaddd658f558</guid>
+      <pubDate>Fri, 18 Sep 2026 11:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Desigualdades afetam acesso a espaços, participação e direitos das pessoas com deficiência</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48091-desigualdades-afetam-acesso-a-espacos-participacao-e-direitos-das-pessoas-com-deficiencia.html</link>
@@ -397,14 +405,6 @@
       <category>Resultado Financeiro</category>
       <guid>5740d563400ede35</guid>
       <pubDate>Tue, 04 Aug 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 20 DE 28.07.2026</title>
-      <link>http://www.cvm.gov.br/decisoes/2026/20260728_R1.html</link>
-      <description>&lt;p&gt;Tipo: Ordinária&lt;/p&gt; &lt;p&gt;Participantes:&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;strong&gt;&amp;bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &amp;ndash; PRESIDENTE&lt;br /&gt; &lt;/strong&gt;&lt;strong&gt;&amp;bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &amp;ndash; DIRETOR&lt;/strong&gt;&lt;sup&gt;&lt;strong&gt; (1)&lt;/strong&gt;&lt;/sup&gt;&lt;br /&gt; &lt;strong&gt; &amp;bull; MARINA P...</description>
-      <category>Regulatorio</category>
-      <guid>095981794b821b63</guid>
-      <pubDate>Mon, 03 Aug 2026 00:16:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

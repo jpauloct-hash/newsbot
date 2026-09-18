@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-09-18T14:10:39.358630+00:00",
-  "total": 241,
+  "updated_at": "2026-09-18T18:07:22.298613+00:00",
+  "total": 242,
   "items": [
+    {
+      "id": "5025aaddd658f558",
+      "title": "IBGE Esclarece: nova série do Sistema de Contas Nacionais",
+      "summary": "Os manuais de Contas Nacionais definem que toda atividade econômica deve ser medida para estimar a geração de renda (PIB) e os demais componentes da economia de um país. Independentemente de serem informais ou ilegais, as atividades devem (na medida em que for possível) ser cober...",
+      "category": "Regulatorio",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "pib"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48092-ibge-esclarece-nova-serie-do-sistema-de-contas-nacionais.html",
+      "published_at": "2026-09-18T11:00:00+00:00",
+      "collected_at": "2026-09-18T18:07:18.588489+00:00"
+    },
     {
       "id": "f2eaa514bdd481c9",
       "title": "Desigualdades afetam acesso a espaços, participação e direitos das pessoas com deficiência",
