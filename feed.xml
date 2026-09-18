@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 18 Sep 2026 09:26:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 14:10:39 +0000</lastBuildDate>
+    <item>
+      <title>Desigualdades afetam acesso a espaços, participação e direitos das pessoas com deficiência</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48091-desigualdades-afetam-acesso-a-espacos-participacao-e-direitos-das-pessoas-com-deficiencia.html</link>
+      <description>Taxa de analfabetismo entre pessoas de 15 a 29 anos com deficiência era de 12,2% em 2022 - Foto: Gustavo Fring/Pexels O IBGE divulga hoje (18) a publicação Pessoas com deficiência e as desigualdades sociais no Brasil. Nesta segunda edição, o informativo traz dados inéditos a part...</description>
+      <category>Mercado de Capitais</category>
+      <guid>f2eaa514bdd481c9</guid>
+      <pubDate>Fri, 18 Sep 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 13.05.2026</title>
       <link>http://www.cvm.gov.br/decisoes/2026/20260513_R1.html</link>
@@ -397,14 +405,6 @@
       <category>Regulatorio</category>
       <guid>095981794b821b63</guid>
       <pubDate>Mon, 03 Aug 2026 00:16:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Índice de Preços ao Produtor (IPP) é de -0,77% em junho</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47660-indice-de-precos-ao-produtor-ipp-e-de-0-77-em-junho.html</link>
-      <description>Em junho de 2026, os preços da indústria variaram -0,77% frente ao mês anterior, mantendo a variação negativa de maio frente a abril (-0,30%). Nessa comparação, 6 das 24 atividades industriais apresentaram queda de preços. O acumulado no ano foi de 3,99%. O acumulado em 12 meses ...</description>
-      <category>Fiscal</category>
-      <guid>572fc261d91efbb2</guid>
-      <pubDate>Fri, 31 Jul 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
