@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-09-22T03:51:43.448151+00:00",
-  "total": 242,
+  "updated_at": "2026-09-22T09:07:47.382508+00:00",
+  "total": 243,
   "items": [
+    {
+      "id": "9450e51c9b7eaa63",
+      "title": "ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 18.09.2026",
+      "summary": "<p>Tipo: Extraordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE<br /> &bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR<br /> &bull; MARINA PALMA COPOLA &ndash; DIRETORA<br /> &bull; IGOR MUNIZ &ndash; D...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260918_R1.html",
+      "published_at": "2026-09-22T02:24:33+00:00",
+      "collected_at": "2026-09-22T09:07:44.701637+00:00"
+    },
     {
       "id": "5025aaddd658f558",
       "title": "IBGE Esclarece: nova série do Sistema de Contas Nacionais",
