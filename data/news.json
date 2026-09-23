@@ -1,7 +1,36 @@
 {
-  "updated_at": "2026-09-23T10:58:15.286997+00:00",
-  "total": 243,
+  "updated_at": "2026-09-23T15:24:18.448940+00:00",
+  "total": 245,
   "items": [
+    {
+      "id": "34e695a8ad17f248",
+      "title": "Em 2025, taxa de sindicalização fica em 8,8% da população ocupada",
+      "summary": "A associação de trabalhadores a sindicatos manteve a estabilidade com 9,1 milhões de pessoas - Foto: Cadu Pinotti/Agência Brasi Em 2025, o nível de ocupação ficou estimado em 59,1%, o maior da série histórica iniciada em 2012. A proporção se dá após a população ocupada atingir su...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48112-em-2025-taxa-de-sindicalizacao-fica-em-8-8-da-populacao-ocupada.html",
+      "published_at": "2026-09-23T10:00:00+00:00",
+      "collected_at": "2026-09-23T15:24:13.349885+00:00"
+    },
+    {
+      "id": "5261a9a5dc24671e",
+      "title": "IBGE esclarece matéria do UOL sobre Sistema de Contas Nacionais",
+      "summary": "Sobre a matéria “IBGE prepara inclusão de drogas ilícitas no cálculo do PIB a partir de 2028”, publicada pelo UOL no dia 23/09/2026, o IBGE reitera a parte final da nota “IBGE Esclarece: nova série do Sistema de Contas Nacionais”, divulgada pela Diretoria de Pesquisa, com o segui...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "pib"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48119-ibge-esclarece-materia-do-uol-sobre-sistema-de-contas-nacionais.html",
+      "published_at": "2026-09-23T12:23:18+00:00",
+      "collected_at": "2026-09-23T15:24:08.295430+00:00"
+    },
     {
       "id": "9450e51c9b7eaa63",
       "title": "ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 18.09.2026",

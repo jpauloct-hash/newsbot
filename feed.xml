@@ -5,7 +5,23 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 23 Sep 2026 10:58:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 15:24:18 +0000</lastBuildDate>
+    <item>
+      <title>Em 2025, taxa de sindicalização fica em 8,8% da população ocupada</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48112-em-2025-taxa-de-sindicalizacao-fica-em-8-8-da-populacao-ocupada.html</link>
+      <description>A associação de trabalhadores a sindicatos manteve a estabilidade com 9,1 milhões de pessoas - Foto: Cadu Pinotti/Agência Brasi Em 2025, o nível de ocupação ficou estimado em 59,1%, o maior da série histórica iniciada em 2012. A proporção se dá após a população ocupada atingir su...</description>
+      <category>Mercado de Capitais</category>
+      <guid>34e695a8ad17f248</guid>
+      <pubDate>Wed, 23 Sep 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IBGE esclarece matéria do UOL sobre Sistema de Contas Nacionais</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48119-ibge-esclarece-materia-do-uol-sobre-sistema-de-contas-nacionais.html</link>
+      <description>Sobre a matéria “IBGE prepara inclusão de drogas ilícitas no cálculo do PIB a partir de 2028”, publicada pelo UOL no dia 23/09/2026, o IBGE reitera a parte final da nota “IBGE Esclarece: nova série do Sistema de Contas Nacionais”, divulgada pela Diretoria de Pesquisa, com o segui...</description>
+      <category>Resultado Financeiro</category>
+      <guid>5261a9a5dc24671e</guid>
+      <pubDate>Wed, 23 Sep 2026 12:23:18 +0000</pubDate>
+    </item>
     <item>
       <title>ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 18.09.2026</title>
       <link>http://www.cvm.gov.br/decisoes/2026/20260918_R1.html</link>
@@ -389,22 +405,6 @@
       <category>Resultado Financeiro</category>
       <guid>1ce05d9f35dde849</guid>
       <pubDate>Wed, 12 Aug 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Em junho, indústria recua em 12 dos 15 locais pesquisados</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47741-em-junho-industria-recua-em-12-dos-15-locais-pesquisados.html</link>
-      <description>Em junho de 2026, a produção industrial nacional mostrou queda de 1,8% frente ao mês imediatamente anterior, na série livre de influências sazonais, com doze dos quinze locais pesquisados registrando resultados negativos. O Amazonas (-11,3%) registrou o recuo mais acentuado do mê...</description>
-      <category>Resultado Financeiro</category>
-      <guid>4b31737f838a504e</guid>
-      <pubDate>Tue, 11 Aug 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IPCA fica em 0,07% em julho</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47739-ipca-fica-em-0-07-em-julho.html</link>
-      <description>O Índice Nacional de Preços ao Consumidor Amplo (IPCA) de julho foi de 0,07%, 0,09 ponto percentual (p.p.) abaixo do 0,16% registrado em junho. No ano, o IPCA acumula alta de 3,44% e, nos últimos 12 meses, o índice ficou em 4,44%, abaixo dos 4,64% dos 12 meses imediatamente anter...</description>
-      <category>Politica Monetaria</category>
-      <guid>f2777f0a81cf482d</guid>
-      <pubDate>Tue, 11 Aug 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
