@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 24 Sep 2026 07:20:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 13:20:43 +0000</lastBuildDate>
+    <item>
+      <title>Valor de produção da silvicultura e da extração vegetal cresce 6,7% e soma R$ 47,9 bilhões</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48118-valor-de-producao-da-silvicultura-e-da-extracao-vegetal-cresce-6-7-e-soma-r-47-9-bilhoes.html</link>
+      <description>A área estimada de florestas plantadas totalizou 10,4 milhões de hectares em 2025 - Foto: Licia Rubinstein/Agência IBGE Notícias O valor da produção florestal atingiu em 2025 o recorde de R$ 47,9 bilhões, com alta de 6,7% em relação ao ano anterior e produção em 4.889 municípios....</description>
+      <category>Resultado Financeiro</category>
+      <guid>0575bbcecb389c70</guid>
+      <pubDate>Thu, 24 Sep 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Em 2025, taxa de sindicalização fica em 8,8% da população ocupada</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48112-em-2025-taxa-de-sindicalizacao-fica-em-8-8-da-populacao-ocupada.html</link>
@@ -397,14 +405,6 @@
       <category>Operacional</category>
       <guid>6199b0e27ef54281</guid>
       <pubDate>Thu, 13 Aug 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Volume de serviços fica estável (0,0%) em junho</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47748-volume-de-servicos-fica-estavel-0-0-em-junho.html</link>
-      <description>Em junho de 2026, o volume de serviços no Brasil ficou estável (0,0%) frente ao mês imediatamente anterior, após ter registrado variação negativa (-0,2%) em maio. Dessa forma, o setor de serviços se encontra 19,9% acima do nível de fevereiro de 2020 (pré-pandemia) e fica, em junh...</description>
-      <category>Resultado Financeiro</category>
-      <guid>1ce05d9f35dde849</guid>
-      <pubDate>Wed, 12 Aug 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

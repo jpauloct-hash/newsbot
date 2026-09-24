@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-09-24T07:20:58.716952+00:00",
-  "total": 245,
+  "updated_at": "2026-09-24T13:20:43.770399+00:00",
+  "total": 246,
   "items": [
+    {
+      "id": "0575bbcecb389c70",
+      "title": "Valor de produção da silvicultura e da extração vegetal cresce 6,7% e soma R$ 47,9 bilhões",
+      "summary": "A área estimada de florestas plantadas totalizou 10,4 milhões de hectares em 2025 - Foto: Licia Rubinstein/Agência IBGE Notícias O valor da produção florestal atingiu em 2025 o recorde de R$ 47,9 bilhões, com alta de 6,7% em relação ao ano anterior e produção em 4.889 municípios....",
+      "category": "Resultado Financeiro",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48118-valor-de-producao-da-silvicultura-e-da-extracao-vegetal-cresce-6-7-e-soma-r-47-9-bilhoes.html",
+      "published_at": "2026-09-24T10:00:00+00:00",
+      "collected_at": "2026-09-24T13:20:38.572977+00:00"
+    },
     {
       "id": "34e695a8ad17f248",
       "title": "Em 2025, taxa de sindicalização fica em 8,8% da população ocupada",
