@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 25 Sep 2026 07:15:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 13:21:00 +0000</lastBuildDate>
+    <item>
+      <title>O IPCA-15 é de 0,70% em setembro</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48134-o-ipca-15-e-de-0-70-em-setembro.html</link>
+      <description>O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15) foi de 0,70% em setembro, ficando 1,10 ponto percentual (p.p.) acima da taxa de agosto (-0,40%). O IPCA-E, que se constitui no IPCA-15 acumulado trimestralmente, ficou em 0,36%, abaixo da taxa de 0,67% registrada em igu...</description>
+      <category>Politica Monetaria</category>
+      <guid>49f8722d312eb946</guid>
+      <pubDate>Fri, 25 Sep 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Valor de produção da silvicultura e da extração vegetal cresce 6,7% e soma R$ 47,9 bilhões</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48118-valor-de-producao-da-silvicultura-e-da-extracao-vegetal-cresce-6-7-e-soma-r-47-9-bilhoes.html</link>
@@ -396,14 +404,6 @@
       <description>A estimativa de julho de 2026 para a produção de cereais, leguminosas e oleaginosas foi de 353,0 milhões de toneladas, 2,0% maior (ou mais 6,9 milhões de toneladas) que a obtida em 2025 (346,1 milhões de toneladas), com aumento de 1,6% (ou mais 5,6 milhões de toneladas) em relaçã...</description>
       <category>Operacional</category>
       <guid>b97b137e8d42be39</guid>
-      <pubDate>Thu, 13 Aug 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Em junho, vendas no varejo crescem 0,5%</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47766-em-junho-vendas-no-varejo-crescem-0-5.html</link>
-      <description>Em junho de 2026, o volume de vendas no comércio varejista cresceu 0,5% frente a maio, na série livre de influências sazonais, após variação de[LG1.1] 0,3% em maio de 2026. Com isso, a média móvel trimestral variou -0,3% no trimestre encerrado em junho de 2026 após apresentar var...</description>
-      <category>Operacional</category>
-      <guid>6199b0e27ef54281</guid>
       <pubDate>Thu, 13 Aug 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
