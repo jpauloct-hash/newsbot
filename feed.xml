@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 25 Sep 2026 13:21:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 18:17:50 +0000</lastBuildDate>
+    <item>
+      <title>IPCA-15 é de 0,70% em setembro</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48134-o-ipca-15-e-de-0-70-em-setembro.html</link>
+      <description>O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15) foi de 0,70% em setembro, ficando 1,10 ponto percentual (p.p.) acima da taxa de agosto (-0,40%). O IPCA-E, que se constitui no IPCA-15 acumulado trimestralmente, ficou em 0,36%, abaixo da taxa de 0,67% registrada em igu...</description>
+      <category>Politica Monetaria</category>
+      <guid>4d85a9dec2110a46</guid>
+      <pubDate>Fri, 25 Sep 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>O IPCA-15 é de 0,70% em setembro</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48134-o-ipca-15-e-de-0-70-em-setembro.html</link>
@@ -397,14 +405,6 @@
       <category>Internacional</category>
       <guid>6b179e18738e45cd</guid>
       <pubDate>Fri, 14 Aug 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Em julho, IBGE prevê safra de 353,0 milhões de toneladas para 2026</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47765-em-julho-ibge-preve-safra-de-353-0-milhoes-de-toneladas-para-2026.html</link>
-      <description>A estimativa de julho de 2026 para a produção de cereais, leguminosas e oleaginosas foi de 353,0 milhões de toneladas, 2,0% maior (ou mais 6,9 milhões de toneladas) que a obtida em 2025 (346,1 milhões de toneladas), com aumento de 1,6% (ou mais 5,6 milhões de toneladas) em relaçã...</description>
-      <category>Operacional</category>
-      <guid>b97b137e8d42be39</guid>
-      <pubDate>Thu, 13 Aug 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

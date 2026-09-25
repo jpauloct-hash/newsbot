@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-09-25T13:21:00.667002+00:00",
-  "total": 247,
+  "updated_at": "2026-09-25T18:17:50.727132+00:00",
+  "total": 248,
   "items": [
+    {
+      "id": "4d85a9dec2110a46",
+      "title": "IPCA-15 é de 0,70% em setembro",
+      "summary": "O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15) foi de 0,70% em setembro, ficando 1,10 ponto percentual (p.p.) acima da taxa de agosto (-0,40%). O IPCA-E, que se constitui no IPCA-15 acumulado trimestralmente, ficou em 0,36%, abaixo da taxa de 0,67% registrada em igu...",
+      "category": "Politica Monetaria",
+      "relevance": "alta",
+      "keywords": [
+        "ipca",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48134-o-ipca-15-e-de-0-70-em-setembro.html",
+      "published_at": "2026-09-25T09:00:00+00:00",
+      "collected_at": "2026-09-25T18:17:45.822997+00:00"
+    },
     {
       "id": "49f8722d312eb946",
       "title": "O IPCA-15 é de 0,70% em setembro",
