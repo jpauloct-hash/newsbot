@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-09-28T15:03:03.452485+00:00",
-  "total": 248,
+  "updated_at": "2026-09-28T21:38:31.667824+00:00",
+  "total": 249,
   "items": [
+    {
+      "id": "bad65bd34378e0fe",
+      "title": "ATA DA REUNIÃO DO COLEGIADO Nº 26 DE 22.07.2025",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE EM EXERCÍCIO</strong><br /> <strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR&nbsp;</strong><sup><strong>(1)</strong></sup><br /> <stron...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2025/20250722_R1.html",
+      "published_at": "2026-09-28T20:19:59+00:00",
+      "collected_at": "2026-09-28T21:38:28.997961+00:00"
+    },
     {
       "id": "4d85a9dec2110a46",
       "title": "IPCA-15 é de 0,70% em setembro",
