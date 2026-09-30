@@ -5,7 +5,23 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 30 Sep 2026 10:58:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 16:46:28 +0000</lastBuildDate>
+    <item>
+      <title>Índice de Preços ao Produtor (IPP) é de 0,36% em agosto</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48162-indice-de-precos-ao-produtor-ipp-e-de-0-36-em-agosto.html</link>
+      <description>Em agosto de 2026, os preços da indústria geral, que engloba as indústrias extrativas e de transformação, variaram 0,36% frente a julho de 2026, revertendo o sinal da variação de julho/2026 frente a junho/2026 (-0,83%). Período Taxa (%) Agosto de 2026 0,36 Julho de 2026 -0,83 Ago...</description>
+      <category>Fiscal</category>
+      <guid>dc49e9664c6259b7</guid>
+      <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rebanho bovino cai para 234,3 milhões de cabeças em 2025, o menor em três anos</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48159-rebanho-bovino-cai-para-234-3-milhoes-de-cabecas-em-2025-o-menor-em-tres-anos.html</link>
+      <description>Efetivo bovino caiu pelo segundo ano seguido; São Félix do Xingu (PA) segue com o maior rebanho (2,7 milhões de cabeças) - Foto: Licia Rubinstein/Agência IBGE Notícias O rebanho bovino diminuiu 1,7% em 2025, na comparação com 2024, na segunda queda anual consecutiva. A quantidade...</description>
+      <category>Operacional</category>
+      <guid>c5cba8261763bce9</guid>
+      <pubDate>Wed, 30 Sep 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ATA DA REUNIÃO DO COLEGIADO Nº 26 DE 22.07.2025</title>
       <link>http://www.cvm.gov.br/decisoes/2025/20250722_R1.html</link>
@@ -389,22 +405,6 @@
       <category>Resultado Financeiro</category>
       <guid>fb23dd141abeca06</guid>
       <pubDate>Wed, 19 Aug 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IBGE participa de debate técnico internacional sobre inteligência demográfica, clima e saúde</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47791-ibge-participa-de-debate-tecnico-internacional-sobre-inteligencia-demografica-clima-e-saude.html</link>
-      <description>Representantes de governos latino-americanos, da CAF, Cepal, UNFPA, IBGE e outras instituições produtoras de dados se reuniram na sede do Banco de Desenvolvimento da América Latina (CAF) para debater o uso estratégico da inteligência demográfica diante das mudanças climáticas e d...</description>
-      <category>Fiscal</category>
-      <guid>a69dc84d012a6188</guid>
-      <pubDate>Tue, 18 Aug 2026 11:30:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 1 DE 03.02.2026</title>
-      <link>http://www.cvm.gov.br/decisoes/2026/20260203_R1.html</link>
-      <description>&lt;p&gt;Tipo: Ordinária&lt;/p&gt; &lt;p&gt;Participantes:&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;strong&gt;&amp;bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &amp;ndash; DIRETOR (PRESIDENTE INTERINO)&lt;/strong&gt;&lt;sup&gt;&lt;strong&gt; (1)&lt;/strong&gt;&lt;/sup&gt;&lt;br /&gt; &lt;strong&gt; &amp;bull; MARINA PALMA COPOLA DE CARVALHO &amp;ndash; DIRETORA&lt;sup&gt; (2)&lt;/sup&gt;&lt;br /&gt; &amp;bull;...</description>
-      <category>Regulatorio</category>
-      <guid>af794ec0ff934bce</guid>
-      <pubDate>Fri, 14 Aug 2026 19:07:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

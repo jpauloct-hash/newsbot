@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-09-30T10:58:10.123205+00:00",
-  "total": 249,
+  "updated_at": "2026-09-30T16:46:28.611028+00:00",
+  "total": 251,
   "items": [
+    {
+      "id": "dc49e9664c6259b7",
+      "title": "Índice de Preços ao Produtor (IPP) é de 0,36% em agosto",
+      "summary": "Em agosto de 2026, os preços da indústria geral, que engloba as indústrias extrativas e de transformação, variaram 0,36% frente a julho de 2026, revertendo o sinal da variação de julho/2026 frente a junho/2026 (-0,83%). Período Taxa (%) Agosto de 2026 0,36 Julho de 2026 -0,83 Ago...",
+      "category": "Fiscal",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48162-indice-de-precos-ao-produtor-ipp-e-de-0-36-em-agosto.html",
+      "published_at": "2026-09-30T09:00:00+00:00",
+      "collected_at": "2026-09-30T16:46:23.666968+00:00"
+    },
+    {
+      "id": "c5cba8261763bce9",
+      "title": "Rebanho bovino cai para 234,3 milhões de cabeças em 2025, o menor em três anos",
+      "summary": "Efetivo bovino caiu pelo segundo ano seguido; São Félix do Xingu (PA) segue com o maior rebanho (2,7 milhões de cabeças) - Foto: Licia Rubinstein/Agência IBGE Notícias O rebanho bovino diminuiu 1,7% em 2025, na comparação com 2024, na segunda queda anual consecutiva. A quantidade...",
+      "category": "Operacional",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48159-rebanho-bovino-cai-para-234-3-milhoes-de-cabecas-em-2025-o-menor-em-tres-anos.html",
+      "published_at": "2026-09-30T10:00:00+00:00",
+      "collected_at": "2026-09-30T16:46:18.633441+00:00"
+    },
     {
       "id": "bad65bd34378e0fe",
       "title": "ATA DA REUNIÃO DO COLEGIADO Nº 26 DE 22.07.2025",
