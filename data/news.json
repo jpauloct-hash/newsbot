@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-09-30T21:16:57.100380+00:00",
-  "total": 252,
+  "updated_at": "2026-10-01T01:08:48.806713+00:00",
+  "total": 253,
   "items": [
+    {
+      "id": "a7b1d0225714054f",
+      "title": "ATA DA REUNIÃO DO COLEGIADO Nº 11 DE 06.05.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR (PRESIDENTE INTERINO)<sup> (1)</sup><br /> &bull; MARINA PALMA COPOLA DE CARVALHO&nbsp;&ndash; DIRETORA<sup> (1)</sup><br /> &bull; THIAGO PAIVA CHAVES &ndash; D...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260506_R1.html",
+      "published_at": "2026-09-30T21:41:20+00:00",
+      "collected_at": "2026-10-01T01:08:06.556215+00:00"
+    },
     {
       "id": "e65d9ae0fed3cc2b",
       "title": "ATA DA REUNIÃO DO COLEGIADO Nº 11/2026",
