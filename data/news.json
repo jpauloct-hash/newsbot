@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-02T08:03:18.780222+00:00",
-  "total": 253,
+  "updated_at": "2026-10-02T15:28:39.496421+00:00",
+  "total": 254,
   "items": [
+    {
+      "id": "c19b252772cdd988",
+      "title": "Produção industrial recua 0,6% em agosto",
+      "summary": "Em agosto de 2026, a produção industrial recuou 0,6% frente a julho, eliminando a variação positiva de 0,1% verificada em julho, quando interrompeu dois meses consecutivos de queda na produção. Em relação a agosto de 2025, a indústria teve queda de 1,2% e intensificou a taxa nega...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "produção industrial"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48200-producao-industrial-recua-0-6-em-agosto.html",
+      "published_at": "2026-10-02T09:00:00+00:00",
+      "collected_at": "2026-10-02T15:28:34.523855+00:00"
+    },
     {
       "id": "a7b1d0225714054f",
       "title": "ATA DA REUNIÃO DO COLEGIADO Nº 11 DE 06.05.2026",
