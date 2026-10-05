@@ -1,7 +1,33 @@
 {
-  "updated_at": "2026-10-05T08:32:40.316768+00:00",
-  "total": 254,
+  "updated_at": "2026-10-05T18:02:55.942248+00:00",
+  "total": 256,
   "items": [
+    {
+      "id": "5a371b0d57a9b88d",
+      "title": "Consulta Pública SNC 01/26",
+      "summary": "<p>Consulta Pública abrangente destinada à obtenção de subsídios para a convergência às normas internacionais de contabilidade do arcabouço normativo contábil aplicado aos Fundos de Investimento.</p> <p>Prazo para Manifestação: 04/12/2025</p> <p>Fase: Aberta para manifestações</p...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "cvm_audiencias",
+      "source_name": "CVM — Audiências Públicas",
+      "url": "http://www.cvm.gov.br/audiencias_publicas/ap_snc/2026/edsnc0126.html",
+      "published_at": "2026-10-05T09:59:57+00:00",
+      "collected_at": "2026-10-05T18:02:54.358322+00:00"
+    },
+    {
+      "id": "0ab00f4910a2eeab",
+      "title": "Consulta Pública SNC 02/26",
+      "summary": "<p><span style=\"font-family: Calibri, sans-serif; font-size: 12pt;\">Aprova a Revisão de Pronunciamentos Técnicos n&ordm; 30, emitido pelo Comitê de Pronunciamentos Contábeis &ndash; CPC.</span></p> <p>Prazo para Manifestação: 03/11/2026</p> <p>Fase: Aberta para manifestações</p>",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "cvm_audiencias",
+      "source_name": "CVM — Audiências Públicas",
+      "url": "http://www.cvm.gov.br/audiencias_publicas/ap_snc/2026/edsnc0226.html",
+      "published_at": "2026-10-05T10:04:56+00:00",
+      "collected_at": "2026-10-05T18:02:49.445873+00:00"
+    },
     {
       "id": "c19b252772cdd988",
       "title": "Produção industrial recua 0,6% em agosto",
