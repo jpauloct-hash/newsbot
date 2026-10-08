@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 08 Oct 2026 07:03:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 15:18:04 +0000</lastBuildDate>
+    <item>
+      <title>Em agosto, indústria recua em dez dos 15 locais pesquisados</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48242-em-agosto-industria-recua-em-dez-dos-15-locais-pesquisados.html</link>
+      <description>Em agosto de 2026, a produção industrial nacional recuou -0,6% frente ao mês anterior, na série com ajuste sazonal, com dez dos quinze locais pesquisados apresentando resultados negativos. As reduções mais acentuadas ocorreram no Pará (-7,3%), Amazonas (-5,7%) e Rio Grande do Sul...</description>
+      <category>Resultado Financeiro</category>
+      <guid>7f3df52c9ee58fd1</guid>
+      <pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Consulta Pública SNC 01/26</title>
       <link>http://www.cvm.gov.br/audiencias_publicas/ap_snc/2026/edsnc0126.html</link>
@@ -397,14 +405,6 @@
       <category>Mercado de Capitais</category>
       <guid>9fb6434339c78dc3</guid>
       <pubDate>Mon, 24 Aug 2026 02:23:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Diretoria de Pesquisas defende 90 anos de credibilidade e serviços do IBGE dentro e fora do Brasil</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47831-diretoria-de-pesquisas-defende-90-anos-de-credibilidade-e-servicos-do-ibge-dentro-e-fora-do-brasil.html</link>
-      <description>A Diretoria de Pesquisas do IBGE divulgou hoje (21/08) nota em defesa da credibilidade do órgão. Leia a nota na íntegra:Rio de Janeiro, 21 de agosto de 2026 A Diretoria de Pesquisas do Instituto Brasileiro de Geografia e Estatística (IBGE) lamenta profundamente que representantes...</description>
-      <category>Operacional</category>
-      <guid>43a995824d33bd5d</guid>
-      <pubDate>Fri, 21 Aug 2026 03:27:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-08T07:03:25.444712+00:00",
-  "total": 256,
+  "updated_at": "2026-10-08T15:18:04.927550+00:00",
+  "total": 257,
   "items": [
+    {
+      "id": "7f3df52c9ee58fd1",
+      "title": "Em agosto, indústria recua em dez dos 15 locais pesquisados",
+      "summary": "Em agosto de 2026, a produção industrial nacional recuou -0,6% frente ao mês anterior, na série com ajuste sazonal, com dez dos quinze locais pesquisados apresentando resultados negativos. As reduções mais acentuadas ocorreram no Pará (-7,3%), Amazonas (-5,7%) e Rio Grande do Sul...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "produção industrial"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48242-em-agosto-industria-recua-em-dez-dos-15-locais-pesquisados.html",
+      "published_at": "2026-10-08T09:00:00+00:00",
+      "collected_at": "2026-10-08T15:18:00.645427+00:00"
+    },
     {
       "id": "5a371b0d57a9b88d",
       "title": "Consulta Pública SNC 01/26",
