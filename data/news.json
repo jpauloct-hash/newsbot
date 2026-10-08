@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-10-08T15:18:04.927550+00:00",
-  "total": 257,
+  "updated_at": "2026-10-08T21:05:34.568855+00:00",
+  "total": 259,
   "items": [
+    {
+      "id": "7a7470f3d2c26f26",
+      "title": "EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 24 DE 01.09.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE <sup>(1)</sup><br /> &bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR <sup>(2)</sup><br /> &bull; MARINA PALMA COPOLA &ndash; DIRETORA <sup>(1)...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260901_R1.html",
+      "published_at": "2026-10-08T19:29:03+00:00",
+      "collected_at": "2026-10-08T21:05:31.810277+00:00"
+    },
+    {
+      "id": "670e7cc5d91ab95d",
+      "title": "Confest/Confege 2026 terá participação internacional e debates sobre dados, inovação e estatísticas",
+      "summary": "O IBGE apresentou, nesta quinta-feira (8/10), a programação internacional da Conferência Nacional dos Agentes Produtores e Usuários de Dados (Confest/Confege) 2026, no Auditório Joaquim Victor de Holanda, na sede da Federação das Indústrias do Estado do Rio Grande do Norte (Fiern...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48253-confest-coletiva-apresenta-programacao-internacional-2026.html",
+      "published_at": "2026-10-08T04:10:32+00:00",
+      "collected_at": "2026-10-08T21:05:25.869551+00:00"
+    },
     {
       "id": "7f3df52c9ee58fd1",
       "title": "Em agosto, indústria recua em dez dos 15 locais pesquisados",
