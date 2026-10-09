@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-08T21:05:34.568855+00:00",
-  "total": 259,
+  "updated_at": "2026-10-09T01:47:28.443992+00:00",
+  "total": 260,
   "items": [
+    {
+      "id": "64725e463e76a247",
+      "title": "ATA DA REUNIÃO DO COLEGIADO Nº 5 DE 17.03.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR (PRESIDENTE INTERINO)</strong><sup><strong> (1)</strong></sup><br /> <strong> &bull; MARINA PALMA COPOLA DE CARVALHO &ndash; DIRETORA<sup> (1)</sup><br /> </stro...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260317_R1.html",
+      "published_at": "2026-10-08T21:12:58+00:00",
+      "collected_at": "2026-10-09T01:47:24.818240+00:00"
+    },
     {
       "id": "7a7470f3d2c26f26",
       "title": "EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 24 DE 01.09.2026",

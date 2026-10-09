@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 08 Oct 2026 21:05:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 01:47:28 +0000</lastBuildDate>
+    <item>
+      <title>ATA DA REUNIÃO DO COLEGIADO Nº 5 DE 17.03.2026</title>
+      <link>http://www.cvm.gov.br/decisoes/2026/20260317_R1.html</link>
+      <description>&lt;p&gt;Tipo: Ordinária&lt;/p&gt; &lt;p&gt;Participantes:&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;strong&gt;&amp;bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &amp;ndash; DIRETOR (PRESIDENTE INTERINO)&lt;/strong&gt;&lt;sup&gt;&lt;strong&gt; (1)&lt;/strong&gt;&lt;/sup&gt;&lt;br /&gt; &lt;strong&gt; &amp;bull; MARINA PALMA COPOLA DE CARVALHO &amp;ndash; DIRETORA&lt;sup&gt; (1)&lt;/sup&gt;&lt;br /&gt; &lt;/stro...</description>
+      <category>Regulatorio</category>
+      <guid>64725e463e76a247</guid>
+      <pubDate>Thu, 08 Oct 2026 21:12:58 +0000</pubDate>
+    </item>
     <item>
       <title>EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 24 DE 01.09.2026</title>
       <link>http://www.cvm.gov.br/decisoes/2026/20260901_R1.html</link>
@@ -397,14 +405,6 @@
       <category>Regulatorio</category>
       <guid>2e9bcee83f319dc3</guid>
       <pubDate>Wed, 26 Aug 2026 22:05:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>IPCA-15 é de -0,40% em agosto</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47847-ipca-15-e-de-0-40-em-agosto.html</link>
-      <description>O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15) foi de -0,40%, ficando 0,46 ponto percentual (p.p.) abaixo da taxa registrada em julho (0,06%). No ano, o IPCA-15 acumula alta de 3,09% e, em 12 meses, de 4,24%, abaixo dos 4,52% registrados nos 12 meses imediatamente a...</description>
-      <category>Politica Monetaria</category>
-      <guid>dbc058f06b2ae083</guid>
-      <pubDate>Wed, 26 Aug 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
