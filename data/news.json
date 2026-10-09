@@ -1,7 +1,24 @@
 {
-  "updated_at": "2026-10-09T08:35:23.763236+00:00",
-  "total": 260,
+  "updated_at": "2026-10-09T15:52:34.977588+00:00",
+  "total": 261,
   "items": [
+    {
+      "id": "8b5f8efe944fdd26",
+      "title": "IPCA fica em 0,82% em setembro",
+      "summary": "O Índice Nacional de Preços ao Consumidor Amplo (IPCA) de setembro foi de 0,82%, 1,14 ponto percentual (p.p.) acima do -0,32% registrado em agosto. No ano, o IPCA acumula alta de 3,95% e, nos últimos 12 meses, o índice ficou em 4,58%, acima dos 4,22% dos 12 meses imediatamente an...",
+      "category": "Politica Monetaria",
+      "relevance": "alta",
+      "keywords": [
+        "ipca",
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48246-ipca-fica-em-0-82-em-setembro.html",
+      "published_at": "2026-10-09T09:00:00+00:00",
+      "collected_at": "2026-10-09T15:52:31.297206+00:00"
+    },
     {
       "id": "64725e463e76a247",
       "title": "ATA DA REUNIÃO DO COLEGIADO Nº 5 DE 17.03.2026",

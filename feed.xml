@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Fri, 09 Oct 2026 08:35:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 15:52:34 +0000</lastBuildDate>
+    <item>
+      <title>IPCA fica em 0,82% em setembro</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48246-ipca-fica-em-0-82-em-setembro.html</link>
+      <description>O Índice Nacional de Preços ao Consumidor Amplo (IPCA) de setembro foi de 0,82%, 1,14 ponto percentual (p.p.) acima do -0,32% registrado em agosto. No ano, o IPCA acumula alta de 3,95% e, nos últimos 12 meses, o índice ficou em 4,58%, acima dos 4,22% dos 12 meses imediatamente an...</description>
+      <category>Politica Monetaria</category>
+      <guid>8b5f8efe944fdd26</guid>
+      <pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ATA DA REUNIÃO DO COLEGIADO Nº 5 DE 17.03.2026</title>
       <link>http://www.cvm.gov.br/decisoes/2026/20260317_R1.html</link>
@@ -397,14 +405,6 @@
       <category>Mercado de Capitais</category>
       <guid>76eea1754c35d252</guid>
       <pubDate>Thu, 27 Aug 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 23 DE 25.08.2026</title>
-      <link>http://www.cvm.gov.br/decisoes/2026/20260825_R1.html</link>
-      <description>&lt;p&gt;Tipo: Ordinária&lt;/p&gt; &lt;p&gt;Participantes:&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;strong&gt;&amp;bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &amp;ndash; PRESIDENTE&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&amp;bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &amp;ndash; DIRETOR &lt;/strong&gt;&lt;sup&gt;&lt;strong&gt;(1)&lt;/strong&gt;&lt;/sup&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&amp;bull; IGOR MU...</description>
-      <category>Regulatorio</category>
-      <guid>2e9bcee83f319dc3</guid>
-      <pubDate>Wed, 26 Aug 2026 22:05:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
