@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-14T07:13:53.986062+00:00",
-  "total": 261,
+  "updated_at": "2026-10-14T13:24:18.604955+00:00",
+  "total": 262,
   "items": [
+    {
+      "id": "2b26813e63a77f50",
+      "title": "Volume dos Serviços varia -0,1% em agosto",
+      "summary": "Período Variação (%) Volume Receita Nominal Agosto 26 / Julho 26* -0,1 0,2 Agosto 26 / Agosto 25 0,6 6,1 Acumulada Janeiro-Agosto 1,7 7,4 Acumulada em 12 Meses 2,2 7,5 * série com ajuste sazonal Em agosto de 2026, o volume de serviços no Brasil teve variação negativa de 0,1% fren...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48279-volume-dos-servicos-varia-0-1-em-agosto.html",
+      "published_at": "2026-10-14T09:00:00+00:00",
+      "collected_at": "2026-10-14T13:24:13.693421+00:00"
+    },
     {
       "id": "8b5f8efe944fdd26",
       "title": "IPCA fica em 0,82% em setembro",

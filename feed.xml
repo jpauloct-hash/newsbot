@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Wed, 14 Oct 2026 07:13:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 13:24:18 +0000</lastBuildDate>
+    <item>
+      <title>Volume dos Serviços varia -0,1% em agosto</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48279-volume-dos-servicos-varia-0-1-em-agosto.html</link>
+      <description>Período Variação (%) Volume Receita Nominal Agosto 26 / Julho 26* -0,1 0,2 Agosto 26 / Agosto 25 0,6 6,1 Acumulada Janeiro-Agosto 1,7 7,4 Acumulada em 12 Meses 2,2 7,5 * série com ajuste sazonal Em agosto de 2026, o volume de serviços no Brasil teve variação negativa de 0,1% fren...</description>
+      <category>Resultado Financeiro</category>
+      <guid>2b26813e63a77f50</guid>
+      <pubDate>Wed, 14 Oct 2026 09:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>IPCA fica em 0,82% em setembro</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48246-ipca-fica-em-0-82-em-setembro.html</link>
@@ -397,14 +405,6 @@
       <category>Operacional</category>
       <guid>130bb4deff4754b5</guid>
       <pubDate>Thu, 27 Aug 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Setor de serviços emprega 15,9 milhões de pessoas e gera R$ 3,5 trilhões em receita em 2024</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47861-setor-de-servicos-emprega-15-9-milhoes-de-pessoas-e-gera-r-3-5-trilhoes-em-receita-em-2024.html</link>
-      <description>Atividade de Alimentação foi a principal empregadora no setor de serviços, com 11,7% do pessoal ocupado - Foto: Tânia Rêgo/Agência Brasil Em 2024, o setor de prestação de serviços não financeiros foi responsável pela ocupação de 15,9 milhões de pessoas, em 1,9 milhão de empresas ...</description>
-      <category>Mercado de Capitais</category>
-      <guid>76eea1754c35d252</guid>
-      <pubDate>Thu, 27 Aug 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
