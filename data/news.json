@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-10-15T01:16:13.533515+00:00",
-  "total": 262,
+  "updated_at": "2026-10-15T07:05:19.460663+00:00",
+  "total": 263,
   "items": [
+    {
+      "id": "6b4c93cc14a6af90",
+      "title": "ATA DA REUNIÃO DO COLEGIADO Nº 37 DE 14.10.2025",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE INTERINO <sup>(1)</sup></strong></p> <p><strong>&bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR <sup>(2)</sup></strong></p> <p><strong>&bull; ...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2025/20251014_R1.html",
+      "published_at": "2026-10-15T04:26:17+00:00",
+      "collected_at": "2026-10-15T07:05:16.306574+00:00"
+    },
     {
       "id": "2b26813e63a77f50",
       "title": "Volume dos Serviços varia -0,1% em agosto",

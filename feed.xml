@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 15 Oct 2026 01:16:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 07:05:19 +0000</lastBuildDate>
+    <item>
+      <title>ATA DA REUNIÃO DO COLEGIADO Nº 37 DE 14.10.2025</title>
+      <link>http://www.cvm.gov.br/decisoes/2025/20251014_R1.html</link>
+      <description>&lt;p&gt;Tipo: Ordinária&lt;/p&gt; &lt;p&gt;Participantes:&lt;/p&gt; &lt;p&gt;&lt;p&gt;&lt;strong&gt;&amp;bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &amp;ndash; PRESIDENTE INTERINO &lt;sup&gt;(1)&lt;/sup&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&amp;bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &amp;ndash; DIRETOR &lt;sup&gt;(2)&lt;/sup&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&amp;bull; ...</description>
+      <category>Regulatorio</category>
+      <guid>6b4c93cc14a6af90</guid>
+      <pubDate>Thu, 15 Oct 2026 04:26:17 +0000</pubDate>
+    </item>
     <item>
       <title>Volume dos Serviços varia -0,1% em agosto</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48279-volume-dos-servicos-varia-0-1-em-agosto.html</link>
@@ -397,14 +405,6 @@
       <category>Mercado de Capitais</category>
       <guid>69f548f0a0961107</guid>
       <pubDate>Thu, 27 Aug 2026 04:04:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>PNAD Contínua: desocupação é de 5,3% e subutilização é de 13,0% no trimestre encerrado em julho</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/47849-pnad-continua-desocupacao-e-de-5-3-e-subutilizacao-e-de-13-0-no-trimestre-encerrado-em-julho.html</link>
-      <description>A taxa de desocupação (5,3%) no trimestre encerrado em julho caiu 0,5 p.p. (ponto percentual) frente ao trimestre terminado em abril (5,8%) e recuou 0,3 p.p. ante o trimestre de maio a julho de 2025 (5,6%). Indicador/Período Mai-Jun-Jul 2026 Fev-Mar-Abr 2026 Mai-Jun-Jul 2025 Taxa...</description>
-      <category>Operacional</category>
-      <guid>130bb4deff4754b5</guid>
-      <pubDate>Thu, 27 Aug 2026 09:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
