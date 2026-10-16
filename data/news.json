@@ -1,7 +1,67 @@
 {
-  "updated_at": "2026-10-16T10:54:33.403100+00:00",
-  "total": 263,
+  "updated_at": "2026-10-16T15:17:39.963665+00:00",
+  "total": 267,
   "items": [
+    {
+      "id": "be7d68854464185d",
+      "title": "Em setembro, safra prevista pelo IBGE para 2026 é de 354,5 milhões de toneladas",
+      "summary": "A estimativa de setembro do IBGE para a produção de grãos em 2026 foi de 354,5 milhões de toneladas, 2,4% (8,4 milhões de toneladas) maior que a obtida em 2025 (346,1 milhões de toneladas). Em relação a agosto de 2026, houve aumento de 1.566.233 toneladas (0,4%) na estimativa de ...",
+      "category": "Operacional",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48289-em-setembro-safra-prevista-pelo-ibge-para-2026-e-de-354-5-milhoes-de-toneladas.html",
+      "published_at": "2026-10-15T09:00:00+00:00",
+      "collected_at": "2026-10-16T15:17:34.770224+00:00"
+    },
+    {
+      "id": "d59ddd1986567d60",
+      "title": "Em agosto, comércio varejista registra variação de 0,1%",
+      "summary": "Em agosto de 2026, o volume de vendas no comércio varejista registrou variação de 0,1% frente a julho, na série com ajuste sazonal, após queda de 0,8% em julho de 2026. Com isso, a média móvel trimestral para o varejo, depois de recuar 0,1% no trimestre encerrado em julho de 2026...",
+      "category": "Operacional",
+      "relevance": "alta",
+      "keywords": [
+        "varejo"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48292-em-agosto-comercio-varejista-registra-variacao-0-1.html",
+      "published_at": "2026-10-15T09:00:00+00:00",
+      "collected_at": "2026-10-16T15:17:29.725068+00:00"
+    },
+    {
+      "id": "2563b7a83f7b56d0",
+      "title": "IBGE propõe metodologia para orientar levantamentos sobre a flora brasileira",
+      "summary": "Metodologia pode apoiar o planejamento de pesquisas, a ampliação de acervos científicos e a produção de estatísticas e indicadores relacionados à biodiversidade - Foto: Foto: Licia Rubinstein/Agência IBGE Notícias O Instituto Brasileiro de Geografia e Estatística (IBGE) divulgou,...",
+      "category": "Resultado Financeiro",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48294-ibge-propoe-metodologia-para-orientar-levantamentos-sobre-a-flora-brasileira.html",
+      "published_at": "2026-10-15T10:00:00+00:00",
+      "collected_at": "2026-10-16T15:17:24.726714+00:00"
+    },
+    {
+      "id": "caec44d0fcfc5a28",
+      "title": "País tinha 1,5 milhão de crianças e adolescentes em situação de trabalho infantil em 2025",
+      "summary": "Na análise por grupos etários, o trabalho infantil tende a aumentar com o avanço da idade. - Foto: Ministério do Trabalho O país tinha 1,499 milhão de crianças e adolescentes entre 5 e 17 anos em situação de trabalho infantil em 2025, o que representa 4,0% da população dessa faix...",
+      "category": "Operacional",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48304-pais-tinha-1-5-milhao-de-criancas-e-adolescentes-em-situacao-de-trabalho-infantil-em-2025.html",
+      "published_at": "2026-10-16T10:00:00+00:00",
+      "collected_at": "2026-10-16T15:17:19.721459+00:00"
+    },
     {
       "id": "6b4c93cc14a6af90",
       "title": "ATA DA REUNIÃO DO COLEGIADO Nº 37 DE 14.10.2025",
