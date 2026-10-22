@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-10-22T07:14:19.471265+00:00",
-  "total": 267,
+  "updated_at": "2026-10-22T13:33:48.456828+00:00",
+  "total": 268,
   "items": [
+    {
+      "id": "4d5119d44a0b7da0",
+      "title": "IBGE apresenta metodologia de avaliação de ecossistemas no Rio de Janeiro e na Caatinga",
+      "summary": "Região da Caatinga em Pernambuco. - Foto: Sudene. O IBGE divulga hoje (22) um estudo experimental para integrar informações sobre a extensão e a condição dos ecossistemas protegidos utilizando a metodologia das Contas Econômicas Ambientais - Contas de Ecossistemas aplicada às Uni...",
+      "category": "Mercado de Capitais",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48335-ibge-apresenta-metodologia-de-avaliacao-de-ecossistemas-no-rio-de-janeiro-e-na-caatinga.html",
+      "published_at": "2026-10-22T10:00:00+00:00",
+      "collected_at": "2026-10-22T13:33:44.683710+00:00"
+    },
     {
       "id": "be7d68854464185d",
       "title": "Em setembro, safra prevista pelo IBGE para 2026 é de 354,5 milhões de toneladas",

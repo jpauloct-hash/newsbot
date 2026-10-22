@@ -5,7 +5,15 @@
     <link>https://jpauloct-hash.github.io/newsbot</link>
     <description>Resumos de notícias financeiras gerados por IA</description>
     <language>pt-BR</language>
-    <lastBuildDate>Thu, 22 Oct 2026 07:14:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 13:33:48 +0000</lastBuildDate>
+    <item>
+      <title>IBGE apresenta metodologia de avaliação de ecossistemas no Rio de Janeiro e na Caatinga</title>
+      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48335-ibge-apresenta-metodologia-de-avaliacao-de-ecossistemas-no-rio-de-janeiro-e-na-caatinga.html</link>
+      <description>Região da Caatinga em Pernambuco. - Foto: Sudene. O IBGE divulga hoje (22) um estudo experimental para integrar informações sobre a extensão e a condição dos ecossistemas protegidos utilizando a metodologia das Contas Econômicas Ambientais - Contas de Ecossistemas aplicada às Uni...</description>
+      <category>Mercado de Capitais</category>
+      <guid>4d5119d44a0b7da0</guid>
+      <pubDate>Thu, 22 Oct 2026 10:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Em setembro, safra prevista pelo IBGE para 2026 é de 354,5 milhões de toneladas</title>
       <link>http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48289-em-setembro-safra-prevista-pelo-ibge-para-2026-e-de-354-5-milhoes-de-toneladas.html</link>
@@ -397,14 +405,6 @@
       <category>Fiscal</category>
       <guid>20230a7c46628710</guid>
       <pubDate>Tue, 01 Sep 2026 09:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IBGE disponibiliza microdados da amostra do Censo 2022 com novo modelo e reforço à confidencialidade</title>
-      <link>http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/47888-ibge-disponibiliza-microdados-da-amostra-do-censo-demografico-2022-com-novo-modelo-de-acesso-e-reforco-a-confidencialidade.html</link>
-      <description>Os microdados são compostos por registros individuais de domicílios, famílias, mortalidade e pessoas, preservando o anonimato dos informantes - Foto: Ilustração O Instituto Brasileiro de Geografia e Estatística (IBGE) disponibilizou, nesta segunda-feira (31), os microdados da amo...</description>
-      <category>Mercado de Capitais</category>
-      <guid>96ce6058af515d47</guid>
-      <pubDate>Mon, 31 Aug 2026 10:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
