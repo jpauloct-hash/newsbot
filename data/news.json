@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-04T02:00:43.793673+00:00",
-  "total": 268,
+  "updated_at": "2026-11-04T08:56:35.303173+00:00",
+  "total": 269,
   "items": [
+    {
+      "id": "b92dea9a4d17c388",
+      "title": "EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 33 DE 03.11.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE<br /> &bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR <sup>(1)</sup><br /> &bull; MARINA PALMA COPOLA &ndash; DIRETORA <sup>(2)</sup><br /> &b...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20261103_R1.html",
+      "published_at": "2026-11-04T03:14:38+00:00",
+      "collected_at": "2026-11-04T08:56:32.624377+00:00"
+    },
     {
       "id": "4d5119d44a0b7da0",
       "title": "IBGE apresenta metodologia de avaliação de ecossistemas no Rio de Janeiro e na Caatinga",
