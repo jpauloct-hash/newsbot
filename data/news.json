@@ -1,7 +1,46 @@
 {
-  "updated_at": "2026-11-06T15:48:02.460003+00:00",
-  "total": 269,
+  "updated_at": "2026-11-06T21:24:18.800529+00:00",
+  "total": 272,
   "items": [
+    {
+      "id": "560c240c3b77422f",
+      "title": "Consulta Pública SNC 03/26",
+      "summary": "<p>Aprova o Pronunciamento Técnico CPC 34 &ndash; Exploração e Avaliação de Recursos Minerais, emitido pelo Comitê de Pronunciamentos Contábeis - CPC.</p> <p>Prazo para Manifestação: 07/12/2026</p> <p>Fase: Aberta para manifestações</p>",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "cvm_audiencias",
+      "source_name": "CVM — Audiências Públicas",
+      "url": "http://www.cvm.gov.br/audiencias_publicas/ap_snc/2026/edsnc0326.html",
+      "published_at": "2026-11-05T18:27:11+00:00",
+      "collected_at": "2026-11-06T21:24:17.256566+00:00"
+    },
+    {
+      "id": "ce98629c0267e9a7",
+      "title": "Consulta Pública SNC 04/26",
+      "summary": "<p>&nbsp;Aprova o Documento de Revisão de Pronunciamentos Técnicos n&ordm; 31 emitido pelo Comitê de Pronunciamentos Contábeis &ndash; CPC</p> <p>Prazo para Manifestação: 07/12/2026</p> <p>Fase: Aberta para manifestações</p>",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "cvm_audiencias",
+      "source_name": "CVM — Audiências Públicas",
+      "url": "http://www.cvm.gov.br/audiencias_publicas/ap_snc/2026/edsnc0426.html",
+      "published_at": "2026-11-05T18:27:42+00:00",
+      "collected_at": "2026-11-06T21:24:12.324648+00:00"
+    },
+    {
+      "id": "c530d381bb17e921",
+      "title": "Consulta Pública SNC 05/26",
+      "summary": "<p>Aprova a Orientação Técnica OCPC n&ordm; 06(R1) -&nbsp;Apresentação de Informações Financeiras Pro Forma, emitida pelo Comitê de Pronunciamentos Contábeis - CPC.</p> <p>Prazo para Manifestação: 07/12/2026</p> <p>Fase: Aberta para manifestações</p>",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "cvm_audiencias",
+      "source_name": "CVM — Audiências Públicas",
+      "url": "http://www.cvm.gov.br/audiencias_publicas/ap_snc/2026/edsnc0526.html",
+      "published_at": "2026-11-05T18:32:57+00:00",
+      "collected_at": "2026-11-06T21:24:07.388826+00:00"
+    },
     {
       "id": "b92dea9a4d17c388",
       "title": "EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 33 DE 03.11.2026",
