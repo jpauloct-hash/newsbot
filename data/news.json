@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-09T09:22:07.348449+00:00",
-  "total": 272,
+  "updated_at": "2026-11-09T20:33:09.302971+00:00",
+  "total": 273,
   "items": [
+    {
+      "id": "d4d96b848beac901",
+      "title": "Consulta Pública SDM 02/2025",
+      "summary": "<p><font color=\"#172938\" face=\"arial\"><span style=\"font-size: 14px;\">Alteração da Resolução CVM n&ordm; 9, de 2020, para realinhamento da regulamentação brasileira às normas aplicáveis ao mercado de capitais europeu sobre a atividade de classificação de risco de crédito.</span></...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_audiencias",
+      "source_name": "CVM — Audiências Públicas",
+      "url": "http://www.cvm.gov.br/audiencias_publicas/ap_sdm/2025/sdm0225.html",
+      "published_at": "2026-11-09T15:41:37+00:00",
+      "collected_at": "2026-11-09T20:33:08.200581+00:00"
+    },
     {
       "id": "560c240c3b77422f",
       "title": "Consulta Pública SNC 03/26",
