@@ -1,7 +1,20 @@
 {
-  "updated_at": "2026-11-16T05:20:05.492985+00:00",
-  "total": 273,
+  "updated_at": "2026-11-16T15:08:41.061278+00:00",
+  "total": 274,
   "items": [
+    {
+      "id": "86bf1c4faa75412d",
+      "title": "EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 21 DE 04.08.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE<br /> &bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR<br /> &bull; MARINA PALMA COPOLA &ndash; DIRETORA <sup>(1)</sup><br /> &bull; IGOR MUNIZ...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260804_R1.html",
+      "published_at": "2026-11-16T13:39:28+00:00",
+      "collected_at": "2026-11-16T15:08:38.606137+00:00"
+    },
     {
       "id": "d4d96b848beac901",
       "title": "Consulta Pública SDM 02/2025",
