@@ -1,7 +1,36 @@
 {
-  "updated_at": "2026-11-16T15:08:41.061278+00:00",
-  "total": 274,
+  "updated_at": "2026-11-17T00:01:14.175643+00:00",
+  "total": 276,
   "items": [
+    {
+      "id": "cfc2c86ba5ad9d64",
+      "title": "ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 16.11.2026",
+      "summary": "<p>Tipo: Extraordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE<br /> &bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR<br /> &bull; MARINA PALMA COPOLA &ndash; DIRETORA<br /> &bull; IGOR MUNIZ &ndash; D...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20261116_R1.html",
+      "published_at": "2026-11-16T22:56:04+00:00",
+      "collected_at": "2026-11-17T00:01:11.694127+00:00"
+    },
+    {
+      "id": "1505ed2258a42682",
+      "title": "IBGE recebe homenagem pelos seus 90 anos na Assembleia Legislativa da Bahia",
+      "summary": "A Assembleia Legislativa da Bahia (ALBA) realizou, nesta segunda-feira (16), uma sessão especial em homenagem aos 90 anos do Instituto Brasileiro de Geografia e Estatística (IBGE), celebrados em 29 de maio. A iniciativa foi proposta pelo deputado Zó (PCdoB), que também presidiu a...",
+      "category": "Mercado de Capitais",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48647-ibge-recebe-homenagem-pelos-seus-90-anos-na-assembleia-legislativa-da-bahia.html",
+      "published_at": "2026-11-16T04:29:43+00:00",
+      "collected_at": "2026-11-17T00:01:05.516756+00:00"
+    },
     {
       "id": "86bf1c4faa75412d",
       "title": "EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 21 DE 04.08.2026",
