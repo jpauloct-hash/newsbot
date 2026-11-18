@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-11-17T18:14:08.607782+00:00",
-  "total": 276,
+  "updated_at": "2026-11-18T01:30:11.907876+00:00",
+  "total": 277,
   "items": [
+    {
+      "id": "6df1cb0df7f4fd6a",
+      "title": "EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 32 DE 27.10.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE<br /> &bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR <sup>(1)</sup><br /> &bull; MARINA PALMA COPOLA &ndash; DIRETORA <sup>(2)</sup><br /> &b...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20261027_R1.html",
+      "published_at": "2026-11-17T21:10:03+00:00",
+      "collected_at": "2026-11-18T01:30:09.123485+00:00"
+    },
     {
       "id": "cfc2c86ba5ad9d64",
       "title": "ATA DA REUNIÃO EXTRAORDINÁRIA DO COLEGIADO DE 16.11.2026",
