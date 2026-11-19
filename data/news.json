@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-11-19T08:38:02.709001+00:00",
-  "total": 280,
+  "updated_at": "2026-11-19T18:00:57.466566+00:00",
+  "total": 282,
   "items": [
+    {
+      "id": "7a2f9e21abac1c55",
+      "title": "Abate de bovinos cai no terceiro trimestre, enquanto o de suínos e frangos avança",
+      "summary": "Os primeiros resultados da produção animal no terceiro trimestre de 2026 revelam que 9,82 milhões de cabeças de bovinos foram abatidas. O número representa uma redução de 13,4% em relação ao mesmo período do ano anterior e, de 8,4% ante o segundo trimestre de 2026. A produção de ...",
+      "category": "Resultado Financeiro",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48679-abate-de-bovinos-cai-no-terceiro-trimestre-enquanto-o-de-suinos-e-frangos-avanca.html",
+      "published_at": "2026-11-19T09:00:00+00:00",
+      "collected_at": "2026-11-19T18:00:52.673527+00:00"
+    },
+    {
+      "id": "9406c7065c296993",
+      "title": "Abate de bovinos tem queda anual no terceiro trimestre, enquanto o de suínos e frangos avança",
+      "summary": "No terceiro trimestre de 2026, 9,82 milhões de cabeças de bovinos foram abatidas. Número representa uma redução de 13,4% na base de comparação anual. - Foto: Lícia Rubinstein/Agência IBGE Notícias No terceiro trimestre de 2026, 9,82 milhões de cabeças de bovinos foram abatidas. O...",
+      "category": "Resultado Financeiro",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48680-abate-de-bovinos-tem-queda-anual-no-terceiro-trimestre-enquanto-o-de-suinos-e-frangos-avanca.html",
+      "published_at": "2026-11-19T09:00:00+00:00",
+      "collected_at": "2026-11-19T18:00:47.809815+00:00"
+    },
     {
       "id": "23974fb63ebb093b",
       "title": "PNAD Contínua Trimestral: desocupação cai em 8 das 27 UFs no 3° trimestre de 2026",
