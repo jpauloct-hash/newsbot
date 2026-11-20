@@ -1,7 +1,33 @@
 {
-  "updated_at": "2026-11-19T18:00:57.466566+00:00",
-  "total": 282,
+  "updated_at": "2026-11-20T00:33:19.118857+00:00",
+  "total": 284,
   "items": [
+    {
+      "id": "0d823ec2bbb1d62f",
+      "title": "ATA DA REUNIÃO DO COLEGIADO Nº 18 DE 14.07.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE</strong><strong><br /> &bull; MARINA PALMA COPOLA &ndash; DIRETORA<sup> (1)</sup><br /> &bull; IGOR MUNIZ &ndash; DIRETOR<br /> <br /> </strong><sup><em>(...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260714_R1.html",
+      "published_at": "2026-11-19T16:18:28+00:00",
+      "collected_at": "2026-11-20T00:33:16.057816+00:00"
+    },
+    {
+      "id": "3cd30061edd8fba8",
+      "title": "EXTRATO DE ATA DA REUNIÃO DO COLEGIADO Nº 17 DE 30.06.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE</strong><strong><br /> &bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR<sup>&nbsp;(1)</sup><br /> &bull; IGOR MUNIZ &ndash; DIRETOR<br /> <br /...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260630_R1.html",
+      "published_at": "2026-11-20T00:15:27+00:00",
+      "collected_at": "2026-11-20T00:33:11.191924+00:00"
+    },
     {
       "id": "7a2f9e21abac1c55",
       "title": "Abate de bovinos cai no terceiro trimestre, enquanto o de suínos e frangos avança",
