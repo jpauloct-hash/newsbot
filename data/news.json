@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-11-25T07:26:45.285267+00:00",
-  "total": 284,
+  "updated_at": "2026-11-25T18:29:52.430539+00:00",
+  "total": 286,
   "items": [
+    {
+      "id": "6e96506df7a50e6d",
+      "title": "Coleta seletiva avança e atinge 48,1% dos municípios, mas lixões persistem pelo país",
+      "summary": "Segundo dados da Pesquisa Nacional de Saneamento Básico, 2.675 municípios possuem serviço de coleta seletiva - Foto: Marcos Oliveira/Agência Senado A coleta seletiva apresentou uma expansão significativa ao longo dos últimos 16 anos no país, alcançando, em 2024, 2.675 municípios ...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48719-coleta-seletiva-avanca-e-atinge-48-1-dos-municipios-mas-lixoes-persistem-pelo-pais.html",
+      "published_at": "2026-11-25T10:00:00+00:00",
+      "collected_at": "2026-11-25T18:29:38.515904+00:00"
+    },
+    {
+      "id": "af0c497620b4c166",
+      "title": "PNSB: 97,4% dos municípios registram serviço de drenagem e manejo de águas pluviais",
+      "summary": "Dispositivos de macrodrenagens estão presentes em 76,3% dos municípios que possuem algum serviço de drenagem e manejo de águas pluviais - Foto: Prefeitura de Tupã / Divulgação O serviço de drenagem e manejo de águas pluviais foi registrado em 97,4% dos Municípios brasileiros em 2...",
+      "category": "Resultado Financeiro",
+      "relevance": "alta",
+      "keywords": [
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48720-pnsb-97-4-dos-municipios-registram-servico-de-drenagem-e-manejo-de-aguas-pluviais.html",
+      "published_at": "2026-11-25T10:00:00+00:00",
+      "collected_at": "2026-11-25T18:29:33.667794+00:00"
+    },
     {
       "id": "0d823ec2bbb1d62f",
       "title": "ATA DA REUNIÃO DO COLEGIADO Nº 18 DE 14.07.2026",
