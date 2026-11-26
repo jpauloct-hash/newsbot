@@ -1,7 +1,68 @@
 {
-  "updated_at": "2026-11-26T11:59:08.448004+00:00",
-  "total": 286,
+  "updated_at": "2026-11-26T21:23:12.799053+00:00",
+  "total": 290,
   "items": [
+    {
+      "id": "4e2c1670c62a98cd",
+      "title": "O IPCA-15 é de 0,22% em novembro",
+      "summary": "O Índice Nacional de Preços ao Consumidor Amplo 15 (IPCA-15) apresentou alta de 0,22% em novembro, 0,10 ponto percentual (p.p.) abaixo da taxa registrada em outubro (0,32%). O IPCA-15 acumula alta de 4,38% no ano e, em 12 meses, de 4,64%, acima dos 4,62% observados nos 12 meses i...",
+      "category": "Politica Monetaria",
+      "relevance": "alta",
+      "keywords": [
+        "ipca",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48750-ipca15novrelease.html",
+      "published_at": "2026-11-26T09:00:00+00:00",
+      "collected_at": "2026-11-26T21:22:58.579092+00:00"
+    },
+    {
+      "id": "cd16f1c18b4da368",
+      "title": "Em novembro IPCA-15 é de 0,22%",
+      "summary": "Tomate é o subitem do IPCA-15 com maior variação mensal registrada em novembro, com aumento de 38,92%. - Foto: Valter Campanato/Agência Brasil A prévia da inflação apresentou alta de 0,22% em novembro, 0,10 ponto percentual (p.p.) abaixo de outubro (0,32%), resultado, principalme...",
+      "category": "Politica Monetaria",
+      "relevance": "alta",
+      "keywords": [
+        "ipca",
+        "ibge",
+        "serviços"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48751-noticiaipca15novembro.html",
+      "published_at": "2026-11-26T09:00:00+00:00",
+      "collected_at": "2026-11-26T21:22:53.705765+00:00"
+    },
+    {
+      "id": "bae0c1f0bd4f2c69",
+      "title": "Índice de Preços ao Produtor (IPP) é de 0,98% em outubro",
+      "summary": "Em outubro de 2026, os preços da indústria geral, que engloba as indústrias extrativas e de transformação, variaram 0,98% frente a setembro, terceiro resultado positivo seguido, mas abaixo da variação de setembro frente a agosto (1,53%). Nessa comparação, 15 das 24 atividades ind...",
+      "category": "Fiscal",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/48754-indice-de-precos-ao-produtor-ipp-e-de-0-98-em-outubro.html",
+      "published_at": "2026-11-26T09:00:00+00:00",
+      "collected_at": "2026-11-26T21:22:48.789484+00:00"
+    },
+    {
+      "id": "4d67fe30a44ff311",
+      "title": "Preços da indústria sobem 0,98% em outubro, puxados por alimentos e combustíveis",
+      "summary": "Carnes bovinas e de frango ficaram mais caras na porta da fábrica e mantiveram o setor de alimentos como a principal influência do IPP em outubro - Foto: Gilson Abreu/AEN Os preços da indústria brasileira subiram 0,98% em outubro de 2026. É a terceira alta seguida, mas em ritmo m...",
+      "category": "Fiscal",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48755-precos-da-industria-sobem-0-98-em-outubro-puxados-por-alimentos-e-combustiveis.html",
+      "published_at": "2026-11-26T09:00:00+00:00",
+      "collected_at": "2026-11-26T21:22:43.904573+00:00"
+    },
     {
       "id": "6e96506df7a50e6d",
       "title": "Coleta seletiva avança e atinge 48,1% dos municípios, mas lixões persistem pelo país",
