@@ -1,7 +1,52 @@
 {
-  "updated_at": "2026-11-27T03:58:14.988147+00:00",
-  "total": 290,
+  "updated_at": "2026-11-27T13:42:11.515938+00:00",
+  "total": 293,
   "items": [
+    {
+      "id": "ba69e839e2bb3c5b",
+      "title": "Desocupação fica em 5,1% e iguala menor valor da série",
+      "summary": "Ocupação em Transporte, armazenagem e correio subiu 2,6%, o equivalente a mais 164 mil pessoas - Foto: Pexels A taxa de desocupação para o trimestre móvel referente aos meses de agosto a outubro de 2026 ficou em 5,1%, e fica igual ao menor valor da série de dezembro de 2025. A in...",
+      "category": "Resultado Financeiro",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48783-desocupacao-fica-em-5-1-e-iguala-menor-valor-da-serie.html",
+      "published_at": "2026-11-27T09:00:00+00:00",
+      "collected_at": "2026-11-27T13:41:58.190399+00:00"
+    },
+    {
+      "id": "6a4be26132ba256e",
+      "title": "Despesas com alimentação e saúde ganham espaço no orçamento das famílias",
+      "summary": "Cerca de 67,9% da despesa total mensal familiar com alimentação foram destinados ao consumo dentro de casa, e 32,1% ao consumo fora. - Foto: Acervo IBGE Despesas com alimentação aumentaram a participação no orçamento total das famílias de 13,1% para 14,0% no período entre 2017-20...",
+      "category": "Fiscal",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48781-despesas-com-alimentacao-e-saude-ganham-espaco-no-orcamento-das-familias.html",
+      "published_at": "2026-11-27T10:00:00+00:00",
+      "collected_at": "2026-11-27T13:41:53.388961+00:00"
+    },
+    {
+      "id": "0759763376d2471c",
+      "title": "Famílias de maior renda recebem, em média, 34 vezes mais que as de menor renda",
+      "summary": "Entre as famílias de menor renda, a média foi de R$ 2.005,91 mensais, enquanto entre as classes mais altas o rendimento chegou a R$ 68.260,93 por mês - Foto: Alicia Nijdam/Wikimedia O rendimento total e a variação patrimonial das famílias brasileiras alcançaram, em média, R$ 9.25...",
+      "category": "Fiscal",
+      "relevance": "media",
+      "keywords": [
+        "ibge"
+      ],
+      "source_id": "ibge_noticias",
+      "source_name": "IBGE — Agência de Notícias",
+      "url": "http://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/48780-familias-de-maior-renda-recebem-em-media-34-vezes-mais-que-as-de-menor-renda.html",
+      "published_at": "2026-11-27T10:00:00+00:00",
+      "collected_at": "2026-11-27T13:41:48.581879+00:00"
+    },
     {
       "id": "4e2c1670c62a98cd",
       "title": "O IPCA-15 é de 0,22% em novembro",
