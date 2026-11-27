@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-11-27T13:42:11.515938+00:00",
-  "total": 293,
+  "updated_at": "2026-11-27T22:31:41.241718+00:00",
+  "total": 295,
   "items": [
+    {
+      "id": "e6d5067d0c8c19cc",
+      "title": "EXTRATOS DE ATA DA REUNIÃO DO COLEGIADO Nº 21 DE 04.08.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE<br /> &bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR<br /> &bull; MARINA PALMA COPOLA &ndash; DIRETORA <sup>(1)</sup><br /> &bull; IGOR MUNIZ...",
+      "category": "Mercado de Capitais",
+      "relevance": "media",
+      "keywords": [],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20260804_R1.html",
+      "published_at": "2026-11-27T22:06:27+00:00",
+      "collected_at": "2026-11-27T22:31:28.750982+00:00"
+    },
+    {
+      "id": "1050696847abe481",
+      "title": "EXTRATOS DE ATA DA REUNIÃO DO COLEGIADO Nº 32 DE 27.10.2026",
+      "summary": "<p>Tipo: Ordinária</p> <p>Participantes:</p> <p><p><strong>&bull; OTTO EDUARDO FONSECA DE ALBUQUERQUE LOBO &ndash; PRESIDENTE<br /> &bull; JOÃO CARLOS DE ANDRADE UZÊDA ACCIOLY &ndash; DIRETOR <sup>(1)</sup><br /> &bull; MARINA PALMA COPOLA &ndash; DIRETORA <sup>(2)</sup><br /> &b...",
+      "category": "Regulatorio",
+      "relevance": "media",
+      "keywords": [
+        "cvm"
+      ],
+      "source_id": "cvm_decisoes",
+      "source_name": "CVM — Decisões do Colegiado",
+      "url": "http://www.cvm.gov.br/decisoes/2026/20261027_R1.html",
+      "published_at": "2026-11-27T22:09:48+00:00",
+      "collected_at": "2026-11-27T22:31:24.093662+00:00"
+    },
     {
       "id": "ba69e839e2bb3c5b",
       "title": "Desocupação fica em 5,1% e iguala menor valor da série",
